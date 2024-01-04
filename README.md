@@ -8,9 +8,9 @@
 
 🌐 for websites     ।  🤖 for Telegram bots
 
-Spotify Client
-Customizations For Spotify 
-Lyrics For Spotify 
+[Spotify Client](https://github.com/MoonWalker440/Music-Megathread#spotify-clients)
+[Customizations For Spotify](https://github.com/MoonWalker440/Music-Megathread#customizations-for-spotify) 
+[Lyrics For Spotify](https://github.com/MoonWalker440/Music-Megathread#lyrics-for-spotify)
 
 
 ### Spotify Clients
