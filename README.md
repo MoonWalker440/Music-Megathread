@@ -67,4 +67,4 @@
 
 ### Transfer Your Music Library
 
-[TuneMyMusic](http://tunemymusic.com/)🌐 -
+[TuneMyMusic](http://tunemymusic.com/)🌐 - Transfer your music library from any music service to any other you want! Supports Spotify, TIDAL, Apple Music, YouTube, Amazon Music, Deezer and many more
