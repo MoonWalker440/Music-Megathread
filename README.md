@@ -63,15 +63,15 @@
 
 ### Downloader Site
 
-[Double Double](https://doubledouble.top/)🌐- Allows users to download songs from any music service without any ads and in full highest quality
+[Double Double](https://doubledouble.top/)🌐
 
-[Free Mp3 Downloader](https://free-mp3-download.net/)🌐- Free MP3 and FLAC songs downloads. Download real 320kbps MP3 and FLAC music to your computer or smartphone for free.
+[Free Mp3 Downloader](https://free-mp3-download.net/)🌐
 
-[SpotifyMate](https://spotifymate.com/)🌐- SpotifyMate is an online tool that allows you to download spotify songs, playlists and albums in mp3 for free with Spotify song downloader online.
+[SpotifyMate](https://spotifymate.com/)🌐
 
-[Qobuzdl](https://github.com/vitiko98/qobuz-dl)🌐 - A complete Lossless and Hi-Res music downloader for Qobuz
+[Qobuzdl](https://github.com/vitiko98/qobuz-dl)🌐
 
-[Soundloader](https://www.soundloaders.com/)🌐- Download every songs to mp3 for free on Apple Music, Deezer, Napster, Soundcloud, Apple Music and Youtube
+[Soundloader](https://www.soundloaders.com/)🌐
 
 ### Transfer Your Music Library
 
