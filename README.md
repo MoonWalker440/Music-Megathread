@@ -1,5 +1,10 @@
 # Music-Megathread-
-A complete Music Megathread 
+A Comprehension Music Megathread
+
+📱 for Android
+💻 for Windows
+🍏 for macOS
+🐧 for Linux
 
 
 ### Spotify Clients
