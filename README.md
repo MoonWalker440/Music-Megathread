@@ -40,4 +40,10 @@ Emoji Tags :-
 
 ### Spotify Alternatives 
 
-[
+[Blackhole](https://sangwan5688.github.io/)📱 - Blackhole is a music app created with the Purpose of high resolution music streaming experience on your phone with no advertising or paid subscriptions.
+
+[Gyawun](https://github.com/sheikhhaziq/gyavun)📱 - A Flutter application for streaming music from Jio Saavn and YouTube Music
+
+[Musify](https://github.com/gokadzev/Musify)📱 - Unlock the full potential of music: Stream effortlessly with one app!
+
+[Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose/)📱 - A simple online music player with material you in mind.
