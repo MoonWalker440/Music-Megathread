@@ -20,6 +20,12 @@
 
 [Music Downloader Apps](https://github.com/MoonWalker440/Music-Megathread#music-downloader-apps)
 
+[Downloader Site](https://github.com/MoonWalker440/Music-Megathread#downloader-site)
+
+[Transfer Your Music Library](https://github.com/MoonWalker440/Music-Megathread#transfer-your-music-library)
+
+[Telegram Bots](https://github.com/MoonWalker440/Music-Megathread#telegram-bots-)
+
 
 ### Spotify Clients
 
