@@ -41,6 +41,10 @@
 
 [Moosync](https://github.com/Moosync/Moosync) - Music player capable of playing local audio or from Youtube, Spotify and many more
 
+[Rurrd Music](https://github.com/RuurdBijlsma/Music) - A really cool Spotify and YouTube client featuring beautiful UI and tons of features.
+
+[Nuclear](https://github.com/nukeop/nuclear) - Desktop music player focused on streaming from free sources
+
 [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - A multi-purpose adblocker and skip-bypass for the Spotify for Windows (64 bit)
 
 [SpotX](https://github.com/SpotX-Official/SpotX) - Modified Spotify Client for Windows
