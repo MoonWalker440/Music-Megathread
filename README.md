@@ -41,7 +41,7 @@
 
 [Muffon](https://github.com/staniel359/muffon/)💻🐧🍏 - Advanced multi-source music streaming + discovery client for desktop. Free, clean, no login, no ads.
 
-### Spotify Alternatives 
+### Streaming Apps
 
 [Blackhole](https://sangwan5688.github.io/)📱 - Blackhole is a music app created with the Purpose of high resolution music streaming experience on your phone with no advertising or paid subscriptions.
 
@@ -51,7 +51,7 @@
 
 [Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose/)📱 - A simple online music player with material you in mind
 
-### Music Downloader
+### Music Downloader Apps
 
 [Spowlo](https://github.com/BobbyESP/Spowlo)📱 - A Spotify songs downloader for Android made with Jetpack Compose, Material You and the spotDL Python library
 
@@ -60,6 +60,8 @@
 [Spotdl](https://github.com/spotDL/spotify-downloader)💻🐧- Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found)
 
 [Downify](https://play.google.com/store/apps/details?id=com.sam.downify)📱 - With Downify, you can download your favorite Spotify playlists and albums
+
+### Downloader Site
 
 [Double Double](https://doubledouble.top/)🌐- Allows users to download songs from any music service without any ads and in full highest quality
 
