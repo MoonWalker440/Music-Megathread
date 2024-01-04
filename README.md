@@ -14,6 +14,8 @@
 
 ● [Downloader Site](https://github.com/MoonWalker440/Music-Megathread#downloader-site)
 
+● [Streaming Site](https://github.com/MoonWalker440/Music-Megathread#streaming-site)
+
 ● [Transfer Your Music Library](https://github.com/MoonWalker440/Music-Megathread#transfer-your-music-library)
 
 ● [Telegram Bots](https://github.com/MoonWalker440/Music-Megathread#telegram-bots-)
@@ -97,7 +99,7 @@
 
 [Neko Network](https://live.neko-network.net/) - Anime Music Videos
 
-[Audionotix](https://audionautix.com/) - Mood Based Streaming 
+[Audionotix](https://audionautix.com/) - Mood Based Streaming And Downloading 
 
 [YTMP : YouTube Music Player](https://ytmp.itsvg.in/) - The First and the Only YouTube Music Player that lets you play any youtube video as audio with tons of features such as Background play, Playlist merger, No Ads, and many more for free while saving up to 98% of your data.
 
