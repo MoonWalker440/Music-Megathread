@@ -8,23 +8,23 @@
 
 🌐 for websites     ।  🤖 for Telegram bots
 
-[Spotify Client](https://github.com/MoonWalker440/Music-Megathread#spotify-clients)
+● [Spotify Client](https://github.com/MoonWalker440/Music-Megathread#spotify-clients)
 
-[Customizations For Spotify](https://github.com/MoonWalker440/Music-Megathread#customizations-for-spotify)
+● [Customizations For Spotify](https://github.com/MoonWalker440/Music-Megathread#customizations-for-spotify)
 
-[Lyrics For Spotify](https://github.com/MoonWalker440/Music-Megathread#lyrics-for-spotify)
+● [Lyrics For Spotify](https://github.com/MoonWalker440/Music-Megathread#lyrics-for-spotify)
 
-[Desktop Apps](https://github.com/MoonWalker440/Music-Megathread#desktop-apps)
+● [Desktop Apps](https://github.com/MoonWalker440/Music-Megathread#desktop-apps)
 
-[Steaming Apps](https://github.com/MoonWalker440/Music-Megathread#streaming-apps)
+● [Steaming Apps](https://github.com/MoonWalker440/Music-Megathread#streaming-apps)
 
-[Music Downloader Apps](https://github.com/MoonWalker440/Music-Megathread#music-downloader-apps)
+● [Music Downloader Apps](https://github.com/MoonWalker440/Music-Megathread#music-downloader-apps)
 
-[Downloader Site](https://github.com/MoonWalker440/Music-Megathread#downloader-site)
+● [Downloader Site](https://github.com/MoonWalker440/Music-Megathread#downloader-site)
 
-[Transfer Your Music Library](https://github.com/MoonWalker440/Music-Megathread#transfer-your-music-library)
+● [Transfer Your Music Library](https://github.com/MoonWalker440/Music-Megathread#transfer-your-music-library)
 
-[Telegram Bots](https://github.com/MoonWalker440/Music-Megathread#telegram-bots-)
+● [Telegram Bots](https://github.com/MoonWalker440/Music-Megathread#telegram-bots-)
 
 
 ### Spotify Clients
