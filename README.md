@@ -6,9 +6,9 @@
 
 ● [Spotify Tools](https://github.com/MoonWalker440/Music-Megathread#spotify-tools)
 
-● [Desktop Streaming Apps]()
+● [Desktop Streaming Apps](https://github.com/MoonWalker440/Music-Megathread/tree/main#desktop-streaming-apps)
 
-● [Steaming Android Apps]()
+● [Steaming Android Apps](https://github.com/MoonWalker440/Music-Megathread/tree/main#android-streaming-apps)
 
 ● [Music Downloader Apps](https://github.com/MoonWalker440/Music-Megathread#music-downloader-apps)
 
