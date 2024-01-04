@@ -55,7 +55,7 @@
 
 [Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose/)📱 - A simple online music player with material you in mind
 
-### Music Downloader Apps
+### Music Downloader
 
 [Spowlo](https://github.com/BobbyESP/Spowlo)📱 - A Spotify songs downloader for Android made with Jetpack Compose, Material You and the spotDL Python library
 
@@ -64,6 +64,12 @@
 [Spotdl](https://github.com/spotDL/spotify-downloader)💻🐧- Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found)
 
 [Downify](https://play.google.com/store/apps/details?id=com.sam.downify)📱 - With Downify, you can download your favorite Spotify playlists and albums
+
+[Double Double](https://doubledouble.top/)🌐- Allows users to download songs from any music service without any ads and in full highest quality
+
+[Free Mp3 Downloader](https://free-mp3-download.net/)🌐- Free MP3 and FLAC songs downloads. Download real 320kbps MP3 and FLAC music to your computer or smartphone for free.
+
+[SpotifyMate](https://spotifymate.com/)🌐- SpotifyMate is an online tool that allows you to download spotify songs, playlists and albums in mp3 for free with Spotify song downloader online.
 
 ### Transfer Your Music Library
 
