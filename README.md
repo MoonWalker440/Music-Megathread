@@ -1,7 +1,9 @@
 # Music-Megathread-
 A Comprehension Music Megathread
 
+Emoji Tags :-
 📱 for Android
+
 💻 for Windows
 🍏 for macOS
 🐧 for Linux
