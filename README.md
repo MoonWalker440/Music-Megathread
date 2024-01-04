@@ -29,7 +29,7 @@
 
 ### Spotify Tools
 
-[Spicetify.app](https://spicetify.app)🐧- Powerful CLI tool to take control of the Spotify client.
+[Spicetify.app](https://spicetify.app) - Powerful CLI tool to take control of the Spotify client.
 
 [Lyricify](https://github.com/WXRIW/Lyricify-App) - A fantastic app to provide scroll lyrics for Spotify (iTunes, Music Center, QQ Music, Netease Cloud Music, and YesPlayMusic are only supported by Lyricify 3).
 
