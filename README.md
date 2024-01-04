@@ -99,9 +99,13 @@
 
 [Neko Network](https://live.neko-network.net/) - Anime Music Videos
 
-[Audionotix](https://audionautix.com/) - Mood Based Streaming And Downloading 
+[Audionotix](https://audionautix.com/) - Mood Based Streaming And Downloading
 
-[YTMP : YouTube Music Player](https://ytmp.itsvg.in/) - The First and the Only YouTube Music Player that lets you play any youtube video as audio with tons of features such as Background play, Playlist merger, No Ads, and many more for free while saving up to 98% of your data.
+[Beatbump](https://beatbump.io/) - A privacy-respecting alternative frontend for YouTube Music
+
+[Hyperpipe](https://hyperpipe.surge.sh/) - Another foss alternative for music lovers 
+
+[YTMP : YouTube Music Player](https://ytmp.itsvg.in/) - The First and the Only YouTube Music Player that lets you play any youtube video as audio with tons of features such as Background play, Playlist merger, No Ads, and many more for free
 
 ### Transfer Your Music Library 
 
