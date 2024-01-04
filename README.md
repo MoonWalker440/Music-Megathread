@@ -8,6 +8,10 @@
 
 🌐 for websites     ।  🤖 for Telegram bots
 
+Spotify Client
+Customizations For Spotify 
+Lyrics For Spotify 
+
 
 ### Spotify Clients
 
