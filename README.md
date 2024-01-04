@@ -1,5 +1,3 @@
-
-
 ### Music Megathread
 
 ## Emoji Tags :-
@@ -53,4 +51,14 @@
 
 [Musify](https://github.com/gokadzev/Musify)📱 - Unlock the full potential of music: Stream effortlessly with one app!
 
-[Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose/)📱 - A simple online music player with material you in mind.
+[Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose/)📱 - A simple online music player with material you in mind
+
+### Music Downloader Apps
+
+[Spowlo](https://github.com/BobbyESP/Spowlo)📱 - A Spotify songs downloader for Android made with Jetpack Compose, Material You and the spotDL Python library
+
+[SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)📱 - Kotlin Multiplatform Music Downloader, Supports Spotify / Gaana / Youtube Music / Jio Saavn / SoundCloud.
+
+[Spotdl](https://github.com/spotDL/spotify-downloader)💻🐧- A Spotify songs downloader for Android made with Jetpack Compose, Material You and the spotDL Python library
+
+[Downify](https://play.google.com/store/apps/details?id=com.sam.downify)📱 - With Downify, you can download your favorite Spotify playlists and albums
