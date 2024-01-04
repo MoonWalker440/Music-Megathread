@@ -59,6 +59,6 @@
 
 [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)📱 - Kotlin Multiplatform Music Downloader, Supports Spotify / Gaana / Youtube Music / Jio Saavn / SoundCloud.
 
-[Spotdl](https://github.com/spotDL/spotify-downloader)💻🐧- A Spotify songs downloader for Android made with Jetpack Compose, Material You and the spotDL Python library
+[Spotdl](https://github.com/spotDL/spotify-downloader)💻🐧- Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 
 [Downify](https://play.google.com/store/apps/details?id=com.sam.downify)📱 - With Downify, you can download your favorite Spotify playlists and albums
