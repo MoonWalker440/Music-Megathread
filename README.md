@@ -2,13 +2,9 @@
 
 ### Emoji Tags :-
 
-📱 for Android
+📱 for Android        💻 for Windows
 
-💻 for Windows
-
-🍏 for macOS
-
-🐧 for Linux
+🍏 for macOS       🐧 for Linux
 
 🌐 for websites
 
