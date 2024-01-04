@@ -71,6 +71,10 @@
 
 [SpotifyMate](https://spotifymate.com/)🌐- SpotifyMate is an online tool that allows you to download spotify songs, playlists and albums in mp3 for free with Spotify song downloader online.
 
+[Qobuzdl](https://github.com/vitiko98/qobuz-dl)🌐 - A complete Lossless and Hi-Res music downloader for Qobuz
+
+[Soundloader](https://www.soundloaders.com/)🌐- Download every songs to mp3 for free on Apple Music, Deezer, Napster, Soundcloud, Apple Music and Youtube
+
 ### Transfer Your Music Library
 
 [TuneMyMusic](http://tunemymusic.com/)🌐 - Transfer your music library from any music service to any other you want! Supports Spotify, TIDAL, Apple Music, YouTube, Amazon Music, Deezer and many more
