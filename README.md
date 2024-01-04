@@ -41,7 +41,9 @@
 
 [Lyricify](https://github.com/WXRIW/Lyricify-App)📱 - A fantastic app to provide scroll lyrics for Spotify (iTunes, Music Center, QQ Music, Netease Cloud Music, and YesPlayMusic are only supported by Lyricify 3).
 
-[Spotify Customizer](
+[Spotify Customizer](https://github.com/Darkempire78/Spotify-Customizer)- Chrome extension to customize Spotify web client (themes, lyrics, ...)
+
+[Spotify Lyrics](https://github.com/mantou132/Spotify-Lyrics)- Desktop Spotify Web Player Instant Synchronised Lyrics
 
 ### Desktop Apps
 
