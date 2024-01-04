@@ -6,9 +6,9 @@
 
 ● [Spotify Tools](https://github.com/MoonWalker440/Music-Megathread#spotify-tools)
 
-● [Desktop Apps](https://github.com/MoonWalker440/Music-Megathread#desktop-apps)
+● [Desktop Streaming Apps]()
 
-● [Steaming Apps](https://github.com/MoonWalker440/Music-Megathread#streaming-apps)
+● [Steaming Android Apps]()
 
 ● [Music Downloader Apps](https://github.com/MoonWalker440/Music-Megathread#music-downloader-apps)
 
@@ -39,7 +39,7 @@
 
 [Spotify Lyrics](https://github.com/mantou132/Spotify-Lyrics)- Desktop Spotify Web Player Instant Synchronised Lyrics
 
-### Desktop Apps
+### Desktop Streaming Apps
 
 [Moosync](https://github.com/Moosync/Moosync) - Music player capable of playing local audio or from Youtube, Spotify and many more
 
@@ -53,7 +53,7 @@
 
 [Muffon](https://github.com/staniel359/muffon/) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, no login, no ads.
 
-### Streaming Apps
+### Android Streaming Apps
 
 [Blackhole](https://sangwan5688.github.io/) - Blackhole is a music app created with the Purpose of high resolution music streaming experience on your phone with no advertising or paid subscriptions.
 
