@@ -89,6 +89,18 @@
 
 [Soundloader](https://www.soundloaders.com/)
 
+### Streaming Site
+
+[First Sound](https://www.firstsounds.org/) - Oldest Music Recordings
+
+[Musico](https://www.musi-co.com/listen/) - AI Generated Songs
+
+[Neko Network](https://live.neko-network.net/) - Anime Music Videos
+
+[Audionotix](https://audionautix.com/) - Mood Based Streaming 
+
+[YTMP : YouTube Music Player](https://ytmp.itsvg.in/) - The First and the Only YouTube Music Player that lets you play any youtube video as audio with tons of features such as Background play, Playlist merger, No Ads, and many more for free while saving up to 98% of your data.
+
 ### Transfer Your Music Library 
 
 [TuneMyMusic](http://tunemymusic.com/) - Transfer your music library from any music service to any other you want! Supports Spotify, TIDAL, Apple Music, YouTube, Amazon Music, Deezer and many more !!
