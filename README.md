@@ -1,6 +1,6 @@
-#### Music Megathread
+# Music Megathread
 
-# Emoji Tags :-
+### Emoji Tags :-
 
 📱 for Android
 
