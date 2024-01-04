@@ -10,9 +10,7 @@
 
 ● [Spotify Client](https://github.com/MoonWalker440/Music-Megathread#spotify-clients)
 
-● [Customizations For Spotify](https://github.com/MoonWalker440/Music-Megathread#customizations-for-spotify)
-
-● [Lyrics For Spotify](https://github.com/MoonWalker440/Music-Megathread#lyrics-for-spotify)
+● [Spotify Tools]
 
 ● [Desktop Apps](https://github.com/MoonWalker440/Music-Megathread#desktop-apps)
 
@@ -35,11 +33,9 @@
 
 [JetiSpot](https://github.com/iTaysonLab/jetispot)📱- Experimental UNOFFICIAL Spotify client for Android 
 
-### Customizations For Spotify
+### Spotify Tools
 
 [Spicetify.app](https://spicetify.app)🐧- Powerful CLI tool to take control of the Spotify client.
-
-### Lyrics for Spotify
 
 [SongSync](https://github.com/Lambada10/SongSync)📱 - A simple Android app to download lyrics (.lrc files) for songs in your music library
 
