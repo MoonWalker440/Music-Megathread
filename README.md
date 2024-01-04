@@ -38,6 +38,12 @@ Emoji Tags :-
 
 [SpotX](https://github.com/SpotX-Official/SpotX)💻 - Modified Spotify Client for Windows
 
+[Harmonoid](https://github.com/harmonoid/harmonoid)💻🐧📱 - Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
+
+[Nora](https://github.com/Sandakan/Nora)📱💻 - An elegant music player built using Electron and React. Inspired from Oto Music for Android by Piyush Mamidwar.
+
+[Muffon](https://github.com/staniel359/muffon/)💻🐧🍏 - Advanced multi-source music streaming + discovery client for desktop. Free, clean, no login, no ads.
+
 ### Spotify Alternatives 
 
 [Blackhole](https://sangwan5688.github.io/)📱 - Blackhole is a music app created with the Purpose of high resolution music streaming experience on your phone with no advertising or paid subscriptions.
