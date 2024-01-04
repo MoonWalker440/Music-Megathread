@@ -21,7 +21,7 @@
 
 ### Spotify Clients
 
-[xManager](https://github.com/Team-xManager/xManager)📱- The Ultimate Music Streaming Experience that offers unlimited skips, ad-free listening, and much more.
+[xManager](https://github.com/Team-xManager/xManager) - The Ultimate Music Streaming Experience that offers unlimited skips, ad-free listening, and much more.
 
 [Spotube](https://spotube.krtirtho.dev/) - A fast, modern, lightweight & efficient Spotify Music Client for every platform
 
@@ -55,7 +55,7 @@
 
 ### Streaming Apps
 
-[Blackhole](https://sangwan5688.github.io/)📱 - Blackhole is a music app created with the Purpose of high resolution music streaming experience on your phone with no advertising or paid subscriptions.
+[Blackhole](https://sangwan5688.github.io/) - Blackhole is a music app created with the Purpose of high resolution music streaming experience on your phone with no advertising or paid subscriptions.
 
 [Gyawun](https://github.com/sheikhhaziq/gyavun) - A Flutter application for streaming music from Jio Saavn and YouTube Music
 
@@ -63,7 +63,7 @@
 
 [Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose/) - A simple online music player with material you in mind
 
-[Jukeboxstar](https://jukeboxstar.com/)📱 - The only free music video jukebox anyone can control from their device.
+[Jukeboxstar](https://jukeboxstar.com/) - The only free music video jukebox anyone can control from their device.
 
 ### Music Downloader Apps
 
