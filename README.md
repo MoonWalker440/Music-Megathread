@@ -69,7 +69,7 @@
 
 [Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose/)📱 - A simple online music player with material you in mind
 
-[Jukeboxstar](https://jukeboxstar.com/)🌐 - The only free music video jukebox anyone can control from their device.
+[Jukeboxstar](https://jukeboxstar.com/)📱 - The only free music video jukebox anyone can control from their device.
 
 ### Music Downloader Apps
 
