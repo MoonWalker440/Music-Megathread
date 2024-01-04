@@ -10,7 +10,7 @@
 
 ● [Spotify Client](https://github.com/MoonWalker440/Music-Megathread#spotify-clients)
 
-● [Spotify Tools]
+● [Spotify Tools](https://github.com/MoonWalker440/Music-Megathread#spotify-tools)
 
 ● [Desktop Apps](https://github.com/MoonWalker440/Music-Megathread#desktop-apps)
 
