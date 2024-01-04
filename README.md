@@ -31,8 +31,6 @@
 
 [Spicetify.app](https://spicetify.app)🐧- Powerful CLI tool to take control of the Spotify client.
 
-[SongSync](https://github.com/Lambada10/SongSync) - A simple Android app to download lyrics (.lrc files) for songs in your music library
-
 [Lyricify](https://github.com/WXRIW/Lyricify-App) - A fantastic app to provide scroll lyrics for Spotify (iTunes, Music Center, QQ Music, Netease Cloud Music, and YesPlayMusic are only supported by Lyricify 3).
 
 [Spotify Customizer](https://github.com/Darkempire78/Spotify-Customizer)- Chrome extension to customize Spotify web client (themes, lyrics, ...)
