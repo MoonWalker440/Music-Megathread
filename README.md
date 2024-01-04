@@ -1,8 +1,6 @@
 # Music Megathread
 
 
-<https://graph.org//file/5ecff543382d14dc3fed9.jpg>
-
 •  [Spotify Clients](https://github.com/MoonWalker440/Music-Megathread#spotify-clients)
 
 •  [Spotify Tools](https://github.com/MoonWalker440/Music-Megathread#spotify-tools)
