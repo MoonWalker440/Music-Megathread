@@ -16,6 +16,8 @@ Emoji Tags :-
 
 [xManager](https://github.com/Team-xManager/xManager)📱- The Ultimate Music Streaming Experience that offers unlimited skips, ad-free listening, and much more.
 
+[Spotube](https://spotube.krtirtho.dev/)📱💻🐧- A fast, modern, lightweight & efficient Spotify Music Client for every platform
+
 [JetiSpot](https://github.com/iTaysonLab/jetispot)📱- Experimental UNOFFICIAL Spotify client for Android 
 
 ### Customizations For Spotify
@@ -35,3 +37,7 @@ Emoji Tags :-
 [BlockTheSpot](https://github.com/mrpond/BlockTheSpot)💻 - A multi-purpose adblocker and skip-bypass for the Spotify for Windows (64 bit)
 
 [SpotX](https://github.com/SpotX-Official/SpotX)💻 - Modified Spotify Client for Windows
+
+### Spotify Alternatives 
+
+[
