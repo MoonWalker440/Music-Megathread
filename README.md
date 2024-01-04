@@ -9,8 +9,16 @@
 🌐 for websites     ।  🤖 for Telegram bots
 
 [Spotify Client](https://github.com/MoonWalker440/Music-Megathread#spotify-clients)
-[Customizations For Spotify](https://github.com/MoonWalker440/Music-Megathread#customizations-for-spotify) 
+
+[Customizations For Spotify](https://github.com/MoonWalker440/Music-Megathread#customizations-for-spotify)
+
 [Lyrics For Spotify](https://github.com/MoonWalker440/Music-Megathread#lyrics-for-spotify)
+
+[Desktop Apps](https://github.com/MoonWalker440/Music-Megathread#desktop-apps)
+
+[Steaming Apps](https://github.com/MoonWalker440/Music-Megathread#streaming-apps)
+
+[Music Downloader Apps](https://github.com/MoonWalker440/Music-Megathread#music-downloader-apps)
 
 
 ### Spotify Clients
