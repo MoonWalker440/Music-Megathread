@@ -44,11 +44,7 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 ### Spotify Tools
 
 [Spicetify.app](https://spicetify.app) / 
-[Lyricify](https://github.com/WXRIW/Lyricify-App)
-
-[Spotify Customizer](https://github.com/Darkempire78/Spotify-Customizer)
-
-[Spotify Lyrics](https://github.com/mantou132/Spotify-Lyrics)
+[Lyricify](https://github.com/WXRIW/Lyricify-App) / [Spotify Customizer](https://github.com/Darkempire78/Spotify-Customizer) / [Spotify Lyrics](https://github.com/mantou132/Spotify-Lyrics)
 
 ### Desktop Streaming Apps
 
@@ -149,17 +145,7 @@ Telegram Bots - [Voice Shazam](https://t.me/VoiceShazamBot) , [Audd](https://t.m
 
 ### Telegram Bots 🤖
 
-[@monoearthmusicbot](https://t.me/monoearthmusicbot) / [@yotBot](https://t.me/yotBot)
-
-[@RingtoneRobot](https://t.me/RingtoneRobot)
-
-[@slowreverberbot](https://t.me/slowreverberbot)
-
-[Meph](https://t.me/mephbot)
-
-[@MadnessBeatBot](https://t.me/MadnessBeatBot)
-
-[@RadioBot](https://t.me/RadioBot)
+[@monoearthmusicbot](https://t.me/monoearthmusicbot) / [@yotBot](https://t.me/yotBot) /  [@RingtoneRobot](https://t.me/RingtoneRobot) / [@slowreverberbot](https://t.me/slowreverberbot) /  [Meph](https://t.me/mephbot) / [@MadnessBeatBot](https://t.me/MadnessBeatBot) / [@RadioBot](https://t.me/RadioBot)
 
 ### Audio Tools
 
