@@ -91,6 +91,10 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 
 [Jukeboxstar](https://jukeboxstar.com/) - The only free music video jukebox anyone can control from their device.
 
+[Simp Music Player](https://github.com/maxrave-dev/SimpMusic) - A simple music app using YouTube Music for backend.
+
+[Mellow Music](https://github.com/SuhasDissa/MellowMusic) - Online music player app using Piped API to fetch music.
+
 ### Downloader Apps
 
 [Spowlo](https://github.com/BobbyESP/Spowlo) - A Spotify songs downloader for Android made with Jetpack Compose, Material You and the spotDL Python library
