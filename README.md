@@ -121,12 +121,21 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 ### Telegram Bots 🤖
 
 [@monoearthmusicbot](https://t.me/monoearthmusicbot)
+
 [@yotBot](https://t.me/yotBot)
-[@BeatSpotBot
-[@auddbot
-[@JioDLBot
-[@FindMusicPleaseBot
-[@DeezerMusicBot
-[@MadnessBeatBot
-[@SaavnDLBot
-[@RadioBot
+
+[@BeatSpotBot](https://t.me/BeatSpotBot)
+
+[@auddbot](https://t.me/auddbot)
+
+[@JioDLBot](https://t.me/JioDLBot)
+
+[@FindMusicPleaseBot](https://t.me/FindMusicPleaseBot)
+
+[@DeezerMusicBot](https://t.me/DeezerMusicBot)
+
+[@MadnessBeatBot](https://t.me/MadnessBeatBot)
+
+[@SaavnDLBot](https://t.me/SaavnDLBot)
+
+[@RadioBot](https://t.me/RadioBot)
