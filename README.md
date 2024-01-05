@@ -21,7 +21,11 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 
 •  [Desktop Streaming Apps](https://github.com/MoonWalker440/Music-Megathread/tree/main#desktop-streaming-apps)
 
+↪️ [Offline Player](https://github.com/MoonWalker440/Music-Megathread/tree/main#offline-player)
+
 • [Android Streaming Apps](https://github.com/MoonWalker440/Music-Megathread/tree/main#android-streaming-apps)
+
+↪️ [Offline Local Player](https://github.com/MoonWalker440/Music-Megathread/tree/main#offline-local-player)
 
 •  [Downloader Apps](https://github.com/MoonWalker440/Music-Megathread#downloader-apps)
 
@@ -79,6 +83,8 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 
 [Muffon](https://github.com/staniel359/muffon/) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, no login, no ads.
 
+### Offline Player 
+
 ### Android Streaming Apps
 
 [Blackhole](https://sangwan5688.github.io/) - Blackhole is a music app created with the Purpose of high resolution music streaming experience on your phone with no advertising or paid subscriptions.
@@ -95,7 +101,7 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 
 [Mellow Music](https://github.com/SuhasDissa/MellowMusic) - Online music player app using Piped API to fetch music.
 
-### Offline Player
+### Offline Local Player
 
 [Namida](https://github.com/namidaco/namida) - A Feature-rich Material You Foss Music & Video Player app with Youtube Support
 
