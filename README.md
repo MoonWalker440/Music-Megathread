@@ -164,3 +164,13 @@ Deezer Downloader - [@DeezerMusicBot](https://t.me/DeezerMusicBot) , [@DezAltyBo
 [Tone](https://github.com/sandreas/tone) - Audio tagger and metadata editor
  [LowAudioLatency](https://github.com/spddl/LowAudioLatency/) - Reduce Audio Latency
  [SoundSwitch](https://soundswitch.aaflalo.me/) - Switch your default playback devices using hotkeys
+
+### Ambient
+
+[Calm](https://www.calm.com/app) - Meditation
+
+[Pluvior](https://pluvior.com/) , [Rainymood](https://www.rainymood.com/) - Ambient Rain
+
+[Lofi Cafe](https://www.lofi.cafe/) - Lofi Radio
+
+[Mynoise](https://mynoise.net/) - Background Noises
