@@ -1,7 +1,10 @@
 [![GitHub Logo](https://graph.org//file/5ecff543382d14dc3fed9.jpg)](https://github.com/MoonWalker440/Music-Megathread)
 
+[Join My Telegram Channel](https://t.me/moonwalkerslab)
+
 # Music Megathread
 
+## 📜 Table Of Contents
 
 •  [Spotify Clients](https://github.com/MoonWalker440/Music-Megathread#spotify-clients)
 
