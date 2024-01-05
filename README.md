@@ -132,8 +132,6 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 
 [@yotBot](https://t.me/yotBot)
 
-[@BeatSpotBot](https://t.me/BeatSpotBot)
-
 [@JioDLBot](https://t.me/JioDLBot)
 
 [@RingtoneRobot](https://t.me/RingtoneRobot)
@@ -142,9 +140,9 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 
 [Meph](https://t.me/mephbot)
 
-Song Identification - [Voice Shazam](https://t.me/VoiceShazamBot) , [Audd](https://t.me/auddbot) , [@FindMusicPleaseBot](https://t.me/FindMusicPleaseBot) , [Song Id](https://t.me/SongIDbot)
+Song Identification - [Voice Shazam](https://t.me/VoiceShazamBot) , [Audd](https://t.me/auddbot) , [@FindMusicPleaseBot](https://t.me/FindMusicPleaseBot) , [Song Id](https://t.me/SongIDbot) , [BeatSpotBot](https://t.me/BeatSpotBot)
 
-Deezer Downloader - [@DeezerMusicBot](https://t.me/DeezerMusicBot)
+Deezer Downloader - [@DeezerMusicBot](https://t.me/DeezerMusicBot) , [@DezAltyBot](https://t.me/DezAltyBot)
 
 [@MadnessBeatBot](https://t.me/MadnessBeatBot)
 
