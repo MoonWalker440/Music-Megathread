@@ -116,6 +116,8 @@ Jio Saavan Bot - [Song Downloader](https://t.me/Song_downloaderbot) , [@SaavnDLB
 
 Tidal Downloader - [Hifi Tui](https://github.com/sachinsenal0x64/Hifi-Tui) , [TMD](https://github.com/yaronzz/Tidal-Media-Downloader)
 
+Bandcamp Downloader - [bcdl](https://github.com/daot/bcdl) , [bandcamp](https://downloadmusicschool.com/bandcamp/) , [Bandcamp Download](https://github.com/Otiel/BandcampDownloader)
+
 ### Streaming Site
 
 [First Sound](https://www.firstsounds.org/) - Oldest Music Recordings
