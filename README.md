@@ -46,7 +46,11 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 
 [Spotube](https://spotube.krtirtho.dev/) - A fast, modern, lightweight & efficient Spotify Music Client for every platform
 
-[JetiSpot](https://github.com/iTaysonLab/jetispot) - Experimental UNOFFICIAL Spotify client for Android 
+[JetiSpot](https://github.com/iTaysonLab/jetispot) - Experimental UNOFFICIAL Spotify client for Android
+
+[Psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
+
+[ASMP](https://alfred-spotify-mini-player.com) - Alfred Spotify Mini Player
 
 ### Spotify Tools
 
