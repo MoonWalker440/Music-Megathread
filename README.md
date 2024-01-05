@@ -153,3 +153,9 @@ Deezer Downloader - [@DeezerMusicBot](https://t.me/DeezerMusicBot) , [@DezAltyBo
 [@SaavnDLBot](https://t.me/SaavnDLBot)
 
 [@RadioBot](https://t.me/RadioBot)
+
+### Audio Tools
+
+Audio Multi Tool Site - [AudioTool](https://audiotoolset.com/)
+
+Audio Transcriber - [Mp4grep](https://github.com/o-oconnell/mp4grep)
