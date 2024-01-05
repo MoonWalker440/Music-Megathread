@@ -22,6 +22,8 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 
 •  [Streaming Site](https://github.com/MoonWalker440/Music-Megathread#streaming-site)
 
+•  [Song Identification](https://github.com/MoonWalker440/Music-Megathread#song-identification)
+
 •  [Transfer Your Music Library](https://github.com/MoonWalker440/Music-Megathread#transfer-your-music-library)
 
 •  [Telegram Bots](https://github.com/MoonWalker440/Music-Megathread#telegram-bots-)
@@ -113,6 +115,12 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 [Hyperpipe](https://hyperpipe.surge.sh/) - Another foss alternative for music lovers 
 
 [YTMP : YouTube Music Player](https://ytmp.itsvg.in/) - The First and the Only YouTube Music Player that lets you play any youtube video as audio with tons of features such as Background play, Playlist merger, No Ads, and many more for free
+
+### Song Identification
+
+[WatZatSong](https://www.watzatsong.com/en)
+
+[Midomi](https://www.midomi.com/)
 
 ### Transfer Your Music Library 
 
