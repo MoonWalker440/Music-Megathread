@@ -138,6 +138,10 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 
 [@slowreverberbot](https://t.me/slowreverberbot)
 
+Spotify Downloader - [Spoti](https://t.me/spotifydownloadrobot)
+
+VK Music - [Zio](https://t.me/Ziyotech_Vkmbot) , [Zio2](https://t.me/ziyotech_vkmusicbot) , [Vkmus](https://t.me/vkmusbot) , [ivkm](https://t.me/ivkmbot)
+
 [Meph](https://t.me/mephbot)
 
 Song Identification - [Voice Shazam](https://t.me/VoiceShazamBot) , [Audd](https://t.me/auddbot) , [@FindMusicPleaseBot](https://t.me/FindMusicPleaseBot) , [Song Id](https://t.me/SongIDbot) , [BeatSpotBot](https://t.me/BeatSpotBot)
