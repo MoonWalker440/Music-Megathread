@@ -132,6 +132,12 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 
 [@FindMusicPleaseBot](https://t.me/FindMusicPleaseBot)
 
+[Song Id](https://t.me/SongIDbot)
+
+[Tidal Downloader](https://t.me/tidalmediadownloaderbot)
+
+[Meph](https://t.me/mephbot)
+
 [@DeezerMusicBot](https://t.me/DeezerMusicBot)
 
 [@MadnessBeatBot](https://t.me/MadnessBeatBot)
