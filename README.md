@@ -140,13 +140,11 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 
 [@slowreverberbot](https://t.me/slowreverberbot)
 
-Tidal Downloader - [Tidal](https://t.me/tidalmediadownloaderbot)
-
 [Meph](https://t.me/mephbot)
 
 Song Identification - [Voice Shazam](https://t.me/VoiceShazamBot) , [Audd](https://t.me/auddbot) , [@FindMusicPleaseBot](https://t.me/FindMusicPleaseBot) , [Song Id](https://t.me/SongIDbot)
 
-[@DeezerMusicBot](https://t.me/DeezerMusicBot)
+Deezer Downloader - [@DeezerMusicBot](https://t.me/DeezerMusicBot)
 
 [@MadnessBeatBot](https://t.me/MadnessBeatBot)
 
