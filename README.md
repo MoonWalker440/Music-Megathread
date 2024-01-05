@@ -44,7 +44,7 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 ### Spotify Tools
 
 [Spicetify.app](https://spicetify.app) / 
-[Lyricify](https://github.com/WXRIW/Lyricify-App) / [Spotify Customizer](https://github.com/Darkempire78/Spotify-Customizer) / [Spotify Lyrics](https://github.com/mantou132/Spotify-Lyrics)
+[Lyricify](https://github.com/WXRIW/Lyricify-App) / [Spotify Lyrics](https://github.com/mantou132/Spotify-Lyrics) / [Spotify Tools](https://spotifytools.romanello.xyz/) / [Spotify Cloud](https://spotifycloud.zamar-roura.com/) / [SpotiStat](https://spotistats.app/) / [Spotr](https://github.com/XDGFX/spotr) / [Versefy](https://versefy.app/)
 
 ### Desktop Streaming Apps
 
