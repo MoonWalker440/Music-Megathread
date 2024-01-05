@@ -130,9 +130,13 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 
 [@FindMusicPleaseBot](https://t.me/FindMusicPleaseBot)
 
+[@RingtoneRobot](https://t.me/RingtoneRobot)
+
+[@slowreverberbot](https://t.me/slowreverberbot)
+
 [Song Id](https://t.me/SongIDbot)
 
-[Tidal Downloader](https://t.me/tidalmediadownloaderbot)
+Tidal Downloader - [Tidal](https://t.me/tidalmediadownloaderbot)
 
 [Meph](https://t.me/mephbot)
 
