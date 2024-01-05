@@ -30,6 +30,7 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 
 •  [Audio Tools](https://github.com/MoonWalker440/Music-Megathread#audio-tools)
 
+•  [Ambient](https://github.com/MoonWalker440/Music-Megathread#ambient)
  
 
 ### Spotify Clients
@@ -140,6 +141,9 @@ Bandcamp Downloader - [bcdl](https://github.com/daot/bcdl) , [bandcamp](https://
 
 [Midomi](https://www.midomi.com/)
 
+Telegram Bots - [Voice Shazam](https://t.me/VoiceShazamBot) , [Audd](https://t.me/auddbot) , [@FindMusicPleaseBot](https://t.me/FindMusicPleaseBot) , [Song Id](https://t.me/SongIDbot) , [BeatSpotBot](https://t.me/BeatSpotBot) , [@JioDLBot](https://t.me/JioDLBot) 
+
+
 ### Transfer Your Music Library 
 
 [TuneMyMusic](https://tunemymusic.com/) - Transfer your music library from any music service to any other you want! Supports Spotify, TIDAL, Apple Music, YouTube, Amazon Music, Deezer and many more !!
@@ -155,8 +159,6 @@ Bandcamp Downloader - [bcdl](https://github.com/daot/bcdl) , [bandcamp](https://
 [@slowreverberbot](https://t.me/slowreverberbot)
 
 [Meph](https://t.me/mephbot)
-
-Song Identification - [Voice Shazam](https://t.me/VoiceShazamBot) , [Audd](https://t.me/auddbot) , [@FindMusicPleaseBot](https://t.me/FindMusicPleaseBot) , [Song Id](https://t.me/SongIDbot) , [BeatSpotBot](https://t.me/BeatSpotBot) , [@JioDLBot](https://t.me/JioDLBot) 
 
 [@MadnessBeatBot](https://t.me/MadnessBeatBot)
 
