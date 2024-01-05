@@ -42,7 +42,7 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 
 [Spicetify.app](https://spicetify.app) - Powerful CLI tool to take control of the Spotify client.
 
-[Lyricify](https://github.com/WXRIW/Lyricify-App) - A fantastic app to provide scroll lyrics for Spotify (iTunes, Music Center, QQ Music, Netease Cloud Music, and YesPlayMusic are only supported by Lyricify 3).
+[Lyricify](https://github.com/WXRIW/Lyricify-App) - A fantastic app to provide scroll lyrics for Spotify
 
 [Spotify Customizer](https://github.com/Darkempire78/Spotify-Customizer)- Chrome extension to customize Spotify web client (themes, lyrics, ...)
 
