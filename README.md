@@ -116,17 +116,17 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 
 ### Transfer Your Music Library 
 
-[TuneMyMusic](http://tunemymusic.com/) - Transfer your music library from any music service to any other you want! Supports Spotify, TIDAL, Apple Music, YouTube, Amazon Music, Deezer and many more !!
+[TuneMyMusic](https://tunemymusic.com/) - Transfer your music library from any music service to any other you want! Supports Spotify, TIDAL, Apple Music, YouTube, Amazon Music, Deezer and many more !!
 
 ### Telegram Bots 🤖
 
-@monoearthmusicbot
-@yotBot
-@BeatSpotBot
-@auddbot
-@JioDLBot
-@FindMusicPleaseBot
-@DeezerMusicBot
-@MadnessBeatBot
-@SaavnDLBot
-@RadioBot
+[@monoearthmusicbot](https://t.me/monoearthmusicbot)
+[@yotBot](https://t.me/yotBot)
+[@BeatSpotBot
+[@auddbot
+[@JioDLBot
+[@FindMusicPleaseBot
+[@DeezerMusicBot
+[@MadnessBeatBot
+[@SaavnDLBot
+[@RadioBot
