@@ -46,6 +46,10 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 [Spicetify.app](https://spicetify.app) / 
 [Lyricify](https://github.com/WXRIW/Lyricify-App) / [Spotify Lyrics](https://github.com/mantou132/Spotify-Lyrics) / [Spotify Tools](https://spotifytools.romanello.xyz/) / [Spotify Cloud](https://spotifycloud.zamar-roura.com/) / [SpotiStat](https://spotistats.app/) / [Spotr](https://github.com/XDGFX/spotr) / [Versefy](https://versefy.app/)
 
+### Spotify Themes
+
+[Spotify Customizer](https://github.com/Darkempire78/Spotify-Customizer) / [Spicetify Bloom](https://github.com/nimsandu/spicetify-bloom) / [Spicetify Fluent](https://github.com/williamckha/spicetify-fluent) / [Colorify](https://colorify.live/)
+
 ### Desktop Streaming Apps
 
 [Moosync](https://github.com/Moosync/Moosync) - Music player capable of playing local audio or from Youtube, Spotify and many more
