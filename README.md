@@ -1,6 +1,6 @@
 [![GitHub Logo](https://graph.org//file/5ecff543382d14dc3fed9.jpg)](https://github.com/MoonWalker440/Music-Megathread)
 
-[Join My Telegram Channel](https://t.me/moonwalkerslab)
+[Join My Update Channel](https://t.me/moonwalkerslab)
 
 Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll find a comprehensive list of free alternatives for music players, a variety of browser extensions, useful tools, music downloader apps, streaming sites, and even Telegram bots that can help you download any song you desire. Whether you're looking to discover new music, enhance your listening experience, or access a diverse range of music-related resources, this collection has got you covered. Explore the world of music with these amazing resources and take your music journey to the next level 🚀🚀
 
@@ -27,6 +27,8 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 •  [Transfer Your Music Library](https://github.com/MoonWalker440/Music-Megathread#transfer-your-music-library)
 
 •  [Telegram Bots](https://github.com/MoonWalker440/Music-Megathread#telegram-bots-)
+
+•  [Audio Tools]((https://github.com/MoonWalker440/Music-Megathread#audio-tools)
 
  
 
