@@ -12,6 +12,7 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 •   Spotify
 
 ↪️  [Spotify Clients](https://github.com/MoonWalker440/Music-Megathread#spotify-clients)
+
 ↪️  [Spotify Tools](https://github.com/MoonWalker440/Music-Megathread#spotify-tools)
 
 ↪️  [Spotify Themes](https://github.com/MoonWalker440/Music-Megathread#spotify-themes)
