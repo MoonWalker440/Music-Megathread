@@ -15,6 +15,8 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 
 ↪️  [Spotify Tools](https://github.com/MoonWalker440/Music-Megathread#spotify-tools)
 
+↪️  [Spotify Themes](https://github.com/MoonWalker440/Music-Megathread#spotify-themes)
+
 •  [Desktop Streaming Apps](https://github.com/MoonWalker440/Music-Megathread/tree/main#desktop-streaming-apps)
 
 • [Android Streaming Apps](https://github.com/MoonWalker440/Music-Megathread/tree/main#android-streaming-apps)
