@@ -28,7 +28,7 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 
 •  [Telegram Bots](https://github.com/MoonWalker440/Music-Megathread#telegram-bots-)
 
-•  [Audio Tools]((https://github.com/MoonWalker440/Music-Megathread#audio-tools)
+•  [Audio Tools](https://github.com/MoonWalker440/Music-Megathread#audio-tools)
 
  
 
