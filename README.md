@@ -17,6 +17,8 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 
 ↪️  [Spotify Themes](https://github.com/MoonWalker440/Music-Megathread#spotify-themes)
 
+↪️  [Spotify Adblockers](https://github.com/MoonWalker440/Music-Megathread#spotify-adblockers)
+
 •  [Desktop Streaming Apps](https://github.com/MoonWalker440/Music-Megathread/tree/main#desktop-streaming-apps)
 
 • [Android Streaming Apps](https://github.com/MoonWalker440/Music-Megathread/tree/main#android-streaming-apps)
@@ -55,6 +57,10 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 
 [Spotify Customizer](https://github.com/Darkempire78/Spotify-Customizer) / [Spicetify Bloom](https://github.com/nimsandu/spicetify-bloom) / [Spicetify Fluent](https://github.com/williamckha/spicetify-fluent) / [Colorify](https://colorify.live/)
 
+### Spotify Adblockers
+
+[UnSpotify](https://git.tcp.direct/dg/Unspotify) / [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) / [SpotX](https://github.com/SpotX-Official/SpotX)
+
 ### Desktop Streaming Apps
 
 [Moosync](https://github.com/Moosync/Moosync) - Music player capable of playing local audio or from Youtube, Spotify and many more
@@ -62,10 +68,6 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 [Rurrd Music](https://github.com/RuurdBijlsma/Music) - A really cool Spotify and YouTube client featuring beautiful UI and tons of features.
 
 [Nuclear](https://github.com/nukeop/nuclear) - Desktop music player focused on streaming from free sources
-
-[BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - A multi-purpose adblocker and skip-bypass for the Spotify for Windows (64 bit)
-
-[SpotX](https://github.com/SpotX-Official/SpotX) - Modified Spotify Client for Windows
 
 [Harmonoid](https://github.com/harmonoid/harmonoid) - Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
 
