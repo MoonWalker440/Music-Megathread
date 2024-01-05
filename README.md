@@ -16,7 +16,7 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 
 • [Android Streaming Apps](https://github.com/MoonWalker440/Music-Megathread/tree/main#android-streaming-apps)
 
-•  [Music Downloader Apps](https://github.com/MoonWalker440/Music-Megathread#music-downloader-apps)
+•  [Downloader Apps](https://github.com/MoonWalker440/Music-Megathread#downloader-apps)
 
 •  [Downloader Site](https://github.com/MoonWalker440/Music-Megathread#downloader-site)
 
@@ -76,7 +76,7 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 
 [Jukeboxstar](https://jukeboxstar.com/) - The only free music video jukebox anyone can control from their device.
 
-### Music Downloader Apps
+### Downloader Apps
 
 [Spowlo](https://github.com/BobbyESP/Spowlo) - A Spotify songs downloader for Android made with Jetpack Compose, Material You and the spotDL Python library
 
