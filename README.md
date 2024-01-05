@@ -163,3 +163,5 @@ Audio Transcriber - [Mp4grep](https://github.com/o-oconnell/mp4grep)
 Audio tagger and metadata editor - [Tone](https://github.com/sandreas/tone)
 
 Reduce Audio Latency - [LowAudioLatency](https://github.com/spddl/LowAudioLatency/)
+
+Switch your default playback devices using hotkeys - [SoundSwitch](https://soundswitch.aaflalo.me/)
