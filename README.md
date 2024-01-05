@@ -160,7 +160,7 @@ Song Identification - [Voice Shazam](https://t.me/VoiceShazamBot) , [Audd](https
 
 ### Audio Tools
 
-[AudioTool](https://audiotoolset.com/) - Audio Multi Tool Site
+[AudioTool](https://audiotoolset.com/) , [Chow multi tool](https://github.com/Chowdhury-DSP/ChowMultiTool) - Audio Multi Tool Site
 
  [Mp4grep](https://github.com/o-oconnell/mp4grep) - Audio Transcriber
 
@@ -177,3 +177,9 @@ Song Identification - [Voice Shazam](https://t.me/VoiceShazamBot) , [Audd](https
 [Lofi Cafe](https://www.lofi.cafe/) - Lofi Radio
 
 [Mynoise](https://mynoise.net/) - Background Noises
+
+[Noises](https://noises.online/) , [Moodil](https://www.moodil.com/)- Ambient
+
+[ShutEye AI](https://www.shuteye.ai/relaxing-sounds/) - Ambient Summer Sounds
+
+[Ambient Mixer](https://movies.ambient-mixer.com/) , [August Ambience](https://augustambience.com/) - Ambient Media Inspired Sounds
