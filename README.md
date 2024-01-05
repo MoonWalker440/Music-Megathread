@@ -126,8 +126,6 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 
 [@BeatSpotBot](https://t.me/BeatSpotBot)
 
-[@auddbot](https://t.me/auddbot)
-
 [@JioDLBot](https://t.me/JioDLBot)
 
 [@FindMusicPleaseBot](https://t.me/FindMusicPleaseBot)
@@ -138,7 +136,7 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 
 [Meph](https://t.me/mephbot)
 
-Song Identification - [Voice Shazam](https://t.me/VoiceShazamBot)
+Song Identification - [Voice Shazam](https://t.me/VoiceShazamBot) , [Audd](https://t.me/auddbot)
 
 [@DeezerMusicBot](https://t.me/DeezerMusicBot)
 
