@@ -43,13 +43,12 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 
 ### Spotify Tools
 
-[Spicetify.app](https://spicetify.app) - Powerful CLI tool to take control of the Spotify client.
+[Spicetify.app](https://spicetify.app) / 
+[Lyricify](https://github.com/WXRIW/Lyricify-App)
 
-[Lyricify](https://github.com/WXRIW/Lyricify-App) - A fantastic app to provide scroll lyrics for Spotify
+[Spotify Customizer](https://github.com/Darkempire78/Spotify-Customizer)
 
-[Spotify Customizer](https://github.com/Darkempire78/Spotify-Customizer)- Chrome extension to customize Spotify web client (themes, lyrics, ...)
-
-[Spotify Lyrics](https://github.com/mantou132/Spotify-Lyrics)- Desktop Spotify Web Player Instant Synchronised Lyrics
+[Spotify Lyrics](https://github.com/mantou132/Spotify-Lyrics)
 
 ### Desktop Streaming Apps
 
@@ -150,9 +149,7 @@ Telegram Bots - [Voice Shazam](https://t.me/VoiceShazamBot) , [Audd](https://t.m
 
 ### Telegram Bots 🤖
 
-[@monoearthmusicbot](https://t.me/monoearthmusicbot)
-
-[@yotBot](https://t.me/yotBot)
+[@monoearthmusicbot](https://t.me/monoearthmusicbot) / [@yotBot](https://t.me/yotBot)
 
 [@RingtoneRobot](https://t.me/RingtoneRobot)
 
