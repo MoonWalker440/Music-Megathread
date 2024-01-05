@@ -1,3 +1,5 @@
+[![GitHub Logo](https://graph.org//file/5ecff543382d14dc3fed9.jpg)](https://github.com/MoonWalker440/Music-Megathread)
+
 # Music Megathread
 
 
@@ -18,7 +20,6 @@
 •  [Transfer Your Music Library](https://github.com/MoonWalker440/Music-Megathread#transfer-your-music-library)
 
 •  [Telegram Bots](https://github.com/MoonWalker440/Music-Megathread#telegram-bots-)
-
 
  
 
