@@ -138,6 +138,8 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 
 [Meph](https://t.me/mephbot)
 
+Song Identification - [Voice Shazam](https://t.me/VoiceShazamBot)
+
 [@DeezerMusicBot](https://t.me/DeezerMusicBot)
 
 [@MadnessBeatBot](https://t.me/MadnessBeatBot)
