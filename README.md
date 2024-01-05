@@ -93,9 +93,9 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 
 ### Audio Downloading
 
-[Double Double](https://doubledouble.top/)
+[Double Double](https://doubledouble.top/) - 320kb / MP3 / FLAC
 
-[Free Mp3 Downloader](https://free-mp3-download.net/)
+[Free Mp3 Downloader](https://free-mp3-download.net/) - 320kb / MP3 / FLAC
 
 [SpotifyMate](https://spotifymate.com/)
 
