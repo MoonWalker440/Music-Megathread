@@ -19,11 +19,15 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 
 ↪️  [Spotify Adblockers](https://github.com/MoonWalker440/Music-Megathread#spotify-adblockers)
 
-•  [Desktop Streaming Apps](https://github.com/MoonWalker440/Music-Megathread/tree/main#desktop-streaming-apps)
+•  Desktop Apps
+
+↪️  [Desktop Streaming Apps](https://github.com/MoonWalker440/Music-Megathread/tree/main#desktop-streaming-apps)
 
 ↪️ [Offline Player](https://github.com/MoonWalker440/Music-Megathread/tree/main#offline-player)
 
-• [Android Streaming Apps](https://github.com/MoonWalker440/Music-Megathread/tree/main#android-streaming-apps)
+•  Android Apps
+
+↪️ [Android Streaming Apps](https://github.com/MoonWalker440/Music-Megathread/tree/main#android-streaming-apps)
 
 ↪️ [Offline Local Player](https://github.com/MoonWalker440/Music-Megathread/tree/main#offline-local-player)
 
@@ -69,7 +73,7 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 
 [UnSpotify](https://git.tcp.direct/dg/Unspotify) / [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) / [SpotX](https://github.com/SpotX-Official/SpotX)
 
-### Desktop Streaming Apps
+### Streaming Apps
 
 [Moosync](https://github.com/Moosync/Moosync) - Music player capable of playing local audio or from Youtube, Spotify and many more
 
@@ -85,7 +89,7 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 
 ### Offline Player 
 
-### Android Streaming Apps
+### Streaming Apps
 
 [Blackhole](https://sangwan5688.github.io/) - Blackhole is a music app created with the Purpose of high resolution music streaming experience on your phone with no advertising or paid subscriptions.
 
