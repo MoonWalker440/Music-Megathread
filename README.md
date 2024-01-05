@@ -91,7 +91,11 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 
 [Gyawun](https://github.com/sheikhhaziq/gyavun) - A Flutter application for streaming music from Jio Saavn and YouTube Music
 
+[Innertune](https://github.com/z-huang/InnerTune) - Material 3 YouTube Music client for Android
+
 [Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app!
+
+[Ri Music](https://github.com/fast4x/RiMusic) - A multilingual Android application for streaming music from YouTube Music.
 
 [Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose/) - A simple online music player with material you in mind
 
@@ -106,6 +110,8 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 [Namida](https://github.com/namidaco/namida) - A Feature-rich Material You Foss Music & Video Player app with Youtube Support
 
 [Salt music Player](https://play.google.com/store/apps/details?id=com.salt.music) - It is a beautiful, high quality local music player.
+
+[Apex Music](https://github.com/TheTerminatorOfProgramming/ApexMusic) - Material You Music Player
 
 ### Downloader Apps
 
