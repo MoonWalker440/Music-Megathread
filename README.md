@@ -102,13 +102,19 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 
 [Soundloader](https://www.soundloaders.com/)
 
-Deezer Downloader - [@DeezerMusicBot](https://t.me/DeezerMusicBot) , [@DezAltyBot](https://t.me/DezAltyBot) , [Deezload2](https://t.me/deezload2bot)
+Deezer Bot - [@DeezerMusicBot](https://t.me/DeezerMusicBot) , [@DezAltyBot](https://t.me/DezAltyBot) , [Deezload2](https://t.me/deezload2bot)
 
-VK Downloader - [Zio](https://t.me/Ziyotech_Vkmbot) , [Zio2](https://t.me/ziyotech_vkmusicbot) , [Vkmus](https://t.me/vkmusbot) , [ivkm](https://t.me/ivkmbot)
+VK Bot - [Zio](https://t.me/Ziyotech_Vkmbot) , [Zio2](https://t.me/ziyotech_vkmusicbot) , [Vkmus](https://t.me/vkmusbot) , [ivkm](https://t.me/ivkmbot)
 
-Spotify Downloader - [Spoti](https://t.me/spotifydownloadrobot)
+Spotify Bot - [Spoti](https://t.me/spotifydownloadrobot)
 
-Jio Saavan Downloader - [Song Downloader](https://t.me/Song_downloaderbot) , [@SaavnDLBot](https://t.me/SaavnDLBot)
+Jio Saavan Bot - [Song Downloader](https://t.me/Song_downloaderbot) , [@SaavnDLBot](https://t.me/SaavnDLBot)
+
+[Streamrip](https://github.com/nathom/streamrip) - Music downloader for Qobuz, Tidal, SoundCloud, and Deezer
+
+[Freyr-js](https://github.com/miraclx/freyr-js) - Download songs from Spotify, Apple Music and Deezer
+
+Tidal Downloader - [Hifi Tui](https://github.com/sachinsenal0x64/Hifi-Tui) , [TMD](https://github.com/yaronzz/Tidal-Media-Downloader)
 
 ### Streaming Site
 
