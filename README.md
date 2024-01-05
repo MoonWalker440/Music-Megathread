@@ -95,6 +95,12 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 
 [Mellow Music](https://github.com/SuhasDissa/MellowMusic) - Online music player app using Piped API to fetch music.
 
+### Offline Player
+
+[Namida](https://github.com/namidaco/namida) - A Feature-rich Material You Foss Music & Video Player app with Youtube Support
+
+[Salt music Player](https://play.google.com/store/apps/details?id=com.salt.music) - It is a beautiful, high quality local music player.
+
 ### Downloader Apps
 
 [Spowlo](https://github.com/BobbyESP/Spowlo) - A Spotify songs downloader for Android made with Jetpack Compose, Material You and the spotDL Python library
