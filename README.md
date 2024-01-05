@@ -156,12 +156,9 @@ Deezer Downloader - [@DeezerMusicBot](https://t.me/DeezerMusicBot) , [@DezAltyBo
 
 ### Audio Tools
 
-Audio Multi Tool Site - [AudioTool](https://audiotoolset.com/)
+[AudioTool](https://audiotoolset.com/) - Audio Multi Tool Site
+ [Mp4grep](https://github.com/o-oconnell/mp4grep) - Audio Transcriber
 
-Audio Transcriber - [Mp4grep](https://github.com/o-oconnell/mp4grep)
-
-Audio tagger and metadata editor - [Tone](https://github.com/sandreas/tone)
-
-Reduce Audio Latency - [LowAudioLatency](https://github.com/spddl/LowAudioLatency/)
-
-Switch your default playback devices using hotkeys - [SoundSwitch](https://soundswitch.aaflalo.me/)
+[Tone](https://github.com/sandreas/tone) - Audio tagger and metadata editor
+ [LowAudioLatency](https://github.com/spddl/LowAudioLatency/) - Reduce Audio Latency
+ [SoundSwitch](https://soundswitch.aaflalo.me/) - Switch your default playback devices using hotkeys
