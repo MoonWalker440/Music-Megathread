@@ -149,6 +149,21 @@ Welcome to the ultimate music lover's repository on GitHub 🎶 !! Here, you'll 
 
 [Downify](https://play.google.com/store/apps/details?id=com.sam.downify) - With Downify, you can download your favorite Spotify playlists and albums
 
+### Audio Recording
+
+[AudioMass](https://audiomass.co) - A free, open source, web-based Rudio and 
+Waveform Editor. It runs entirely in the browser with no backend and no plugins required !
+
+[SongRec](https://github.com/marin-m/SongRec) – An open source Shazam client for Linux
+
+[Libre AV Converter](https://sourceforge.net/projects/libreavconverter) - A universal media converter, recorder, video downloader, player, streaming issuer, cd ripper and editor
+
+### Mobile Audio Recording
+
+[Rehearsal Assistant](https://f-droid.org/packages/urbanstew.RehearsalAssistant/) – A voice / sound recording utility with two modes of operation
+
+[Audionote](https://github.com/certified84/AudioNote) - A simple open source audio note-taking Android application
+
 ### Audio Downloading
 
 [Double Double](https://doubledouble.top/) - 320kb / MP3 / FLAC
