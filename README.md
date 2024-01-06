@@ -45,7 +45,7 @@ Welcome to the ultimate music lover's repository on GitHub 🎶 !! Here, you'll 
 
 •  [Audio Tools](https://github.com/MoonWalker440/Music-Megathread#audio-tools)
 
-•  [Ambient Music](https://github.com/MoonWalker440/Music-Megathread#ambient-music)
+•  [Ambient Sound](https://github.com/MoonWalker440/Music-Megathread#ambient-sound)
  
 
 ### Spotify Clients
@@ -216,9 +216,11 @@ Telegram Bots - [Voice Shazam](https://t.me/VoiceShazamBot) , [Audd](https://t.m
 
 [Tone](https://github.com/sandreas/tone) - Audio tagger and metadata editor
  [LowAudioLatency](https://github.com/spddl/LowAudioLatency/) - Reduce Audio Latency
+
+[SoX](http://sox.sourceforge.net/) - It can convert audio files to other popular audio file types and also apply sound effects and filters during the conversion
  [SoundSwitch](https://soundswitch.aaflalo.me/) - Switch your default playback devices using hotkeys
 
-### Ambient Music
+### Ambient Sound
 
 [Calm](https://www.calm.com/app) - Meditation
 
@@ -233,3 +235,15 @@ Telegram Bots - [Voice Shazam](https://t.me/VoiceShazamBot) , [Audd](https://t.m
 [ShutEye AI](https://www.shuteye.ai/relaxing-sounds/) - Ambient Summer Sounds
 
 [Ambient Mixer](https://movies.ambient-mixer.com/) , [August Ambience](https://augustambience.com/) - Ambient Media Inspired Sounds
+
+### Audiobooks
+
+[Audiobooksnow](https://audiobooksnow.com/) – A collection of audiobooks, with over 95% of them available DRM-free
+
+[Scribl(https://scribl.com/info/podiobooks-now-scribl/) – Audiobooks that are are free to download and share
+
+### Audiobook Players
+
+[OpenAudible](https://github.com/openaudible/openaudible) – A cross-platform desktop application for downloading and managing your Audible audiobooks
+
+[BookPlayer](https://github.com/TortugaPower/BookPlayer) – Player for your DRM-free audiobooks
