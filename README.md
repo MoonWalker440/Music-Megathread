@@ -219,6 +219,8 @@ Bandcamp Downloader - [bcdl](https://github.com/daot/bcdl) , [bandcamp](https://
 [Tone](https://github.com/sandreas/tone) - Audio tagger and metadata editor
  [LowAudioLatency](https://github.com/spddl/LowAudioLatency/) - Reduce Audio Latency
 
+[Adobe Podcast AI](https://podcast.adobe.com/enhance) - Clean up audio for free with Adobe Podcast AI
+
 [SoX](http://sox.sourceforge.net/) - It can convert audio files to other popular audio file types and also apply sound effects and filters during the conversion
 
  [SoundSwitch](https://soundswitch.aaflalo.me/) - Switch your default playback devices using hotkeys
@@ -234,6 +236,8 @@ Bandcamp Downloader - [bcdl](https://github.com/daot/bcdl) , [bandcamp](https://
 [Tenacity](https://tenacityaudio.org) - It's an easy-to-use, cross-platform multi-track audio editor/recorder for Windows, Linux, and other operating systems
 
 [fre:ac](https://github.com/enzo1982/freac) - A free and open source audio converter. It supports audio CD ripping and tag editing and converts between various audio file formats
+
+[BeepBox](https://www.beepbox.co/) - An online tool for sketching and sharing instrumental music
 
 [Ocean Audio](https://www.ocenaudio.com) - Easy, fast and powerful audio editor
 
