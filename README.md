@@ -45,6 +45,8 @@ Welcome to the ultimate music lover's repository on GitHub 🎶 !! Here, you'll 
 
 •  [Audio Tools](https://github.com/MoonWalker440/Music-Megathread#audio-tools)
 
+•  [Audio Editing](https://github.com/MoonWalker440/Music-Megathread#audio-editing)
+
 •  [Ambient Sound](https://github.com/MoonWalker440/Music-Megathread#ambient-sound)
 
 •  [Audiobooks](https://github.com/MoonWalker440/Music-Megathread#audiobooks)
