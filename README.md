@@ -60,7 +60,7 @@ Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you
 
 •  [Podcasts / Radio](https://github.com/MoonWalker440/Music-Megathread#podcasts--radio)
 
-•  [Music Tracking / Discovery]( )
+•  [Music Tracking / Discovery](https://github.com/MoonWalker440/Music-Megathread#music-tracking--discovery)
 
 ### Spotify Clients
 
