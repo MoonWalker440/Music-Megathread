@@ -58,6 +58,8 @@ Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you
 
 •  [Ambient Sound](https://github.com/MoonWalker440/Music-Megathread#ambient-sound)
 
+•  [Podcasts / Radio]( )
+
 ### Spotify Clients
 
 [Blade](https://github.com/vhaudiquet/BladePlayer) - An open source music player for Android, allowing you to play music from multiple services
@@ -194,8 +196,6 @@ Waveform Editor. It runs entirely in the browser with no backend and no plugins 
 
 [New Album Releases](https://newalbumreleases.net/) - MP3
 
-SoundCloud Bot - [Soundloader](https://www.soundloaders.com/) / [Klickaud](https://www.klickaud.co/) / [SoundCloud-dl](https://github.com/NotTobi/soundcloud-dl)
-
 [Lossless FLAC](https://lossless-flac.com/) - FLAC
 
 [Freemp3cloud](https://freemp3cloud.com/) - 256kb / MP3
@@ -207,6 +207,8 @@ SoundCloud Bot - [Soundloader](https://www.soundloaders.com/) / [Klickaud](https
 Deezer Bot - [@DeezerMusicBot](https://t.me/DeezerMusicBot) , [@DezAltyBot](https://t.me/DezAltyBot) , [Deezload2](https://t.me/deezload2bot)
 
 VK Bot - [Zio](https://t.me/Ziyotech_Vkmbot) , [Zio2](https://t.me/ziyotech_vkmusicbot) , [Vkmus](https://t.me/vkmusbot) , [ivkm](https://t.me/ivkmbot)
+
+SoundCloud Bot - [Soundloader](https://www.soundloaders.com/) / [Klickaud](https://www.klickaud.co/) / [SoundCloud-dl](https://github.com/NotTobi/soundcloud-dl)
 
 Spotify Bot - [Spoti](https://t.me/spotifydownloadrobot) / [Motreb](https://t.me/motreb_downloader_bot) / [Music Downloader](https://t.me/Music_Downloader_Bot_Spotify) / [Spotdl](https://t.me/Spotdlrobot)
 
@@ -314,18 +316,18 @@ Telegram Bots - [Voice Shazam](https://t.me/VoiceShazamBot) , [Audd](https://t.m
 
 [Ambient Mixer](https://movies.ambient-mixer.com/) , [August Ambience](https://augustambience.com/) - Ambient Media Inspired Sounds
 
-### Podcasts/Radio
+### Podcasts / Radio
 
 [Radio Garden](https://radio.garden/) - Listen Worldwide Radio
 
 [Maps.fm](https://maps.fm/) - Find Podcasts about Anywhere
 
-[ListenBox](https://listenbox.app/) - Turn YouTube Video into Podcasts
+[ListenBox](https://listenbox.app/) - Listen and publish YouTube shows as podcasts
 
 Live Radio - [Radio.net](https://www.radio.net/) / [World radio map](https://worldradiomap.com/)
 
 [My tuner Radio](https://mytuner-radio.com/) - Radio
 
-[Anteenapod](https://antennapod.org/) - Podcast Players
+[Anteenapod](https://antennapod.org/) / [MixCloud](https://play.google.com/store/apps/details?id=com.mixcloud.player&hl=en) - Podcast Players
 
 [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict) - Podcasts
