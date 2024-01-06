@@ -255,9 +255,9 @@ Bandcamp Downloader - [bcdl](https://github.com/daot/bcdl) , [bandcamp](https://
 
 ### Audiobooks
 
-[Audiobooksnow](https://audiobooksnow.com/) – A collection of audiobooks, with over 95% of them available DRM-free
+[Audiobooksnow](https://audiobooksnow.com/) – A large collection of audiobooks, with over 95% of them available DRM-free
 
-[Scribl](https://scribl.com/info/podiobooks-now-scribl/) – Audiobooks that are are free to download and share
+[Scribl](https://scribl.com/info/podiobooks-now-scribl/) – Audiobooks that are are free to download
 
 ### Audiobook Players
 
