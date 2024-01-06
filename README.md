@@ -211,6 +211,49 @@ Tidal Downloader - [Hifi Tui](https://github.com/sachinsenal0x64/Hifi-Tui) , [TM
 
 Bandcamp Downloader - [bcdl](https://github.com/daot/bcdl) , [bandcamp](https://downloadmusicschool.com/bandcamp/) , [Bandcamp Download](https://github.com/Otiel/BandcampDownloader)
 
+### Audio Tools
+
+[AudioTool](https://audiotoolset.com/) , [Chow multi tool](https://github.com/Chowdhury-DSP/ChowMultiTool) - Audio Multi Tool Site
+
+ [Mp4grep](https://github.com/o-oconnell/mp4grep) - Audio Transcriber
+
+[Tone](https://github.com/sandreas/tone) - Audio tagger and metadata editor
+ [LowAudioLatency](https://github.com/spddl/LowAudioLatency/) - Reduce Audio Latency
+
+[SoX](http://sox.sourceforge.net/) - It can convert audio files to other popular audio file types and also apply sound effects and filters during the conversion
+
+ [SoundSwitch](https://soundswitch.aaflalo.me/) - Switch your default playback devices using hotkeys
+
+[Mofi](https://mofi.loud.red) - Song shortener. Song lengthener. Perfect loop finder
+
+[8D Audio](https://audioalter.com/preset/8d-audio) - Create 8D Audios
+
+[Moises AI](https://moises.ai) - Discover the ultimate immersive practice experience powered by AI.
+
+### Audio Editing
+
+[Tenacity](https://tenacityaudio.org) - It's an easy-to-use, cross-platform multi-track audio editor/recorder for Windows, Linux, and other operating systems
+
+[fre:ac](https://github.com/enzo1982/freac) - A free and open source audio converter. It supports audio CD ripping and tag editing and converts between various audio file formats
+
+[Ocean Audio](https://www.ocenaudio.com) - Easy, fast and powerful audio editor
+
+[Muzic](https://github.com/microsoft/muzic) - Music Understanding and Generation with Artificial Intelligence
+
+[Audioalter](https://audioalter.com) - A collection of easy-to-use web tools for all your audio files
+
+### Audiobooks
+
+[Audiobooksnow](https://audiobooksnow.com/) – A collection of audiobooks, with over 95% of them available DRM-free
+
+[Scribl](https://scribl.com/info/podiobooks-now-scribl/) – Audiobooks that are are free to download and share
+
+### Audiobook Players
+
+[OpenAudible](https://github.com/openaudible/openaudible) – A cross-platform desktop application for downloading and managing your Audible audiobooks
+
+[BookPlayer](https://github.com/TortugaPower/BookPlayer) – Player for your DRM-free audiobooks
+
 ### Streaming Site
 
 [First Sound](https://www.firstsounds.org/) - Oldest Music Recordings
@@ -246,37 +289,6 @@ Telegram Bots - [Voice Shazam](https://t.me/VoiceShazamBot) , [Audd](https://t.m
 
 [@monoearthmusicbot](https://t.me/monoearthmusicbot) / [@yotBot](https://t.me/yotBot) /  [@RingtoneRobot](https://t.me/RingtoneRobot) / [@slowreverberbot](https://t.me/slowreverberbot) /  [Meph](https://t.me/mephbot) / [@MadnessBeatBot](https://t.me/MadnessBeatBot) / [@RadioBot](https://t.me/RadioBot)
 
-### Audio Tools
-
-[AudioTool](https://audiotoolset.com/) , [Chow multi tool](https://github.com/Chowdhury-DSP/ChowMultiTool) - Audio Multi Tool Site
-
- [Mp4grep](https://github.com/o-oconnell/mp4grep) - Audio Transcriber
-
-[Tone](https://github.com/sandreas/tone) - Audio tagger and metadata editor
- [LowAudioLatency](https://github.com/spddl/LowAudioLatency/) - Reduce Audio Latency
-
-[SoX](http://sox.sourceforge.net/) - It can convert audio files to other popular audio file types and also apply sound effects and filters during the conversion
-
- [SoundSwitch](https://soundswitch.aaflalo.me/) - Switch your default playback devices using hotkeys
-
-[Mofi](https://mofi.loud.red) - Song shortener. Song lengthener. Perfect loop finder
-
-[8D Audio](https://audioalter.com/preset/8d-audio) - Create 8D Audios
-
-[Moises AI](https://moises.ai) - Discover the ultimate immersive practice experience powered by AI.
-
-### Audio Editing
-
-[Tenacity](https://tenacityaudio.org) - It's an easy-to-use, cross-platform multi-track audio editor/recorder for Windows, Linux, and other operating systems
-
-[fre:ac](https://github.com/enzo1982/freac) - A free and open source audio converter. It supports audio CD ripping and tag editing and converts between various audio file formats
-
-[Ocean Audio](https://www.ocenaudio.com) - Easy, fast and powerful audio editor
-
-[Muzic](https://github.com/microsoft/muzic) - Music Understanding and Generation with Artificial Intelligence
-
-[Audioalter](https://audioalter.com) - A collection of easy-to-use web tools for all your audio files
-
 ### Ambient Sound
 
 [Calm](https://www.calm.com/app) - Meditation
@@ -292,15 +304,3 @@ Telegram Bots - [Voice Shazam](https://t.me/VoiceShazamBot) , [Audd](https://t.m
 [ShutEye AI](https://www.shuteye.ai/relaxing-sounds/) - Ambient Summer Sounds
 
 [Ambient Mixer](https://movies.ambient-mixer.com/) , [August Ambience](https://augustambience.com/) - Ambient Media Inspired Sounds
-
-### Audiobooks
-
-[Audiobooksnow](https://audiobooksnow.com/) – A collection of audiobooks, with over 95% of them available DRM-free
-
-[Scribl](https://scribl.com/info/podiobooks-now-scribl/) – Audiobooks that are are free to download and share
-
-### Audiobook Players
-
-[OpenAudible](https://github.com/openaudible/openaudible) – A cross-platform desktop application for downloading and managing your Audible audiobooks
-
-[BookPlayer](https://github.com/TortugaPower/BookPlayer) – Player for your DRM-free audiobooks
