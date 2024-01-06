@@ -33,6 +33,10 @@ Welcome to the ultimate music lover's repository on GitHub 🎶 !! Here, you'll 
 
 •  [Downloader Apps](https://github.com/MoonWalker440/Music-Megathread#downloader-apps)
 
+•  [Audio Recording](https://github.com/MoonWalker440/Music-Megathread#audio-recording)
+
+•  [Mobile Audio Recording](https://github.com/MoonWalker440/Music-Megathread#mobile-audio-recording)
+
 •  [Audio Downloading](https://github.com/MoonWalker440/Music-Megathread#audio-downloading)
 
 •  [Streaming Site](https://github.com/MoonWalker440/Music-Megathread#streaming-site)
