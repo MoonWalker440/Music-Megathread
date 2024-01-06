@@ -18,13 +18,13 @@ Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you
 
 ↪️  [Spotify Adblockers](https://github.com/MoonWalker440/Music-Megathread#spotify-adblockers)
 
-•  Desktop Apps
+###  Desktop Apps
 
 ↪️  [Desktop Streaming Apps](https://github.com/MoonWalker440/Music-Megathread/tree/main#desktop-streaming-apps)
 
 ↪️  [Offline Player](https://github.com/MoonWalker440/Music-Megathread/tree/main#offline-player)
 
-•  Android Apps
+###  Android Apps
 
 ↪️ [Android Streaming Apps](https://github.com/MoonWalker440/Music-Megathread/tree/main#android-streaming-apps)
 
@@ -32,7 +32,7 @@ Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you
 
 •  [Downloader Apps](https://github.com/MoonWalker440/Music-Megathread#downloader-apps)
 
-•  Audio Thread
+###  Audio Thread
 
 ↪️  [Audio Recording](https://github.com/MoonWalker440/Music-Megathread#audio-recording)
 
@@ -173,6 +173,8 @@ Waveform Editor. It runs entirely in the browser with no backend and no plugins 
 [Rehearsal Assistant](https://f-droid.org/packages/urbanstew.RehearsalAssistant/) – A voice / sound recording utility with two modes of operation
 
 [Audionote](https://github.com/certified84/AudioNote) - A simple open source audio note-taking Android application
+
+[Record You](https://github.com/you-apps/RecordYou) - Privacy focused recorder app built with MD3
 
 ### Audio Downloading
 
