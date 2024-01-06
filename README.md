@@ -71,7 +71,9 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 
 ### Spotify Adblockers
 
-[UnSpotify](https://git.tcp.direct/dg/Unspotify) / [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) / [SpotX](https://github.com/SpotX-Official/SpotX)
+[UnSpotify](https://git.tcp.direct/dg/Unspotify) / [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) / [SpotX](https://github.com/SpotX-Official/SpotX) / [EZBlocker](https://github.com/Xeroday/Spotify-Ad-Blocker)
+
+👉 [Method to Get rid of Spotify ads](https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/) - Short guide on avoiding ads, banners and limited skips in Spotify 
 
 ### Desktop Streaming Apps
 
