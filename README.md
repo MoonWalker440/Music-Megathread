@@ -89,6 +89,8 @@ Welcome to the ultimate music lover's repository on GitHub 🎶 !! Here, you'll 
 
 [Muffon](https://github.com/staniel359/muffon/) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, no login, no ads.
 
+[VOX Music](https://vox.rocks/windows-music-player) - Hi-Res Music player for Windows and Mac
+
 ### Offline Player 
 
 ### Android Streaming Apps
