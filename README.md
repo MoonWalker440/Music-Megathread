@@ -97,6 +97,8 @@ Welcome to the ultimate music lover's repository on GitHub 🎶 !! Here, you'll 
 
 [Gyawun](https://github.com/sheikhhaziq/gyavun) - A Flutter application for streaming music from Jio Saavn and YouTube Music
 
+[Datmusic](https://play.google.com/store/apps/details?id=tm.alashow.datmusic) - search, play and download high quality music!
+
 [Innertune](https://github.com/z-huang/InnerTune) - Material 3 YouTube Music client for Android
 
 [Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app!
@@ -164,6 +166,8 @@ Bandcamp Downloader - [bcdl](https://github.com/daot/bcdl) , [bandcamp](https://
 [First Sound](https://www.firstsounds.org/) - Oldest Music Recordings
 
 [Musico](https://www.musi-co.com/listen/) - AI Generated Songs
+
+[Hindi lossless](https://hindi-lossless.blogspot.com/) - Losssless Hindi Songs
 
 [Neko Network](https://live.neko-network.net/) - Anime Music Videos
 
