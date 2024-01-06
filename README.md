@@ -54,11 +54,15 @@ Welcome to the ultimate music lover's repository on GitHub 🎶 !! Here, you'll 
 
 ### Spotify Clients
 
+[Blade](https://github.com/vhaudiquet/BladePlayer) - An open source music player for Android, allowing you to play music from multiple services
+
 [xManager](https://github.com/Team-xManager/xManager) - The Ultimate Music Streaming Experience that offers unlimited skips, ad-free listening, and much more.
 
 [Spotube](https://spotube.krtirtho.dev/) - A fast, modern, lightweight & efficient Spotify Music Client for every platform
 
 [JetiSpot](https://github.com/iTaysonLab/jetispot) - Experimental UNOFFICIAL Spotify client for Android
+
+[Kotify](https://github.com/dzirbel/kotify) - Multiplatform desktop client for Spotify focused on library organization for power users
 
 [Psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 
@@ -138,6 +142,8 @@ Welcome to the ultimate music lover's repository on GitHub 🎶 !! Here, you'll 
 [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify / Gaana / Youtube Music / Jio Saavn / SoundCloud.
 
 [Spotdl](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found)
+
+[Spoqify](https://spoqify.com) - It's an MIT-licensed dead-simple service that allows you to access Spotify playlists like an anonymous user. When looking at a Spotify playlist, just replace the t in spotify.com with a q, so that your address bar reads https://open.spoqify.com/..., then hit Return and you will be forwarded to an anonymized version of that playlist.
 
 [Downify](https://play.google.com/store/apps/details?id=com.sam.downify) - With Downify, you can download your favorite Spotify playlists and albums
 
