@@ -2,7 +2,7 @@
 
 [Join My Update Channel](https://t.me/moonwalkerslab)
 
-Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll find a comprehensive list of free alternatives for music players, a variety of browser extensions, useful tools, music downloader apps, streaming sites, and even Telegram bots that can help you download any song you desire. Whether you're looking to discover new music, enhance your listening experience, or access a diverse range of music-related resources, this collection has got you covered. Explore the world of music with these amazing resources and take your music journey to the next level 🚀🚀
+Welcome to the ultimate music lover's repository on GitHub 🎶 !! Here, you'll find a comprehensive list of free alternatives for music players, a variety of browser extensions, useful tools, music downloader apps, streaming sites, and even Telegram bots that can help you download any song you desire. Whether you're looking to discover new music, enhance your listening experience, or access a diverse range of music-related resources, this collection has got you covered. Explore the world of music with these amazing resources and take your music journey to the next level 🚀🚀
 
 # Music Megathread
 
@@ -118,6 +118,8 @@ Welcome to the ultimate music lover's repository on GitHub🎶 !! Here, you'll f
 [Salt music Player](https://play.google.com/store/apps/details?id=com.salt.music) - It is a beautiful, high quality local music player.
 
 [Apex Music](https://github.com/TheTerminatorOfProgramming/ApexMusic) - Material You Music Player
+
+[Musicolet](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) - An Ad-free music player 
 
 ### Downloader Apps
 
