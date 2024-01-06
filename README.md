@@ -342,7 +342,7 @@ Live Radio - [Radio.net](https://www.radio.net/) / [World radio map](https://wor
 
 ### Music Tracking / Discovery 
 
-Spotify Playlist Generators - [Spotalike](https://spotalike.com/) / [Playlist generator](https://www.playlist-generator.com/)
+Spotify Playlist Generators - [Spotalike](https://spotalike.com/) / [Playlist generator](https://www.playlist-generator.com/) / [Groovifi](https://play.google.com/store/apps/details?id=com.parshendata.groovifi)
 
 Song Discovery Tools - [Maroofy](https://maroofy.com/) / [Dubolt](https://dubolt.com/)
 
