@@ -8,7 +8,7 @@ Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you
 ## 📜 Table Of Contents
 
 
-•   Spotify
+•#   Spotify
 
 ↪️  [Spotify Clients](https://github.com/MoonWalker440/Music-Megathread#spotify-clients)
 
