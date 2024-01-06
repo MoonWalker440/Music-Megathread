@@ -283,7 +283,7 @@ Bandcamp Downloader - [bcdl](https://github.com/daot/bcdl) , [bandcamp](https://
 
 [Spotdl](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found)
 
-[Spoqify](https://spoqify.com) - It's an MIT-licensed dead-simple service that allows you to access Spotify playlists like an anonymous user. When looking at a Spotify playlist, just replace the _t_ in spotify.com with a _q_ , so that your address bar reads https://open.spoqify.com/..., then hit Return and you will be forwarded to an anonymized version of that playlist.
+[Spoqify](https://spoqify.com) - It's an MIT-licensed dead-simple service that allows you to access Spotify playlists like an anonymous user. When looking at a Spotify playlist, just replace the -***t*** in spotify.com with a -***q*** , so that your address bar reads https://open.spoqify.com/..., then hit Return and you will be forwarded to an anonymized version of that playlist.
 
 [Downify](https://play.google.com/store/apps/details?id=com.sam.downify) - With Downify, you can download your favorite Spotify playlists and albums
 
