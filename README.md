@@ -40,7 +40,15 @@ Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you
 
 ↪️  [Audio Downloading](https://github.com/MoonWalker440/Music-Megathread#audio-downloading)
 
-•  [Streaming Site](https://github.com/MoonWalker440/Music-Megathread#streaming-site)
+↪️  [Audio Tools](https://github.com/MoonWalker440/Music-Megathread#audio-tools)
+
+↪️  [Audio Editing](https://github.com/MoonWalker440/Music-Megathread#audio-editing)
+
+↪️  [Audiobooks](https://github.com/MoonWalker440/Music-Megathread#audiobooks)
+
+↪️  [Audiobook Player](https://github.com/MoonWalker440/Music-Megathread#audiobook-player)
+
+•   [Streaming Site](https://github.com/MoonWalker440/Music-Megathread#streaming-site)
 
 •  [Song Identification](https://github.com/MoonWalker440/Music-Megathread#song-identification)
 
@@ -48,16 +56,7 @@ Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you
 
 •  [Telegram Bots](https://github.com/MoonWalker440/Music-Megathread#telegram-bots-)
 
-↪️  [Audio Tools](https://github.com/MoonWalker440/Music-Megathread#audio-tools)
-
-↪️  [Audio Editing](https://github.com/MoonWalker440/Music-Megathread#audio-editing)
-
 •  [Ambient Sound](https://github.com/MoonWalker440/Music-Megathread#ambient-sound)
-
-↪️  [Audiobooks](https://github.com/MoonWalker440/Music-Megathread#audiobooks)
-
-↪️  [Audiobook Player](https://github.com/MoonWalker440/Music-Megathread#audiobook-player)
- 
 
 ### Spotify Clients
 
