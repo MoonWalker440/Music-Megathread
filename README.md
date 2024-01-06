@@ -176,7 +176,7 @@ Waveform Editor. It runs entirely in the browser with no backend and no plugins 
 
 [SpotifyMate](https://spotifymate.com/) - MP3
 
-[Qobuzdl](https://github.com/vitiko98/qobuz-dl)
+[Qobuzdl](https://github.com/vitiko98/qobuz-dl) - FLAC / MP3
 
 [Classical Music Download](https://classical-music-download.com/) - FLAC
 
