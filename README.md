@@ -351,3 +351,12 @@ Song Discovery Tools - [Maroofy](https://maroofy.com/) / [Dubolt](https://dubolt
 [Discover Quickly](https://discoverquickly.com) - Music discovery for Spotify 
 
 [SoundtrackTracklist](https://soundtracktracklist.com/) - Soundtrack Song Lists
+
+### Feedback
+
+If you find any broken or wrong links Please report me or if you want to add suggestions, open new issue or text me in Telegram [@Krish_440](https://t.me/krish_440)
+
+Subscribe to my Telegram channel
+[@Mix_Mods](https://t.me/Mix_Mods)
+
+https://github.com/MoonWalker440/Music-Megathread/issues/new
