@@ -1,7 +1,7 @@
 [![GitHub Logo](https://graph.org//file/5ecff543382d14dc3fed9.jpg)](https://github.com/MoonWalker440/Music-Megathread)
 
 
-Welcome to the ultimate music lover's repository on GitHub 🎶 !! Here, you'll find a comprehensive list of free alternatives for music players, a variety of useful tools, music downloader apps, streaming sites, and even Telegram bots that can help you download any song you desire. Whether you're looking to discover new music, enhance your listening experience, or access a diverse range of music-related resources, this collection has got you covered. Explore the world of music with these amazing resources and take your music journey to the next level 🚀🚀
+Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you'll find a comprehensive list of free alternatives for music players, a variety of useful tools, music downloader apps, streaming sites, and even Telegram bots that can help you download any song you desire. Whether you're looking to discover new music, enhance your listening experience, or access a diverse range of music-related resources, this collection has got you covered. Explore the world of music with these amazing resources and take your music journey to the next level 🚀🚀
 
 # Music Megathread
 
