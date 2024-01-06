@@ -183,7 +183,7 @@ Waveform Editor. It runs entirely in the browser with no backend and no plugins 
 
 [Qobuzdl](https://github.com/vitiko98/qobuz-dl)
 
-[Soundloader](https://www.soundloaders.com/)
+SoundCloud Downloader - [Soundloader](https://www.soundloaders.com/) / [Klickaud](https://www.klickaud.co/) / [SoundCloud-dl](https://github.com/NotTobi/soundcloud-dl)
 
 [Lossless FLAC](https://lossless-flac.com/) - FLAC
 
@@ -197,7 +197,7 @@ Deezer Bot - [@DeezerMusicBot](https://t.me/DeezerMusicBot) , [@DezAltyBot](http
 
 VK Bot - [Zio](https://t.me/Ziyotech_Vkmbot) , [Zio2](https://t.me/ziyotech_vkmusicbot) , [Vkmus](https://t.me/vkmusbot) , [ivkm](https://t.me/ivkmbot)
 
-Spotify Bot - [Spoti](https://t.me/spotifydownloadrobot)
+Spotify Bot - [Spoti](https://t.me/spotifydownloadrobot) / [Motreb](https://t.me/motreb_downloader_bot) / [Music Downloader](https://t.me/Music_Downloader_Bot_Spotify)
 
 Jio Saavan Bot - [Song Downloader](https://t.me/Song_downloaderbot) , [@SaavnDLBot](https://t.me/SaavnDLBot)
 
@@ -257,6 +257,12 @@ Telegram Bots - [Voice Shazam](https://t.me/VoiceShazamBot) , [Audd](https://t.m
 
  [SoundSwitch](https://soundswitch.aaflalo.me/) - Switch your default playback devices using hotkeys
 
+[Mofi](https://mofi.loud.red) - Song shortener. Song lengthener. Perfect loop finder
+
+[8D Audio](https://audioalter.com/preset/8d-audio) - Create 8D Audios
+
+[Moises AI](https://moises.ai) - Discover the ultimate immersive practice experience powered by AI.
+
 ### Audio Editing
 
 [Tenacity](https://tenacityaudio.org) - It's an easy-to-use, cross-platform multi-track audio editor/recorder for Windows, Linux, and other operating systems
@@ -266,6 +272,8 @@ Telegram Bots - [Voice Shazam](https://t.me/VoiceShazamBot) , [Audd](https://t.m
 [Ocean Audio](https://www.ocenaudio.com) - Easy, fast and powerful audio editor
 
 [Muzic](https://github.com/microsoft/muzic) - Music Understanding and Generation with Artificial Intelligence
+
+[Audioalter](https://audioalter.com) - A collection of easy-to-use web tools for all your audio files
 
 ### Ambient Sound
 
