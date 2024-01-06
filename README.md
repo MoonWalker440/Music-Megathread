@@ -300,6 +300,8 @@ Telegram Bots - [Voice Shazam](https://t.me/VoiceShazamBot) , [Audd](https://t.m
 
 [TuneMyMusic](https://tunemymusic.com/) - Transfer your music library from any music service to any other you want! Supports Spotify, TIDAL, Apple Music, YouTube, Amazon Music, Deezer and many more !!
 
+[Tunemunk](https://www.tunemunk.com/) - Spotify Playlist Sharing
+
 ### Telegram Bots 🤖
 
 [@monoearthmusicbot](https://t.me/monoearthmusicbot) / [@yotBot](https://t.me/yotBot) /  [@RingtoneRobot](https://t.me/RingtoneRobot) / [@slowreverberbot](https://t.me/slowreverberbot) /  [Meph](https://t.me/mephbot) / [@MadnessBeatBot](https://t.me/MadnessBeatBot) / [@RadioBot](https://t.me/RadioBot)
@@ -335,3 +337,13 @@ Live Radio - [Radio.net](https://www.radio.net/) / [World radio map](https://wor
 [Anteenapod](https://antennapod.org/) / [MixCloud](https://play.google.com/store/apps/details?id=com.mixcloud.player&hl=en) - Podcast Players
 
 [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict) - Podcasts
+
+Music Tracking / Discovery 
+
+Spotify Playlist Generators - [Spotalike](https://spotalike.com/) / [Playlist generator](https://www.playlist-generator.com/)
+
+Song Discovery Tools - [Maroofy](https://maroofy.com/) / [Dubolt](https://dubolt.com/)
+
+[Discover Quickly](https://discoverquickly.com) - Music discovery for Spotify 
+
+[SoundtrackTracklist](https://soundtracktracklist.com/) - Soundtrack Song Lists
