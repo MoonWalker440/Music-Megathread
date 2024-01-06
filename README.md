@@ -45,7 +45,7 @@ Welcome to the ultimate music lover's repository on GitHub 🎶 !! Here, you'll 
 
 •  [Audio Tools](https://github.com/MoonWalker440/Music-Megathread#audio-tools)
 
-•  [Ambient](https://github.com/MoonWalker440/Music-Megathread#ambient)
+•  [Ambient Music](https://github.com/MoonWalker440/Music-Megathread#ambient-music)
  
 
 ### Spotify Clients
@@ -147,6 +147,14 @@ Welcome to the ultimate music lover's repository on GitHub 🎶 !! Here, you'll 
 
 [Soundloader](https://www.soundloaders.com/)
 
+[Lossless FLAC](https://lossless-flac.com/) - FLAC
+
+[Freemp3cloud](https://freemp3cloud.com/) - 256kb / MP3
+
+[RockDownload](https://www.rockdownload.org/) - 320kb / MP3
+
+[Music Hi-Res](https://music-hires.blogspot.com/) - FLAC
+
 Deezer Bot - [@DeezerMusicBot](https://t.me/DeezerMusicBot) , [@DezAltyBot](https://t.me/DezAltyBot) , [Deezload2](https://t.me/deezload2bot)
 
 VK Bot - [Zio](https://t.me/Ziyotech_Vkmbot) , [Zio2](https://t.me/ziyotech_vkmusicbot) , [Vkmus](https://t.me/vkmusbot) , [ivkm](https://t.me/ivkmbot)
@@ -208,7 +216,7 @@ Telegram Bots - [Voice Shazam](https://t.me/VoiceShazamBot) , [Audd](https://t.m
  [LowAudioLatency](https://github.com/spddl/LowAudioLatency/) - Reduce Audio Latency
  [SoundSwitch](https://soundswitch.aaflalo.me/) - Switch your default playback devices using hotkeys
 
-### Ambient
+### Ambient Music
 
 [Calm](https://www.calm.com/app) - Meditation
 
