@@ -85,7 +85,7 @@ Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you
 
 ### Spotify Themes
 
-[Spotify Customizer](https://github.com/Darkempire78/Spotify-Customizer) / [Spicetify Bloom](https://github.com/nimsandu/spicetify-bloom) / [Spicetify Fluent](https://github.com/williamckha/spicetify-fluent) / [Colorify](https://colorify.live/)
+[Spotify Customizer](https://github.com/Darkempire78/Spotify-Customizer) / [Spicetify Bloom](https://github.com/nimsandu/spicetify-bloom) / [Spicetify Fluent](https://github.com/williamckha/spicetify-fluent) / [Colorify](https://colorify.live/) / [Nord-Spotify](https://github.com/Tetrax-10/Nord-Spotify)
 
 ### Spotify Adblockers
 
