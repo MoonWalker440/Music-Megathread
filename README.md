@@ -103,6 +103,8 @@ Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you
 
 [Harmonoid](https://github.com/harmonoid/harmonoid) - Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
 
+[YouTube Music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins, built-in ad blocker, downloader and many more great features !!
+
 [Nora](https://github.com/Sandakan/Nora) - An elegant music player built using Electron and React. Inspired from Oto Music for Android by Piyush Mamidwar.
 
 [Muffon](https://github.com/staniel359/muffon/) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, no login, no ads.
