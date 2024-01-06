@@ -231,6 +231,16 @@ Telegram Bots - [Voice Shazam](https://t.me/VoiceShazamBot) , [Audd](https://t.m
 
  [SoundSwitch](https://soundswitch.aaflalo.me/) - Switch your default playback devices using hotkeys
 
+### Audio Editing
+
+[Tenacity](https://tenacityaudio.org) - It's an easy-to-use, cross-platform multi-track audio editor/recorder for Windows, Linux, and other operating systems
+
+[fre:ac](https://github.com/enzo1982/freac) - A free and open source audio converter. It supports audio CD ripping and tag editing and converts between various audio file formats
+
+[Ocean Audio](https://www.ocenaudio.com) - Easy, fast and powerful audio editor
+
+[Muzic](https://github.com/microsoft/muzic) - Music Understanding and Generation with Artificial Intelligence
+
 ### Ambient Sound
 
 [Calm](https://www.calm.com/app) - Meditation
