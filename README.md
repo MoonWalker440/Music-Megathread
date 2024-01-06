@@ -117,9 +117,11 @@ Welcome to the ultimate music lover's repository on GitHub 🎶 !! Here, you'll 
 
 [Namida](https://github.com/namidaco/namida) - A Feature-rich Material You Foss Music & Video Player app with Youtube Support
 
-[Salt music Player](https://play.google.com/store/apps/details?id=com.salt.music) - It is a beautiful, high quality local music player.
+[Salt music Player](https://play.google.com/store/apps/details?id=com.salt.music) - It is a beautiful and open source high quality local music player.
 
-[Apex Music](https://github.com/TheTerminatorOfProgramming/ApexMusic) - Material You Music Player
+[Apex Music](https://github.com/TheTerminatorOfProgramming/ApexMusic) - Material You foss Music Player
+
+[Flowie Music](https://play.google.com/store/apps/details?id=com.flowiemusic.tiles.mp3.player.magictiles) - It offers a top-quality music listening experience with a super bass boost and synced lyrics support. The app supports multiple languages and offers features like cloud drive integration, Android TV casting, powerful equalizer, and a range of other functionalities for a delightful music experience.
 
 [Musicolet](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) - An Ad-free music player 
 
