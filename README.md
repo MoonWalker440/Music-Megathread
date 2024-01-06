@@ -182,7 +182,7 @@ Waveform Editor. It runs entirely in the browser with no backend and no plugins 
 
 [Free Mp3 Downloader](https://free-mp3-download.net/) - 320kb / MP3 / FLAC
 
-[SpotifyMate](https://spotifymate.com/)
+[SpotifyMate](https://spotifymate.com/) - MP3
 
 [Qobuzdl](https://github.com/vitiko98/qobuz-dl)
 
