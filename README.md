@@ -1,6 +1,5 @@
 [![GitHub Logo](https://graph.org//file/5ecff543382d14dc3fed9.jpg)](https://github.com/MoonWalker440/Music-Megathread)
 
-[Join My Update Channel](https://t.me/moonwalkerslab)
 
 Welcome to the ultimate music lover's repository on GitHub 🎶 !! Here, you'll find a comprehensive list of free alternatives for music players, a variety of useful tools, music downloader apps, streaming sites, and even Telegram bots that can help you download any song you desire. Whether you're looking to discover new music, enhance your listening experience, or access a diverse range of music-related resources, this collection has got you covered. Explore the world of music with these amazing resources and take your music journey to the next level 🚀🚀
 
@@ -105,7 +104,13 @@ Welcome to the ultimate music lover's repository on GitHub 🎶 !! Here, you'll 
 
 [VOX Music](https://vox.rocks/windows-music-player) - Hi-Res Music player for Windows and Mac
 
-### Offline Player 
+[Winsamp](https://winamp-full.en.uptodown.com/windows/download) - It offers the best of everything, bringing your streaming services, podcasts, radio stations, audio books and downloads together
+
+[Musicbee](https://www.getmusicbee.com/) - A powerful and versatile music player with a wide range of features
+
+### Offline Player
+
+[foobar2000](https://www.foobar2000.org/) - A highly customizable music player for audiophiles
 
 ### Android Streaming Apps
 
