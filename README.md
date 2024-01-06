@@ -183,7 +183,7 @@ Waveform Editor. It runs entirely in the browser with no backend and no plugins 
 
 [Qobuzdl](https://github.com/vitiko98/qobuz-dl)
 
-SoundCloud Downloader - [Soundloader](https://www.soundloaders.com/) / [Klickaud](https://www.klickaud.co/) / [SoundCloud-dl](https://github.com/NotTobi/soundcloud-dl)
+SoundCloud Bot - [Soundloader](https://www.soundloaders.com/) / [Klickaud](https://www.klickaud.co/) / [SoundCloud-dl](https://github.com/NotTobi/soundcloud-dl)
 
 [Lossless FLAC](https://lossless-flac.com/) - FLAC
 
@@ -197,7 +197,7 @@ Deezer Bot - [@DeezerMusicBot](https://t.me/DeezerMusicBot) , [@DezAltyBot](http
 
 VK Bot - [Zio](https://t.me/Ziyotech_Vkmbot) , [Zio2](https://t.me/ziyotech_vkmusicbot) , [Vkmus](https://t.me/vkmusbot) , [ivkm](https://t.me/ivkmbot)
 
-Spotify Bot - [Spoti](https://t.me/spotifydownloadrobot) / [Motreb](https://t.me/motreb_downloader_bot) / [Music Downloader](https://t.me/Music_Downloader_Bot_Spotify)
+Spotify Bot - [Spoti](https://t.me/spotifydownloadrobot) / [Motreb](https://t.me/motreb_downloader_bot) / [Music Downloader](https://t.me/Music_Downloader_Bot_Spotify) / [Spotdl](https://t.me/Spotdlrobot)
 
 Jio Saavan Bot - [Song Downloader](https://t.me/Song_downloaderbot) , [@SaavnDLBot](https://t.me/SaavnDLBot)
 
