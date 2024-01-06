@@ -186,6 +186,14 @@ Waveform Editor. It runs entirely in the browser with no backend and no plugins 
 
 [Qobuzdl](https://github.com/vitiko98/qobuz-dl)
 
+[Classical Music Download](https://classical-music-download.com/) - FLAC
+
+[FindFlac](http://findflac.com/) - FLAC / MP4
+
+[FLAC.xyz](https://flac.xyz/) - FLAC
+
+[New Album Releases](https://newalbumreleases.net/) - MP3
+
 SoundCloud Bot - [Soundloader](https://www.soundloaders.com/) / [Klickaud](https://www.klickaud.co/) / [SoundCloud-dl](https://github.com/NotTobi/soundcloud-dl)
 
 [Lossless FLAC](https://lossless-flac.com/) - FLAC
@@ -305,3 +313,19 @@ Telegram Bots - [Voice Shazam](https://t.me/VoiceShazamBot) , [Audd](https://t.m
 [ShutEye AI](https://www.shuteye.ai/relaxing-sounds/) - Ambient Summer Sounds
 
 [Ambient Mixer](https://movies.ambient-mixer.com/) , [August Ambience](https://augustambience.com/) - Ambient Media Inspired Sounds
+
+### Podcasts/Radio
+
+[Radio Garden](https://radio.garden/) - Listen Worldwide Radio
+
+[Maps.fm](https://maps.fm/) - Find Podcasts about Anywhere
+
+[ListenBox](https://listenbox.app/) - Turn YouTube Video into Podcasts
+
+Live Radio - [Radio.net](https://www.radio.net/) / [World radio map](https://worldradiomap.com/)
+
+[My tuner Radio](https://mytuner-radio.com/) - Radio
+
+[Anteenapod](https://antennapod.org/) - Podcast Players
+
+[Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict) - Podcasts
