@@ -30,8 +30,6 @@ Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you
 
 ↪️ [Offline Local Player](https://github.com/MoonWalker440/Music-Megathread/tree/main#offline-local-player)
 
-•  [Downloader Apps](https://github.com/MoonWalker440/Music-Megathread#downloader-apps)
-
 ###  Audio Thread
 
 ↪️  [Audio Recording](https://github.com/MoonWalker440/Music-Megathread#audio-recording)
@@ -50,6 +48,8 @@ Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you
 
 •   [Streaming Site](https://github.com/MoonWalker440/Music-Megathread#streaming-site)
 
+•   [Downloader Apps](https://github.com/MoonWalker440/Music-Megathread#downloader-apps)
+
 •  [Song Identification](https://github.com/MoonWalker440/Music-Megathread#song-identification)
 
 •  [Transfer Your Music Library](https://github.com/MoonWalker440/Music-Megathread#transfer-your-music-library)
@@ -58,7 +58,7 @@ Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you
 
 •  [Ambient Sound](https://github.com/MoonWalker440/Music-Megathread#ambient-sound)
 
-•  [Podcasts / Radio]( )
+•  [Podcasts / Radio](https://github.com/MoonWalker440/Music-Megathread#podcasts--radio)
 
 ### Spotify Clients
 
@@ -148,18 +148,6 @@ Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you
 [Flowie Music](https://play.google.com/store/apps/details?id=com.flowiemusic.tiles.mp3.player.magictiles) - It offers a top-quality music listening experience with a super bass boost and synced lyrics support. The app supports multiple languages and offers features like cloud drive integration, Android TV casting, powerful equalizer, and a range of other functionalities for a delightful music experience.
 
 [Musicolet](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) - An Ad-free music player 
-
-### Downloader Apps
-
-[Spowlo](https://github.com/BobbyESP/Spowlo) - A Spotify songs downloader for Android made with Jetpack Compose, Material You and the spotDL Python library
-
-[SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify / Gaana / Youtube Music / Jio Saavn / SoundCloud.
-
-[Spotdl](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found)
-
-[Spoqify](https://spoqify.com) - It's an MIT-licensed dead-simple service that allows you to access Spotify playlists like an anonymous user. When looking at a Spotify playlist, just replace the t in spotify.com with a q, so that your address bar reads https://open.spoqify.com/..., then hit Return and you will be forwarded to an anonymized version of that playlist.
-
-[Downify](https://play.google.com/store/apps/details?id=com.sam.downify) - With Downify, you can download your favorite Spotify playlists and albums
 
 ### Audio Recording
 
@@ -282,6 +270,18 @@ Bandcamp Downloader - [bcdl](https://github.com/daot/bcdl) , [bandcamp](https://
 [Hyperpipe](https://hyperpipe.surge.sh/) - Another foss alternative for music lovers 
 
 [YTMP : YouTube Music Player](https://ytmp.itsvg.in/) - The First and the Only YouTube Music Player that lets you play any youtube video as audio with tons of features such as Background play, Playlist merger, No Ads, and many more for free
+
+### Downloader Apps
+
+[Spowlo](https://github.com/BobbyESP/Spowlo) - A Spotify songs downloader for Android made with Jetpack Compose, Material You and the spotDL Python library
+
+[SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify / Gaana / Youtube Music / Jio Saavn / SoundCloud.
+
+[Spotdl](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found)
+
+[Spoqify](https://spoqify.com) - It's an MIT-licensed dead-simple service that allows you to access Spotify playlists like an anonymous user. When looking at a Spotify playlist, just replace the t in spotify.com with a q, so that your address bar reads https://open.spoqify.com/..., then hit Return and you will be forwarded to an anonymized version of that playlist.
+
+[Downify](https://play.google.com/store/apps/details?id=com.sam.downify) - With Downify, you can download your favorite Spotify playlists and albums
 
 ### Song Identification
 
