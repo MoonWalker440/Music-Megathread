@@ -352,6 +352,11 @@ Song Discovery Tools - [Maroofy](https://maroofy.com/) / [Dubolt](https://dubolt
 
 [SoundtrackTracklist](https://soundtracktracklist.com/) - Soundtrack Song Lists
 
+### 💝 Thanks to
+
+● Friends who provide many materials for me and make suggestions to me to make this repository more cool 🙌
+● Telegram Channels which help me to discover many great apps 😇 - [Droid Den](https://t.me/DroidDenn) , [Mix Mods](https://t.me/Mix_Mods) , [Twapple](https://t.me/twapple)
+
 ### Feedback
 
 If you find any broken or wrong links Please report me or if you want to add suggestions, open new issue or text me in Telegram [@Krish_440](https://t.me/krish_440)
