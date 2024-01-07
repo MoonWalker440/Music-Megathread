@@ -155,6 +155,8 @@ Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you
 
 [Musicolet](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) - An Ad-free music player 
 
+[Sangeet Music Player](https://play.google.com/store/apps/details?id=com.lasuak.musicplayer) - It's an offline and open source music player which comes with no ads and support material you design 
+
 ### Audio Recording
 
 [AudioMass](https://audiomass.co) - A free, open source, web-based Rudio and 
