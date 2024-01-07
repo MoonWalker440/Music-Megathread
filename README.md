@@ -281,9 +281,10 @@ Bandcamp Downloader - [bcdl](https://github.com/daot/bcdl) , [bandcamp](https://
 
 [YTMP : YouTube Music Player](https://ytmp.itsvg.in/) - The First and the Only YouTube Music Player that lets you play any youtube video as audio with tons of features such as Background play, Playlist merger, No Ads, and many more for free
 
-[Forgotify](http://forgotify.com/player.cfm) - Millions of songs on
-Spotify have been
-forgotten. The dev behind this changing that
+[Forgotify](https://forgotify.com) - Millions of songs on Spotify have been forgotten. Let’s give them new life in new ears
+
+[TapeFear](https://www.tapefear.com) - Discover the hidden gems on Spotify
+that would never normally get surfaced with their algorithms
 
 ### Downloader Apps
 
