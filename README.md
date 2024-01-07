@@ -354,8 +354,9 @@ Song Discovery Tools - [Maroofy](https://maroofy.com/) / [Dubolt](https://dubolt
 
 ### 💝 Thanks to
 
-● Friends who provide many materials for me and make suggestions to me to make this repository more cool 🙌
-● Telegram Channels which help me to discover many great apps 😇 - [Droid Den](https://t.me/DroidDenn) , [Mix Mods](https://t.me/Mix_Mods) , [Twapple](https://t.me/twapple)
+Friends who provide many materials for me and make suggestions to me to make this repository more cool 🙌
+
+Telegram Channels which help me to discover many great apps 😇 - [Droid Den](https://t.me/DroidDenn) , [Mix Mods](https://t.me/Mix_Mods) , [Twapple](https://t.me/twapple)
 
 ### Feedback
 
