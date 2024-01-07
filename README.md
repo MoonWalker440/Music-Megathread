@@ -93,7 +93,7 @@ Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you
 
 👉 [Method to Get rid of Spotify ads](https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/) - Short guide on avoiding ads, banners and limited skips in Spotify 
 
-### Desktop Streaming Apps
+### Desktop Streaming Apps 🎧
 
 [Moosync](https://github.com/Moosync/Moosync) - Music player capable of playing local audio or from Youtube, Spotify and many more
 
@@ -119,7 +119,7 @@ Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you
 
 [foobar2000](https://www.foobar2000.org/) - A highly customizable music player for audiophiles
 
-### Android Streaming Apps
+### Android Streaming Apps 🎶
 
 [Blackhole](https://sangwan5688.github.io/) - Blackhole is a music app created with the Purpose of high resolution music streaming experience on your phone with no advertising or paid subscriptions.
 
@@ -145,6 +145,8 @@ Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you
 
 [Namida](https://github.com/namidaco/namida) - A Feature-rich Material You Foss Music & Video Player app with Youtube Support
 
+[Gramophone](https://github.com/AkaneTan/Gramophone) - A sane music player built with media3 and material design library that is following android's standard strictly
+
 [Salt music Player](https://play.google.com/store/apps/details?id=com.salt.music) - It is a beautiful and open source high quality local music player.
 
 [Apex Music](https://github.com/TheTerminatorOfProgramming/ApexMusic) - Material You foss Music Player
@@ -162,7 +164,7 @@ Waveform Editor. It runs entirely in the browser with no backend and no plugins 
 
 [Libre AV Converter](https://sourceforge.net/projects/libreavconverter) - A universal media converter, recorder, video downloader, player, streaming issuer, cd ripper and editor
 
-### Mobile Audio Recording
+### Mobile Audio Recording ⏺️
 
 [Rehearsal Assistant](https://f-droid.org/packages/urbanstew.RehearsalAssistant/) – A voice / sound recording utility with two modes of operation
 
@@ -300,7 +302,7 @@ Bandcamp Downloader - [bcdl](https://github.com/daot/bcdl) , [bandcamp](https://
 Telegram Bots - [Voice Shazam](https://t.me/VoiceShazamBot) , [Audd](https://t.me/auddbot) , [@FindMusicPleaseBot](https://t.me/FindMusicPleaseBot) , [Song Id](https://t.me/SongIDbot) , [BeatSpotBot](https://t.me/BeatSpotBot) , [@JioDLBot](https://t.me/JioDLBot) , [What's the song](https://t.me/WTSong_Bot)
 
 
-### Transfer Your Music Library 
+### Transfer Your Music Library 🔄
 
 [TuneMyMusic](https://tunemymusic.com/) - Transfer your music library from any music service to any other you want! Supports Spotify, TIDAL, Apple Music, YouTube, Amazon Music, Deezer and many more !!
 
@@ -326,7 +328,7 @@ Telegram Bots - [Voice Shazam](https://t.me/VoiceShazamBot) , [Audd](https://t.m
 
 [Ambient Mixer](https://movies.ambient-mixer.com/) , [August Ambience](https://augustambience.com/) - Ambient Media Inspired Sounds
 
-### Podcasts / Radio
+### Podcasts / Radio 📻
 
 [Radio Garden](https://radio.garden/) - Listen Worldwide Radio
 
@@ -358,7 +360,7 @@ Friends who provide many materials for me and make suggestions to me to make thi
 
 Telegram Channels which help me to discover many great apps 😇 - [Droid Den](https://t.me/DroidDenn) , [Mix Mods](https://t.me/Mix_Mods) , [Twapple](https://t.me/twapple)
 
-### Feedback
+### Feedback 😄
 
 If you find any broken or wrong link Please report me or if you want to add suggestions, open a new issue or text me in Telegram [@Krish_440](https://t.me/krish_440)
 
