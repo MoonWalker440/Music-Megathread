@@ -360,7 +360,7 @@ Telegram Channels which help me to discover many great apps 😇 - [Droid Den](h
 
 ### Feedback
 
-If you find any broken or wrong links Please report me or if you want to add suggestions, open new issue or text me in Telegram [@Krish_440](https://t.me/krish_440)
+If you find any broken or wrong link Please report me or if you want to add suggestions, open a new issue or text me in Telegram [@Krish_440](https://t.me/krish_440)
 
 Subscribe to my Telegram channel
 [@Mix_Mods](https://t.me/Mix_Mods)
