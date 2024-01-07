@@ -293,6 +293,10 @@ Bandcamp Downloader - [bcdl](https://github.com/daot/bcdl) , [bandcamp](https://
 
 [Downify](https://play.google.com/store/apps/details?id=com.sam.downify) - With Downify, you can download your favorite Spotify playlists and albums
 
+[Seal](https://github.com/JunkFood02/Seal ) - Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
+
+[Ytdlnis](https://github.com/deniscerri/ytdlnis) - Free and open source video/audio downloader 
+
 ### Song Identification
 
 [WatZatSong](https://www.watzatsong.com/en)
