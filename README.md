@@ -105,8 +105,6 @@ Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you
 
 [YouTube Music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins, built-in ad blocker, downloader and many more great features !!
 
-[Nora](https://github.com/Sandakan/Nora) - An elegant music player built using Electron and React. Inspired from Oto Music for Android by Piyush Mamidwar.
-
 [Muffon](https://github.com/staniel359/muffon/) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, no login, no ads.
 
 [VOX Music](https://vox.rocks/windows-music-player) - Hi-Res Music player for Windows and Mac
@@ -116,6 +114,8 @@ Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you
 [Musicbee](https://www.getmusicbee.com/) - A powerful and versatile music player with a wide range of features
 
 ### Offline Player
+
+[Nora](https://github.com/Sandakan/Nora) - An elegant music player built using Electron and React. Inspired from Oto Music for Android by Piyush Mamidwar.
 
 [foobar2000](https://www.foobar2000.org/) - A highly customizable music player for audiophiles
 
@@ -318,6 +318,8 @@ Telegram Bots - [Voice Shazam](https://t.me/VoiceShazamBot) , [Audd](https://t.m
 [TuneMyMusic](https://tunemymusic.com/) - Transfer your music library from any music service to any other you want! Supports Spotify, TIDAL, Apple Music, YouTube, Amazon Music, Deezer and many more !!
 
 [Tunemunk](https://www.tunemunk.com/) - Spotify Playlist Sharing
+
+[Nicotine+](https://github.com/nicotine-plus/nicotine-plus) - Nicotine+ aims to be a lightweight, pleasant, free and open source (FOSS) alternative to the official Soulseek client, while also providing a comprehensive set of features.
 
 ### Telegram Bots 🤖
 
