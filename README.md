@@ -46,6 +46,8 @@ Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you
 
 ↪️  [Audiobook Player](https://github.com/MoonWalker440/Music-Megathread#audiobook-player)
 
+↪️  [Audio Servers](https://github.com/MoonWalker440/Music-Megathread#audio-servers)
+
 •   [Streaming Site](https://github.com/MoonWalker440/Music-Megathread#streaming-site)
 
 •   [Downloader Apps](https://github.com/MoonWalker440/Music-Megathread#downloader-apps)
@@ -107,6 +109,9 @@ Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you
 
 [Muffon](https://github.com/staniel359/muffon/) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, no login, no ads.
 
+[Sherlock Music](https://github.com/Sherlockouo/music) - A music player forked from YesPlayMusic. The beautiful third-party NetEase cloud player.
+Note - It's still in Alpha stage
+
 [VOX Music](https://vox.rocks/windows-music-player) - Hi-Res Music player for Windows and Mac
 
 [Winsamp](https://winamp-full.en.uptodown.com/windows/download) - It offers the best of everything, bringing your streaming services, podcasts, radio stations, audio books and downloads together
@@ -119,9 +124,11 @@ Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you
 
 [foobar2000](https://www.foobar2000.org/) - A highly customizable music player for audiophiles
 
+[Strawberry Music](https://github.com/strawberrymusicplayer/strawberry) - Strawberry is a cross-platform music player and music collection organizer. It is aimed at music collectors and audiophiles.
+
 ### Android Streaming Apps 🎶
 
-[Blackhole](https://sangwan5688.github.io/) - Blackhole is a music app created with the Purpose of high resolution music streaming experience on your phone with no advertising or paid subscriptions.
+[Blackhole](https://sangwan5688.github.io/) - Blackhole is a music app created with the Purpose of high quality music streaming experience on your phone with no advertising or paid subscriptions.
 
 [Gyawun](https://github.com/sheikhhaziq/gyavun) - A Flutter application for streaming music from Jio Saavn and YouTube Music
 
@@ -265,6 +272,16 @@ Bandcamp Downloader - [bcdl](https://github.com/daot/bcdl) , [bandcamp](https://
 
 [BookPlayer](https://github.com/TortugaPower/BookPlayer) – Player for your DRM-free audiobooks
 
+### Audio Servers
+
+[Swing Music](https://swingmusic.vercel.app) - Swing Music is a beautifully designed, self-hosted music streaming server
+
+[Koel](https://koel.dev/) - A personal music streaming server
+
+[Audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
+
+[Navidrome](https://github.com/navidrome/navidrome) - Navidrome is an open source web-based music collection server and streamer. It gives you freedom to listen to your music collection from any browser or mobile device. It's like your personal Spotify !
+
 ### Streaming Site
 
 [First Sound](https://www.firstsounds.org/) - Oldest Music Recordings
@@ -370,6 +387,8 @@ Song Discovery Tools - [Maroofy](https://maroofy.com/) / [Dubolt](https://dubolt
 ### 💝 Thanks to
 
 Friends who provide many materials for me and make suggestions to me to make this repository more cool 🙌
+
+Very thanks to @SowadBD(https://t.me/SowadBD) for making such a cool banner ❤️
 
 Telegram Channels which help me to discover many great apps 😇 - [Droid Den](https://t.me/DroidDenn) , [Mix Mods](https://t.me/Mix_Mods) , [Twapple](https://t.me/twapple)
 
