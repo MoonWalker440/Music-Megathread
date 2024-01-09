@@ -388,7 +388,7 @@ Song Discovery Tools - [Maroofy](https://maroofy.com/) / [Dubolt](https://dubolt
 
 Friends who provide many materials for me and make suggestions to me to make this repository more cool 🙌
 
-Very thanks to @SowadBD(https://t.me/SowadBD) for making such a cool banner ❤️
+Very thanks to [@SowadBD](https://t.me/SowadBD) for making such a cool banner ❤️
 
 Telegram Channels which help me to discover many great apps 😇 - [Droid Den](https://t.me/DroidDenn) , [Mix Mods](https://t.me/Mix_Mods) , [Twapple](https://t.me/twapple)
 
