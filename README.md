@@ -126,6 +126,8 @@ Note - It's still in Alpha stage
 
 [Strawberry Music](https://github.com/strawberrymusicplayer/strawberry) - Strawberry is a cross-platform music player and music collection organizer. It is aimed at music collectors and audiophiles.
 
+[Quodlibet](https://quodlibet.readthedocs.io/) - Quod Libet is a GTK+-based audio player written in Python, using the Mutagen tagging library. It’s designed around the idea that you know how to organize your music better than we do.
+
 ### Android Streaming Apps 🎶
 
 [Blackhole](https://sangwan5688.github.io/) - Blackhole is a music app created with the Purpose of high quality music streaming experience on your phone with no advertising or paid subscriptions.
@@ -319,7 +321,9 @@ that would never normally get surfaced with their algorithms
 
 [Seal](https://github.com/JunkFood02/Seal ) - Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 
-[Ytdlnis](https://github.com/deniscerri/ytdlnis) - Free and open source video/audio downloader 
+[Ytdlnis](https://github.com/deniscerri/ytdlnis) - Free and open source video/audio downloader
+
+[Yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with many additional features
 
 ### Song Identification
 
