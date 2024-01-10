@@ -20,7 +20,7 @@ Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you
 
 ###  Desktop Apps
 
-↪️  [Desktop Streaming Apps](https://github.com/MoonWalker440/Music-Megathread/tree/main#desktop-streaming-apps)
+↪️  [Desktop Streaming Apps](https://github.com/MoonWalker440/Music-Megathread/tree/main#desktop-streaming-apps-)
 
 ↪️  [Offline Player](https://github.com/MoonWalker440/Music-Megathread/tree/main#offline-player)
 
