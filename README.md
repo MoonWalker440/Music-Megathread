@@ -162,9 +162,13 @@ Note - It's still in Alpha stage
 
 [Flowie Music](https://play.google.com/store/apps/details?id=com.flowiemusic.tiles.mp3.player.magictiles) - It offers a top-quality music listening experience with a super bass boost and synced lyrics support. The app supports multiple languages and offers features like cloud drive integration, Android TV casting, powerful equalizer, and a range of other functionalities for a delightful music experience.
 
+[Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music) - A beautiful and material designed offline music player for android / [Discord](https://discord.com/invite/yrHm9ervEC)
+
 [Musicolet](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) - An Ad-free music player 
 
 [Sangeet Music Player](https://play.google.com/store/apps/details?id=com.lasuak.musicplayer) - It's an offline and open source music player which comes with no ads and support material you design 
+
+[Roco Player](https://play.google.com/store/apps/details?id=com.rocoplayer.app) - It's an audiophile DSP driven player design & build from scratch inspired by the all famous Viper4Android (V4A/ViperFX) & Rockbox.
 
 ### Audio Recording
 
@@ -190,6 +194,8 @@ Waveform Editor. It runs entirely in the browser with no backend and no plugins 
 [Free Mp3 Downloader](https://free-mp3-download.net/) - 320kb / MP3 / FLAC
 
 [SpotifyMate](https://spotifymate.com/) - MP3
+
+[Spotify song download](https://spotisongdownloader.com/) - 320kbps / MP3
 
 [Qobuzdl](https://github.com/vitiko98/qobuz-dl) - FLAC / MP3
 
@@ -344,7 +350,7 @@ Telegram Bots - [Voice Shazam](https://t.me/VoiceShazamBot) , [Audd](https://t.m
 
 ### Telegram Bots 🤖
 
-[@monoearthmusicbot](https://t.me/monoearthmusicbot) / [@yotBot](https://t.me/yotBot) /  [@RingtoneRobot](https://t.me/RingtoneRobot) / [@slowreverberbot](https://t.me/slowreverberbot) /  [Meph](https://t.me/mephbot) / [@MadnessBeatBot](https://t.me/MadnessBeatBot) / [@RadioBot](https://t.me/RadioBot)
+[@monoearthmusicbot](https://t.me/monoearthmusicbot) / [@yotBot](https://t.me/yotBot) /  [@RingtoneRobot](https://t.me/RingtoneRobot) / [@slowreverberbot](https://t.me/slowreverberbot) /  [Meph](https://t.me/mephbot) / [@MadnessBeatBot](https://t.me/MadnessBeatBot) / [@RadioBot](https://t.me/RadioBot) / [@music_ripper_bot](https://t.me/music_ripper_bot) / [@musicaiobot](https://t.me/musicaiobot)
 
 ### Ambient Sound
 
