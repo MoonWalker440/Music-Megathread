@@ -26,7 +26,7 @@ Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you
 
 ###  Android Apps
 
-↪️ [Android Streaming Apps](https://github.com/MoonWalker440/Music-Megathread/tree/main#android-streaming-apps)
+↪️ [Android Streaming Apps](https://github.com/MoonWalker440/Music-Megathread/tree/main#android-streaming-apps-)
 
 ↪️ [Offline Local Player](https://github.com/MoonWalker440/Music-Megathread/tree/main#offline-local-player)
 
