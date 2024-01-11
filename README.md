@@ -122,6 +122,8 @@ Note - It's still in Alpha stage
 
 [foobar2000](https://www.foobar2000.org/) - A highly customizable music player for audiophiles
 
+[Harmonoid](https://github.com/harmonoid/harmonoid) - Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
+
 [Strawberry Music](https://github.com/strawberrymusicplayer/strawberry) - Strawberry is a cross-platform music player and music collection organizer. It is aimed at music collectors and audiophiles.
 
 [Quodlibet](https://quodlibet.readthedocs.io/) - Quod Libet is a GTK+-based audio player written in Python, using the Mutagen tagging library. It’s designed around the idea that you know how to organize your music better than we do.
