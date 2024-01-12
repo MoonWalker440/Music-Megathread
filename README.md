@@ -1,7 +1,7 @@
 [![GitHub Logo](https://graph.org//file/4b047bb92c4dbf0db14d4.png)](https://github.com/MoonWalker440/Music-Megathread)
 
 
-Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you'll find a comprehensive list of free alternatives for music players, a variety of useful tools, music downloader apps, streaming sites, and even Telegram bots that can help you download any song you desire. Whether you're looking to discover new music, enhance your listening experience, or access a diverse range of music-related resources, this collection has got you covered. Explore the world of music with these amazing resources and take your music journey to the next level 🚀🚀
+Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you'll find a comprehensive list of free alternatives for music players, a variety of useful tools, music downloader apps, streaming sites, and even Telegram bots that can help you download any song you desire. Whether you're looking to discover new music, enhance your listening experience, or access a diverse range of music-related resources, this collection has got you covered. Explore the world of music with these amazing resources and take your music journey to the next level 🚀🚀🚀 
 
 # Music Megathread
 
@@ -58,6 +58,8 @@ Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you
 
 •  [Telegram Bots](https://github.com/MoonWalker440/Music-Megathread#telegram-bots-)
 
+•  [Telegram Channels](https://github.com/MoonWalker440/Music-Megathread#telegram-channels-)
+
 •  [Ambient Sound](https://github.com/MoonWalker440/Music-Megathread#ambient-sound)
 
 •  [Podcasts / Radio](https://github.com/MoonWalker440/Music-Megathread#podcasts--radio)
@@ -83,7 +85,7 @@ Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you
 ### Spotify Tools
 
 [Spicetify.app](https://spicetify.app) / 
-[Lyricify](https://github.com/WXRIW/Lyricify-App) / [Spotify Lyrics](https://github.com/mantou132/Spotify-Lyrics) / [Spotify Tools](https://spotifytools.romanello.xyz/) / [Spotify Cloud](https://spotifycloud.zamar-roura.com/) / [SpotiStat](https://spotistats.app/) / [Spotr](https://github.com/XDGFX/spotr) / [Versefy](https://versefy.app/)
+[Lyricify](https://github.com/WXRIW/Lyricify-App) / [Spotify Lyrics](https://github.com/mantou132/Spotify-Lyrics) / [Spotify Tools](https://spotifytools.romanello.xyz/) / [Spotify Cloud](https://spotifycloud.zamar-roura.com/) / [SpotiStat](https://spotistats.app/) / [Spotr](https://github.com/XDGFX/spotr) / [Versefy](https://versefy.app/) / [Exportify](https://github.com/watsonbox/exportify) / [Spottr](https://github.com/Spiderpig86/spottr)
 
 ### Spotify Themes
 
@@ -115,6 +117,14 @@ Note - It's still in Alpha stage
 [Winsamp](https://winamp-full.en.uptodown.com/windows/download) - It offers the best of everything, bringing your streaming services, podcasts, radio stations, audio books and downloads together
 
 [Musicbee](https://www.getmusicbee.com/) - A powerful and versatile music player with a wide range of features
+
+[AudioTube](https://invent.kde.org/multimedia/audiotube) - It's a YouTube Music client for Linux
+
+[Muzika](https://github.com/vixalien/muzika) - Elegant music streaming app
+
+[Jammer](https://github.com/jooapa/jammer) - Fast cli music player with Soundcloud & Youtube support
+
+[Tauon Music Box](https://github.com/Taiko2k/TauonMusicBox) - A music player for the desktop. Designed to be powerful and streamlined, putting the user in control of their music collection.
 
 ### Offline Player
 
@@ -172,6 +182,12 @@ Note - It's still in Alpha stage
 
 [Roco Player](https://play.google.com/store/apps/details?id=com.rocoplayer.app) - It's an audiophile DSP driven player design & build from scratch inspired by the all famous Viper4Android (V4A/ViperFX) & Rockbox.
 
+[Poweramp](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer) - Poweramp is a powerful music player for Android.
+
+[Gonemad](https://play.google.com/store/apps/details?id=gonemad.gmmp) - Feature-Rich and Highly Customizable Music Player
+
+[Duo Music](https://play.google.com/store/apps/details?id=com.orhotechnologies.orhoduomusic) - Duo Music is the audio player which allows you to listen to two songs at once
+
 ### Audio Recording
 
 [AudioMass](https://audiomass.co) - A free, open source, web-based Rudio and 
@@ -217,23 +233,11 @@ Waveform Editor. It runs entirely in the browser with no backend and no plugins 
 
 [Music Hi-Res](https://music-hires.blogspot.com/) - FLAC
 
-Deezer Bot - [@DeezerMusicBot](https://t.me/DeezerMusicBot) , [@DezAltyBot](https://t.me/DezAltyBot) , [Deezload2](https://t.me/deezload2bot)
-
-VK Bot - [Zio](https://t.me/Ziyotech_Vkmbot) , [Zio2](https://t.me/ziyotech_vkmusicbot) , [Vkmus](https://t.me/vkmusbot) , [ivkm](https://t.me/ivkmbot)
-
-SoundCloud Bot - [Soundloader](https://www.soundloaders.com/) / [Klickaud](https://www.klickaud.co/) / [SoundCloud-dl](https://github.com/NotTobi/soundcloud-dl)
-
-Spotify Bot - [Spoti](https://t.me/spotifydownloadrobot) / [Motreb](https://t.me/motreb_downloader_bot) / [Music Downloader](https://t.me/Music_Downloader_Bot_Spotify) / [Spotdl](https://t.me/Spotdlrobot)
-
-Jio Saavan Bot - [Song Downloader](https://t.me/Song_downloaderbot) , [@SaavnDLBot](https://t.me/SaavnDLBot)
-
 [Streamrip](https://github.com/nathom/streamrip) - Music downloader for Qobuz, Tidal, SoundCloud, and Deezer
 
 [Freyr-js](https://github.com/miraclx/freyr-js) - Download songs from Spotify, Apple Music and Deezer
 
-Tidal Downloader - [Hifi Tui](https://github.com/sachinsenal0x64/Hifi-Tui) , [TMD](https://github.com/yaronzz/Tidal-Media-Downloader)
-
-Bandcamp Downloader - [bcdl](https://github.com/daot/bcdl) , [bandcamp](https://downloadmusicschool.com/bandcamp/) , [Bandcamp Download](https://github.com/Otiel/BandcampDownloader)
+[OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) - OrpheusDL is a modular music archival tool written in Python which allows archiving from multiple different services
 
 ### Audio Tools
 
@@ -254,7 +258,19 @@ Bandcamp Downloader - [bcdl](https://github.com/daot/bcdl) , [bandcamp](https://
 
 [8D Audio](https://audioalter.com/preset/8d-audio) - Create 8D Audios
 
-[Moises AI](https://moises.ai) - Discover the ultimate immersive practice experience powered by AI.
+[Moises AI](https://moises.ai) - Discover the ultimate immersive practice experience powered by AI
+
+[Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) - Headphone specific equalization with lots of customizability
+
+[Lossless audio checker](https://losslessaudiochecker.com/) - A utility to check whether a WAVE or FLAC file is truly lossless or not
+
+[Riffusion](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
+
+[Musetree](https://github.com/stevenwaterman/musetree) - AI Music Generation for the Real World
+
+[Lame](http://lame.sourceforge.net/) - A high quality free and open-source MP3 encoder.
+
+[TuneFlow](https://tuneflow.com/) - A next-gen DAW that helps you generate melody, beats, or a whole song.
 
 ### Audio Editing
 
@@ -292,6 +308,10 @@ Bandcamp Downloader - [bcdl](https://github.com/daot/bcdl) , [bandcamp](https://
 
 [Navidrome](https://github.com/navidrome/navidrome) - Navidrome is an open source web-based music collection server and streamer. It gives you freedom to listen to your music collection from any browser or mobile device. It's like your personal Spotify !
 
+[Tempo](https://github.com/CappielloAntonio/tempo) - An open source and lightweight music client for Subsonic, designed and built natively for Android
+
+[Funkwhale](https://play.google.com/store/apps/details?id=audio.funkwhale.ffa) - Access your personal music collection from anywhere. Funkwhale supports advanced sharing features to promote Freely licensed content.
+
 ### Streaming Site
 
 [First Sound](https://www.firstsounds.org/) - Oldest Music Recordings
@@ -323,7 +343,7 @@ that would never normally get surfaced with their algorithms
 
 [Spotdl](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found)
 
-[Spoqify](https://spoqify.com) - It's an MIT-licensed dead-simple service that allows you to access Spotify playlists like an anonymous user. When looking at a Spotify playlist, just replace the ***t***  in spotify.com with a ***q*** , so that your address bar reads https://open.spoqify.com/..., then hit Return and you will be forwarded to an anonymized version of that playlist.
+[Spoqify](https://spoqify.com) - It's an MIT-licensed dead-simple service that allows you to access Spotify playlists like an anonymous user. When looking at a Spotify playlist, just replace the *t* in spotify.com with a *q* , so that your address bar reads https://open.spoqify.com/..., then hit Return and you will be forwarded to an anonymized version of that playlist.
 
 [Downify](https://play.google.com/store/apps/details?id=com.sam.downify) - With Downify, you can download your favorite Spotify playlists and albums
 
@@ -332,6 +352,8 @@ that would never normally get surfaced with their algorithms
 [Ytdlnis](https://github.com/deniscerri/ytdlnis) - Free and open source video/audio downloader
 
 [Yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with many additional features
+
+[Downtify](https://github.com/eviabs/downtify-premium) - It's an open source Spofity downloader. A Spotify Premium account is required.
 
 ### Song Identification
 
@@ -350,9 +372,35 @@ Telegram Bots - [Voice Shazam](https://t.me/VoiceShazamBot) , [Audd](https://t.m
 
 [Nicotine+](https://github.com/nicotine-plus/nicotine-plus) - Nicotine+ aims to be a lightweight, pleasant, free and open source (FOSS) alternative to the official Soulseek client, while also providing a comprehensive set of features.
 
+[Seeker](https://github.com/jackBonadies/SeekerAndroid) - An unofficial soulseek client
+
 ### Telegram Bots 🤖
 
-[@monoearthmusicbot](https://t.me/monoearthmusicbot) / [@yotBot](https://t.me/yotBot) /  [@RingtoneRobot](https://t.me/RingtoneRobot) / [@slowreverberbot](https://t.me/slowreverberbot) /  [Meph](https://t.me/mephbot) / [@MadnessBeatBot](https://t.me/MadnessBeatBot) / [@RadioBot](https://t.me/RadioBot) / [@music_ripper_bot](https://t.me/music_ripper_bot) / [@musicaiobot](https://t.me/musicaiobot)
+[@monoearthmusicbot](https://t.me/monoearthmusicbot) / [@yotBot](https://t.me/yotBot) /  [@RingtoneRobot](https://t.me/RingtoneRobot) / [@slowreverberbot](https://t.me/slowreverberbot) /  [Meph](https://t.me/mephbot) / [@MadnessBeatBot](https://t.me/MadnessBeatBot) / [@RadioBot](https://t.me/RadioBot) / [@music_ripper_bot](https://t.me/music_ripper_bot) / [@musicaiobot](https://t.me/musicaiobot) / [GlomaticoAmazonMusicbot](https://t.me/GlomaticoAmazonMusicBot) / [@GlomaticoAppleMusicBot](https://t.me/GlomaticoAppleMusicBot) / [Bay Apple Music](https://t.me/bayapplemusicbot)
+
+[DeezEmpireBot](https://t.me/DeezEmpireBot) - Spotify, Deezer, Soundcloud, Youtube
+
+Classical music - [Music](https://t.me/music)
+
+YT Music - [Lybot](https://t.me/LyBot)
+
+Deezer Bot - [@DeezerMusicBot](https://t.me/DeezerMusicBot) , [@DezAltyBot](https://t.me/DezAltyBot) , [Deezload2](https://t.me/deezload2bot) , [OrpheusDL Deezer](https://github.com/uhwot/orpheusdl-deezer) / [Deezer to gdrive](https://t.me/deezertogdrivebot) / [@MusicsHuntersbot](https://t.me/MusicsHuntersbot)
+
+VK Bot - [Zio](https://t.me/Ziyotech_Vkmbot) , [Zio2](https://t.me/ziyotech_vkmusicbot) , [Vkmus](https://t.me/vkmusbot) , [ivkm](https://t.me/ivkmbot)
+
+SoundCloud Bot - [Soundloader](https://www.soundloaders.com/) / [Klickaud](https://www.klickaud.co/) / [SoundCloud-dl](https://github.com/NotTobi/soundcloud-dl) / [OrpheusDL SoundCloud](https://github.com/yarrm80s/orpheusdl-soundcloud)
+
+Spotify Bot - [Spoti](https://t.me/spotifydownloadrobot) / [Motreb](https://t.me/motreb_downloader_bot) / [Music Downloader](https://t.me/Music_Downloader_Bot_Spotify) / [Spotdl](https://t.me/Spotdlrobot) / [Spotify Down](https://t.me/spotify_down_bot)
+
+Jio Saavan Bot - [Song Downloader](https://t.me/Song_downloaderbot) , [@SaavnDLBot](https://t.me/SaavnDLBot)
+
+Tidal Downloader - [Hifi Tui](https://github.com/sachinsenal0x64/Hifi-Tui) , [TMD](https://github.com/yaronzz/Tidal-Media-Downloader) / [OrpheusDL Tidal](https://github.com/Dniel97/orpheusdl-tidal)
+
+Bandcamp Downloader - [bcdl](https://github.com/daot/bcdl) , [bandcamp](https://downloadmusicschool.com/bandcamp/) , [Bandcamp Download](https://github.com/Otiel/BandcampDownloader)
+
+### Telegram Channels 
+
+[Amazon Music](https://t.me/+L6pRuCvFzWdmZmVh) / [Apple Music](https://t.me/+_a_HVYo3fXw1ZWVh) / [Spotify Database](https://t.me/joinchat/CpMAJhkWaTwk8BVPepASZQ) / [Bassmuzic](https://t.me/bassmuzic)
 
 ### Ambient Sound
 
@@ -398,7 +446,7 @@ Song Discovery Tools - [Maroofy](https://maroofy.com/) / [Dubolt](https://dubolt
 
 ### 💝 Thanks to
 
-Friends who provide many materials for me and make suggestions to me to make this repository more cool 🙌
+Friends and many supporters who provided many materials for me and make suggestions to me to make this repository more cool 🙌
 
 Very thanks to [@SowadBD](https://t.me/SowadBD) for making such a cool banner ❤️
 
@@ -406,9 +454,7 @@ Telegram Channels which help me to discover many great apps 😇 - [Droid Den](h
 
 ### Feedback 😄
 
-If you find any broken or wrong link Please report me or if you want to add suggestions, open a new issue or text me in Telegram [@Krish_440](https://t.me/krish_440)
+If you find any broken or wrong link Please report me or if you want to add suggestions, open a new [issue](https://github.com/MoonWalker440/Music-Megathread/issues/new) or text me in Telegram [@Krish_440](https://t.me/krish_440)
 
 Subscribe to my Telegram channel
 [@Mix_Mods](https://t.me/Mix_Mods)
-
-https://github.com/MoonWalker440/Music-Megathread/issues/new
