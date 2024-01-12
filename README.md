@@ -262,8 +262,6 @@ Waveform Editor. It runs entirely in the browser with no backend and no plugins 
 
 [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) - Headphone specific equalization with lots of customizability
 
-[Lossless audio checker](https://losslessaudiochecker.com/) - A utility to check whether a WAVE or FLAC file is truly lossless or not
-
 [Riffusion](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
 
 [Musetree](https://github.com/stevenwaterman/musetree) - AI Music Generation for the Real World
