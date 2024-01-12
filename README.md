@@ -58,7 +58,7 @@ Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you
 
 •  [Telegram Bots](https://github.com/MoonWalker440/Music-Megathread#telegram-bots-)
 
-•  [Telegram Channels](https://github.com/MoonWalker440/Music-Megathread#telegram-channels-)
+•  [Telegram Channels](https://github.com/MoonWalker440/Music-Megathread#telegram-channels)
 
 •  [Ambient Sound](https://github.com/MoonWalker440/Music-Megathread#ambient-sound)
 
