@@ -107,7 +107,7 @@ Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you
 
 [YouTube Music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins, built-in ad blocker, downloader and many more great features !!
 
-[Muffon](https://github.com/staniel359/muffon/) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, no login, no ads.
+[muffon](https://github.com/staniel359/muffon/) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, no login, no ads, offline playback, intelligent recommendations & more.
 
 [Sherlock Music](https://github.com/Sherlockouo/music) - A music player forked from YesPlayMusic. The beautiful third-party NetEase cloud player.
 Note - It's still in Alpha stage
