@@ -107,7 +107,7 @@ Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you
 
 [YouTube Music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins, built-in ad blocker, downloader and many more great features !!
 
-[muffon](https://github.com/staniel359/muffon/) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, no login, no ads, offline playback, intelligent recommendations & more.
+[muffon](https://github.com/staniel359/muffon/) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, no login, no ads, intelligent recommendations & more. It also supports offline playback.
 
 [Sherlock Music](https://github.com/Sherlockouo/music) - A music player forked from YesPlayMusic. The beautiful third-party NetEase cloud player.
 Note - It's still in Alpha stage
@@ -139,6 +139,8 @@ Note - It's still in Alpha stage
 [Quodlibet](https://quodlibet.readthedocs.io/) - Quod Libet is a GTK+-based audio player written in Python, using the Mutagen tagging library. It’s designed around the idea that you know how to organize your music better than we do.
 
 [Harmonoid](https://github.com/harmonoid/harmonoid) - Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
+
+[muffon](https://github.com/staniel359/muffon/) - Advanced multi-source foss music client for desktop. Free, clean, no login, no ads, intelligent recommendations & more. It also supports online streaming.
 
 ### Android Streaming Apps 🎶
 
