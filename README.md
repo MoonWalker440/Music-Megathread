@@ -48,7 +48,7 @@ Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you
 
 ↪️  [Audio Servers](https://github.com/MoonWalker440/Music-Megathread#audio-servers)
 
-↪️  [Audio Torrenting](https://github.com/MoonWalker440/Music-Example#audio-torrenting-)
+↪️  [Audio Torrenting](https://github.com/MoonWalker440/Music-Megathread#audio-torrenting)
 
 •   [Streaming Sites](https://github.com/MoonWalker440/Music-Megathread#streaming-sites)
 
