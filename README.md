@@ -226,8 +226,6 @@ Note - It's still in Alpha stage
 
 [symphony](https://github.com/zyrouge/symphony)🆕 - Lightweight, elegant and open source music player
 
-[Tear Music](https://github.com/tearone/tearmusic)🆕 - Tear Music is a music player front-end built with Flutter for custom music streaming back-ends.
-
 [Nyx Music Player](https://play.google.com/store/apps/details?id=com.awedea.nyx)🆕 - A Beautifully Crafted Music Player With Loads of Features.
 
 ### Audio Recording
