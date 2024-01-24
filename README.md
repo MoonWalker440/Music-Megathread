@@ -622,15 +622,15 @@ that would never normally get surfaced with their algorithms
 
 ### ➤ Video Game Soundtracks 
 
-- [Ffshrine](https://forums.ffshrine.org/forumdisplay.php?f=72) / [Vgmdb](https://vgmdb.net/) / [Gameost](https://gameost.net/) / [Khinsider](https://downloads.khinsider.com/) / [Folksoundomy](https://archive.org/details/folksoundomy_gamesoundtracks)
+- [Ffshrine](https://forums.ffshrine.org/forumdisplay.php?f=72) / [Vgmdb](https://vgmdb.net/) / [Gameost](https://gameost.net/) / [Khinsider](https://downloads.khinsider.com/) / [Folksoundomy](https://archive.org/details/folksoundomy_gamesoundtracks)🆕
 
-- [ligaudio](https://web.ligaudio.ru/) - Soundtrack for cartoons
+- [ligaudio](https://web.ligaudio.ru/)🆕 - Soundtrack for cartoons
 
-- [3ost.ru](https://3ost.ru/) - FLAC / MP3
+- [3ost.ru](https://3ost.ru/)🆕 - FLAC / MP3
 
 ### ➤ Sound effects
 
-- [bfxr](https://www.bfxr.net/) / [gbsfx](https://patchworkgames.itch.io/gbsfx) / [Freesound](http://www.freesound.org/) / [freesoundslibrary](https://www.freesoundslibrary.com/) / [looperman](https://www.looperman.com/loops) / [freesoundeffects](https://www.freesoundeffects.com/)
+- [bfxr](https://www.bfxr.net/) / [gbsfx](https://patchworkgames.itch.io/gbsfx) / [Freesound](http://www.freesound.org/) / [freesoundslibrary](https://www.freesoundslibrary.com/)🆕 / [looperman](https://www.looperman.com/loops)🆕 / [freesoundeffects](https://www.freesoundeffects.com/)🆕
 
 - [Cmusphinx](https://cmusphinx.github.io/wiki/) - Speech synthesis and recognition
 
