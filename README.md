@@ -68,8 +68,10 @@
    - [Music Automation](https://github.com/MoonWalker440/Music-Megathread#music-automation)
    - [Lyrics](https://github.com/MoonWalker440/Music-Megathread#lyrics)
    - [Music Production](https://github.com/MoonWalker440/Music-Megathread#music-production)
-   - [Thanks](https://github.com/MoonWalker440/Music-Megathread#thanks)
-   - [Feedback](https://github.com/MoonWalker440/Music-Megathread#feedback)
+
+   ➤ [Thanks](https://github.com/MoonWalker440/Music-Megathread#thanks)
+
+   ➤ [Feedback](https://github.com/MoonWalker440/Music-Megathread#feedback)
 
 </details>
 
