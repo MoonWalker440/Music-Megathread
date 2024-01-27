@@ -1,16 +1,27 @@
 [![GitHub Logo](https://graph.org//file/4b047bb92c4dbf0db14d4.png)](https://github.com/MoonWalker440/Music-Megathread)
 
 
-Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you'll find a comprehensive list of free alternatives for music players, a variety of useful tools, music downloader apps, streaming sites, and even Telegram bots that can help you download any song you desire. Whether you're looking to discover new music, enhance your listening experience, or access a diverse range of music-related resources, this collection has got you covered. Explore the world of music with these amazing resources and take your music journey to the next level 🚀🚀🚀
+ <h1 align="center">Music Megathread</h1>
 
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue.svg)](https://t.me/MoonWalkerslabchat)
+<p align="center"
+>🎶 Welcome to the ultimate music lover's repository on GitHub! Find free music players, tools, downloaders, streaming sites, and even Telegram bots for music. Discover new music and enhance your listening experience with these amazing resources. Take your music journey to the next level !! 🚀🚀🚀 </p>
 
-# Music Megathread
+<p align="center">
+          <img src="https://m3-markdown-badges.vercel.app/stars/1/2/MoonWalker440/Music-Megathread">
 
-## 📜 Table Of Contents
 
+<p align="center">
+  <a href="https://t.me/MoonWalkersLab">
+    <img src="https://img.shields.io/endpoint?&style=for-the-badge&colorA=e4edf2&colorB=004a77&logo=telegram&logoColor=34849f&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2FMoonWalkersLab"
+        alt="Telegram"><br>
+  <a href="https://t.me/MoonWalkersLabchat">
+    <img src="https://img.shields.io/endpoint?&style=for-the-badge&colorA=e4edf2&colorB=004a77&logo=telegram&logoColor=34849f&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2FMoonWalkersLabchat"
+        alt="Telegram">
 
-###   Spotify
+<details>
+  <summary><h2>Table Of Contents</h2></summary>
+
+###  ➤ Spotify
 
 ↪️  [Spotify Clients](https://github.com/MoonWalker440/Music-Megathread#spotify-clients)
 
@@ -20,19 +31,19 @@ Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you
 
 ↪️  [Spotify Adblockers](https://github.com/MoonWalker440/Music-Megathread#spotify-adblockers)
 
-###  Desktop Apps
+###  ➤ Desktop Apps
 
 ↪️  [Desktop Streaming Apps](https://github.com/MoonWalker440/Music-Megathread/tree/main#desktop-streaming-apps-)
 
 ↪️  [Offline Player](https://github.com/MoonWalker440/Music-Megathread/tree/main#offline-player)
 
-###  Android Apps
+###  ➤ Android Apps
 
 ↪️ [Android Streaming Apps](https://github.com/MoonWalker440/Music-Megathread/tree/main#android-streaming-apps-)
 
 ↪️ [Offline Local Player](https://github.com/MoonWalker440/Music-Megathread/tree/main#offline-local-player)
 
-###  Audio Thread
+###  ➤ Audio Thread
 
 ↪️  [Audio Recording](https://github.com/MoonWalker440/Music-Megathread#audio-recording)
 
@@ -54,35 +65,43 @@ Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you
 
 ↪️  [Audio Ripping](https://github.com/MoonWalker440/Music-Megathread#audio-ripping)
 
-•   [Streaming Sites](https://github.com/MoonWalker440/Music-Megathread#streaming-sites)
+### ➤ Others 
 
-•   [Downloader Apps](https://github.com/MoonWalker440/Music-Megathread#downloader-apps)
+-   [Streaming Sites](https://github.com/MoonWalker440/Music-Megathread#streaming-sites)
 
-•  [Song Identification](https://github.com/MoonWalker440/Music-Megathread#song-identification)
+-   [Downloader Apps](https://github.com/MoonWalker440/Music-Megathread#downloader-apps)
 
-•  [Transfer Your Music Library](https://github.com/MoonWalker440/Music-Megathread#transfer-your-music-library)
+-  [Song Identification](https://github.com/MoonWalker440/Music-Megathread#song-identification)
 
-•  [Telegram Bots](https://github.com/MoonWalker440/Music-Megathread#telegram-bots-)
+-  [Transfer Your Music Library](https://github.com/MoonWalker440/Music-Megathread#transfer-your-music-library)
 
-•  [Telegram Channels](https://github.com/MoonWalker440/Music-Megathread#telegram-channels)
+-  [Telegram Bots](https://github.com/MoonWalker440/Music-Megathread#telegram-bots-)
 
-•  [Ambient Sound](https://github.com/MoonWalker440/Music-Megathread#ambient-sound)
+-  [Telegram Channels](https://github.com/MoonWalker440/Music-Megathread#telegram-channels)
 
-•  [Podcasts / Radio](https://github.com/MoonWalker440/Music-Megathread#podcasts--radio)
+-  [Ambient Sound](https://github.com/MoonWalker440/Music-Megathread#ambient-sound)
 
-•  [Music Tracking / Discovery](https://github.com/MoonWalker440/Music-Megathread#music-tracking--discovery)
+-  [Podcasts / Radio](https://github.com/MoonWalker440/Music-Megathread#podcasts--radio)
 
-•  [Metadata Editor / File Renaming / Tagging And More](https://github.com/MoonWalker440/Music-Megathread#metadata-editor--file-renaming--tagging-and-more)
+-  [Music Tracking / Discovery](https://github.com/MoonWalker440/Music-Megathread#music-tracking--discovery)
 
-•  [Video Game Soundtracks](https://github.com/MoonWalker440/Music-Megathread#video-game-soundtracks)
+-  [Metadata Editor / File Renaming / Tagging And More](https://github.com/MoonWalker440/Music-Megathread#metadata-editor--file-renaming--tagging-and-more)
 
-•  [Sound effects](https://github.com/MoonWalker440/Music-Megathread#sound-effects)
+-  [Video Game Soundtracks](https://github.com/MoonWalker440/Music-Megathread#video-game-soundtracks)
 
-•  [Music Automation](https://github.com/MoonWalker440/Music-Megathread#music-automation)
+-  [Sound effects](https://github.com/MoonWalker440/Music-Megathread#sound-effects)
 
-•  [Lyrics](https://github.com/MoonWalker440/Music-Megathread#lyrics)
+-  [Music Automation](https://github.com/MoonWalker440/Music-Megathread#music-automation)
 
-•  [Music Production](https://github.com/MoonWalker440/Music-Megathread#music-production)
+-  [Lyrics](https://github.com/MoonWalker440/Music-Megathread#lyrics)
+
+-  [Music Production](https://github.com/MoonWalker440/Music-Megathread#music-production)
+
+-  [Thanks](https://github.com/MoonWalker440/Music-Megathread#thanks)
+
+-  [Feedback](https://github.com/MoonWalker440/Music-Megathread#feedback)
+
+</details>
 
 ### ➤ Spotify Clients
 
@@ -115,7 +134,9 @@ Welcome to the ultimate repository for music lover's on GitHub 🎶 !! Here, you
 
 👉 [Method to Get rid of Spotify ads](https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/) - Short guide on avoiding ads, banners and limited skips in Spotify 
 
-### ➤ Desktop Streaming Apps 🎧
+## ➤ Desktop Apps 
+
+### ▷ Desktop Streaming Apps 🎧
 
 - [Moosync](https://github.com/Moosync/Moosync) - Music player capable of playing local audio or from Youtube, Spotify and many more
 
@@ -148,7 +169,7 @@ Note - It's still in Alpha stage
 
 - [music-you](https://github.com/GuMengYu/music-you) - Material you music player / [Web](https://music-you-next.vercel.app/)
 
-### ➤ Offline Player
+### ▷ Offline Player
 
 - [Nora](https://github.com/Sandakan/Nora) - An elegant music player built using Electron and React. Inspired from Oto Music for Android by Piyush Mamidwar.
 
@@ -172,7 +193,9 @@ Note - It's still in Alpha stage
 
 - [Groove](https://reproductor-multimedia-de-windows.en.uptodown.com/windows)🆕 - Groove Music offers one of the most comfortable ways to listen to music on your computer
 
-### ➤ Android Streaming Apps 🎶
+## ➤ Android Apps
+
+### ▷ Android Streaming Apps 🎶
 
 - [Blackhole](https://sangwan5688.github.io/) - Blackhole is a music app created with the Purpose of high quality music streaming experience on your phone with no advertising or paid subscriptions.
 
@@ -204,7 +227,7 @@ Note - It's still in Alpha stage
 
 - [MusicSearch](https://github.com/lydavid/MusicSearch)🆕 - An Android app for browsing songs, artists, and anything related to them
 
-### ➤ Offline Local Player
+### ▷ Offline Local Player
 
 - [Namida](https://github.com/namidaco/namida) - A Feature-rich Material You Foss Music & Video Player app with Youtube Support
 
@@ -419,7 +442,9 @@ Note - It's still in Alpha stage
 
 - [How to determine the true quality of an audio file](https://www.reddit.com/r/skrillex/comments/3l0yxp/how_to_determine_the_true_quality_of_an_audio_file/)🆕
 
-### ➤ Streaming Sites
+## ➤ Others 
+
+### ▷ Streaming Sites
 
 - [First Sound](https://www.firstsounds.org/) - Oldest Music Recordings
 
@@ -452,7 +477,7 @@ that would never normally get surfaced with their algorithms
 
 - [youtune](https://youtune.kvnp.eu/)🆕 - Youtube Music Client for Android, iOS and Web
 
-### ➤ Downloader Apps
+### ▷ Downloader Apps
 
 - [Spowlo](https://github.com/BobbyESP/Spowlo) - A Spotify songs downloader for Android made with Jetpack Compose, Material You and the spotDL Python library
 
@@ -488,7 +513,7 @@ that would never normally get surfaced with their algorithms
 
 - [SongTube](https://github.com/SongTube/SongTube-App)🆕 - A new beautiful and fast application made in Flutter, it supports an almost full original experience, with many features music oriented features, including a full music player.
 
-### ➤ Song Identification
+### ▷ Song Identification
 
 - [WatZatSong](https://www.watzatsong.com/en)
 
@@ -500,7 +525,7 @@ that would never normally get surfaced with their algorithms
 
 - [Audile](https://github.com/aleksey-saenko/MusicRecognizer) - Audile is a music recognition application, that can help you quickly and accurately recognize a music track playing nearby you
 
-### ➤ Transfer Your Music Library 🔄
+### ▷ Transfer Your Music Library 🔄
 
 - [TuneMyMusic](https://tunemymusic.com/) - Transfer your music library from any music service to any other you want! Supports Spotify, TIDAL, Apple Music, YouTube, Amazon Music, Deezer and many more !!
 
@@ -510,7 +535,7 @@ that would never normally get surfaced with their algorithms
 
 - [Seeker](https://github.com/jackBonadies/SeekerAndroid) - An unofficial soulseek client
 
-### ➤ Telegram Bots 🤖
+### ▷ Telegram Bots 🤖
 
 - [@monoearthmusicbot](https://t.me/monoearthmusicbot) / [@yotBot](https://t.me/yotBot) /  [@RingtoneRobot](https://t.me/RingtoneRobot) / [@slowreverberbot](https://t.me/slowreverberbot) /  [Meph](https://t.me/mephbot) / [@MadnessBeatBot](https://t.me/MadnessBeatBot) / [@RadioBot](https://t.me/RadioBot) / [@music_ripper_bot](https://t.me/music_ripper_bot) / [@musicaiobot](https://t.me/musicaiobot) / [GlomaticoAmazonMusicbot](https://t.me/GlomaticoAmazonMusicBot) / [@GlomaticoAppleMusicBot](https://t.me/GlomaticoAppleMusicBot) / [Bay Apple Music](https://t.me/bayapplemusicbot) / [@redmuzicdlbot](https://t.me/RedMuzicBot) / [@joeymusicbot](https://t.me/@joeymusicbot)
 
@@ -534,11 +559,11 @@ that would never normally get surfaced with their algorithms
 
 - Bandcamp Downloader - [bcdl](https://github.com/daot/bcdl) , [bandcamp](https://downloadmusicschool.com/bandcamp/) , [Bandcamp Download](https://github.com/Otiel/BandcampDownloader)
 
-### ➤ Telegram Channels 
+### ▷ Telegram Channels 
 
 - [Amazon Music](https://t.me/+L6pRuCvFzWdmZmVh) / [Apple Music](https://t.me/+_a_HVYo3fXw1ZWVh) / [Spotify Database](https://t.me/joinchat/CpMAJhkWaTwk8BVPepASZQ) / [Bassmuzic](https://t.me/bassmuzic) / [CORE RADIO](https://t.me/joinchat/AfzXogQiQ9wwNGUy) / [flacmusics](https://t.me/flacmusics) / [AlbanianMusic](https://t.me/AlbanianMusic) / [YouTube Music DB](https://t.me/joinchat/l4i3KWKnONQxNWNi) / [ZKY MUSIC](https://t.me/+itsoUFF3Wv44MDFl)
 
-### ➤ Ambient Sound
+### ▷ Ambient Sound
 
 - [Calm](https://www.calm.com/app) - Meditation
 
@@ -560,7 +585,7 @@ that would never normally get surfaced with their algorithms
 
 - [Cityhop](https://www.cityhop.co.nz/) - Relaxing sounds 
 
-### ➤ Podcasts / Radio 📻
+### ▷ Podcasts / Radio 📻
 
 - [Radio Garden](https://radio.garden/) - Listen Worldwide Radio
 
@@ -584,7 +609,7 @@ that would never normally get surfaced with their algorithms
 
 - [Podverse](https://github.com/podverse/podverse-fdroid) - Free and open source podcast manager for Android, iOS, and the web
 
-### ➤ Music Tracking / Discovery 
+### ▷ Music Tracking / Discovery 
 
 - Spotify Playlist Generators - [Spotalike](https://spotalike.com/) / [Playlist generator](https://www.playlist-generator.com/) / [Groovifi](https://play.google.com/store/apps/details?id=com.parshendata.groovifi)
 
@@ -602,7 +627,7 @@ that would never normally get surfaced with their algorithms
 
 - [Soundhound](https://play.google.com/store/apps/details?id=com.melodis.midomiMusicIdentifier.freemium) - Music discovery, identification, & voice-controlled player
 
-### ➤ Metadata Editor / File Renaming / Tagging And More
+### ▷ Metadata Editor / File Renaming / Tagging And More
 
 - [Metatogger](https://www.luminescence-software.org/en/metatogger.html) - Metatogger is the new generation of tag editor allowing you to rename, tag and easily sort your audio files
 
@@ -620,27 +645,27 @@ that would never normally get surfaced with their algorithms
 
 - [audiotagger](https://github.com/codeconscious/audiotagger) - Various ID3 tag–related operations on local audio files
 
-### ➤ Video Game Soundtracks 
+### ▷ Video Game Soundtracks 
 
-- [Ffshrine](https://forums.ffshrine.org/forumdisplay.php?f=72) / [Vgmdb](https://vgmdb.net/) / [Gameost](https://gameost.net/) / [Khinsider](https://downloads.khinsider.com/) / [Folksoundomy](https://archive.org/details/folksoundomy_gamesoundtracks)🆕
+- [Ffshrine](https://forums.ffshrine.org/forumdisplay.php?f=72) / [Vgmdb](https://vgmdb.net/) / [Gameost](https://gameost.net/) / [Khinsider](https://downloads.khinsider.com/) / [Folksoundomy](https://archive.org/details/folksoundomy_gamesoundtracks)
 
-- [ligaudio](https://web.ligaudio.ru/)🆕 - Soundtrack for cartoons
+- [ligaudio](https://web.ligaudio.ru/) - Soundtrack for cartoons
 
-- [3ost.ru](https://3ost.ru/)🆕 - FLAC / MP3
+- [3ost.ru](https://3ost.ru/) - FLAC / MP3
 
-### ➤ Sound effects
+### ▷ Sound effects
 
-- [bfxr](https://www.bfxr.net/) / [gbsfx](https://patchworkgames.itch.io/gbsfx) / [Freesound](http://www.freesound.org/) / [freesoundslibrary](https://www.freesoundslibrary.com/)🆕 / [looperman](https://www.looperman.com/loops)🆕 / [freesoundeffects](https://www.freesoundeffects.com/)🆕
+- [bfxr](https://www.bfxr.net/) / [gbsfx](https://patchworkgames.itch.io/gbsfx) / [Freesound](http://www.freesound.org/) / [freesoundslibrary](https://www.freesoundslibrary.com/) / [looperman](https://www.looperman.com/loops) / [freesoundeffects](https://www.freesoundeffects.com/)
 
 - [Cmusphinx](https://cmusphinx.github.io/wiki/) - Speech synthesis and recognition
 
-### ➤ Music Automation
+### ▷ Music Automation
 
 - [Betanin](https://github.com/sentriz/betanin) - Betanin based man-in-the-middle of your torrent client and music player
 
 - [Lidarr](https://github.com/lidarr/Lidarr) - It's a music collection manager for Usenet and BitTorrent users
 
-### ➤ Lyrics
+### ▷ Lyrics
 
 - [Azlyrics](https://www.azlyrics.com/) / [Versefy](https://versefy.app) / [beautiful-lyrics](https://github.com/surfbryce/beautiful-lyrics)
 
@@ -652,7 +677,7 @@ that would never normally get surfaced with their algorithms
 
 - [MxLRC](https://github.com/fashni/MxLRC) - Fetch synced lyrics from Musixmatch and save it as *.lrc file, written in Python
 
-### ➤ Music Production
+### ▷ Music Production
 
 - [FL Studio Mobile](https://play.google.com/store/apps/details?id=com.imageline.FLM) / [Bandlab](https://play.google.com/store/apps/details?id=com.bandlab.bandlab) / [LMMS]() / [Rap Fame](https://play.google.com/store/apps/details?id=com.komspek.battleme) / [Moises](https://play.google.com/store/apps/details?id=ai.moises) / [Groovepad](https://play.google.com/store/apps/details?id=com.easybrain.make.music) / [Edjing Mix](https://play.google.com/store/apps/details?id=com.edjing.edjingdjturntable) / [Ableton Live Suite](https://www.ableton.com/en/) / [Bitwig](https://www.bitwig.com/) / [LMMS](https://lmms.io/lsp/)
 
