@@ -21,85 +21,55 @@
 <details>
   <summary><h2>Table Of Contents</h2></summary>
 
-###  ➤ Spotify
+### ➤ Spotify
 
-↪️  [Spotify Clients](https://github.com/MoonWalker440/Music-Megathread#spotify-clients)
-
-↪️  [Spotify Tools](https://github.com/MoonWalker440/Music-Megathread#spotify-tools)
-
-↪️  [Spotify Themes](https://github.com/MoonWalker440/Music-Megathread#spotify-themes)
-
-↪️  [Spotify Adblockers](https://github.com/MoonWalker440/Music-Megathread#spotify-adblockers)
+   - [Spotify Clients](https://github.com/MoonWalker440/Music-Megathread#spotify-clients)
+   - [Spotify Tools](https://github.com/MoonWalker440/Music-Megathread#spotify-tools)
+   - [Spotify Themes](https://github.com/MoonWalker440/Music-Megathread#spotify-themes)
+   - [Spotify Adblockers](https://github.com/MoonWalker440/Music-Megathread#spotify-adblockers)
 
 ###  ➤ Desktop Apps
 
-↪️  [Desktop Streaming Apps](https://github.com/MoonWalker440/Music-Megathread/tree/main#desktop-streaming-apps-)
-
-↪️  [Offline Player](https://github.com/MoonWalker440/Music-Megathread/tree/main#offline-player)
+   - [Desktop Streaming Apps](https://github.com/MoonWalker440/Music-Megathread/tree/main#desktop-streaming-apps-)
+   - [Offline Player](https://github.com/MoonWalker440/Music-Megathread/tree/main#offline-player)
 
 ###  ➤ Android Apps
 
-↪️ [Android Streaming Apps](https://github.com/MoonWalker440/Music-Megathread/tree/main#android-streaming-apps-)
-
-↪️ [Offline Local Player](https://github.com/MoonWalker440/Music-Megathread/tree/main#offline-local-player)
+   - [Android Streaming Apps](https://github.com/MoonWalker440/Music-Megathread/tree/main#android-streaming-apps-)
+   - [Offline Local Player](https://github.com/MoonWalker440/Music-Megathread/tree/main#offline-local-player)
 
 ###  ➤ Audio Thread
 
-↪️  [Audio Recording](https://github.com/MoonWalker440/Music-Megathread#audio-recording)
-
-↪️  [Mobile Audio Recording](https://github.com/MoonWalker440/Music-Megathread#mobile-audio-recording)
-
-↪️  [Audio Downloading](https://github.com/MoonWalker440/Music-Megathread#audio-downloading)
-
-↪️  [Audio Tools](https://github.com/MoonWalker440/Music-Megathread#audio-tools)
-
-↪️  [Audio Editing](https://github.com/MoonWalker440/Music-Megathread#audio-editing)
-
-↪️  [Audiobooks](https://github.com/MoonWalker440/Music-Megathread#audiobooks)
-
-↪️  [Audiobook Player](https://github.com/MoonWalker440/Music-Megathread#audiobook-player)
-
-↪️  [Audio Servers](https://github.com/MoonWalker440/Music-Megathread#audio-servers)
-
-↪️  [Audio Torrenting](https://github.com/MoonWalker440/Music-Megathread#audio-torrenting)
-
-↪️  [Audio Ripping](https://github.com/MoonWalker440/Music-Megathread#audio-ripping)
+   - [Audio Recording](https://github.com/MoonWalker440/Music-Megathread#audio-recording)
+   - [Mobile Audio Recording](https://github.com/MoonWalker440/Music-Megathread#mobile-audio-recording)
+   - [Audio Downloading](https://github.com/MoonWalker440/Music-Megathread#audio-downloading)
+   - [Audio Tools](https://github.com/MoonWalker440/Music-Megathread#audio-tools)
+   - [Audio Editing](https://github.com/MoonWalker440/Music-Megathread#audio-editing)
+   - [Audiobooks](https://github.com/MoonWalker440/Music-Megathread#audiobooks)
+   - [Audiobook Player](https://github.com/MoonWalker440/Music-Megathread#audiobook-player)
+   - [Audio Servers](https://github.com/MoonWalker440/Music-Megathread#audio-servers)
+   - [Audio Torrenting](https://github.com/MoonWalker440/Music-Megathread#audio-torrenting)
+   - [Audio Ripping](https://github.com/MoonWalker440/Music-Megathread#audio-ripping)
 
 ### ➤ Others 
 
--   [Streaming Sites](https://github.com/MoonWalker440/Music-Megathread#streaming-sites)
-
--   [Downloader Apps](https://github.com/MoonWalker440/Music-Megathread#downloader-apps)
-
--  [Song Identification](https://github.com/MoonWalker440/Music-Megathread#song-identification)
-
--  [Transfer Your Music Library](https://github.com/MoonWalker440/Music-Megathread#transfer-your-music-library)
-
--  [Telegram Bots](https://github.com/MoonWalker440/Music-Megathread#telegram-bots-)
-
--  [Telegram Channels](https://github.com/MoonWalker440/Music-Megathread#telegram-channels)
-
--  [Ambient Sound](https://github.com/MoonWalker440/Music-Megathread#ambient-sound)
-
--  [Podcasts / Radio](https://github.com/MoonWalker440/Music-Megathread#podcasts--radio)
-
--  [Music Tracking / Discovery](https://github.com/MoonWalker440/Music-Megathread#music-tracking--discovery)
-
--  [Metadata Editor / File Renaming / Tagging And More](https://github.com/MoonWalker440/Music-Megathread#metadata-editor--file-renaming--tagging-and-more)
-
--  [Video Game Soundtracks](https://github.com/MoonWalker440/Music-Megathread#video-game-soundtracks)
-
--  [Sound effects](https://github.com/MoonWalker440/Music-Megathread#sound-effects)
-
--  [Music Automation](https://github.com/MoonWalker440/Music-Megathread#music-automation)
-
--  [Lyrics](https://github.com/MoonWalker440/Music-Megathread#lyrics)
-
--  [Music Production](https://github.com/MoonWalker440/Music-Megathread#music-production)
-
--  [Thanks](https://github.com/MoonWalker440/Music-Megathread#thanks)
-
--  [Feedback](https://github.com/MoonWalker440/Music-Megathread#feedback)
+   - [Streaming Sites](https://github.com/MoonWalker440/Music-Megathread#streaming-sites)
+   - [Downloader Apps](https://github.com/MoonWalker440/Music-Megathread#downloader-apps)
+   - [Song Identification](https://github.com/MoonWalker440/Music-Megathread#song-identification)
+   - [Transfer Your Music Library](https://github.com/MoonWalker440/Music-Megathread#transfer-your-music-library)
+   - [Telegram Bots](https://github.com/MoonWalker440/Music-Megathread#telegram-bots-)
+   - [Telegram Channels](https://github.com/MoonWalker440/Music-Megathread#telegram-channels)
+   - [Ambient Sound](https://github.com/MoonWalker440/Music-Megathread#ambient-sound)
+   - [Podcasts / Radio](https://github.com/MoonWalker440/Music-Megathread#podcasts--radio)
+   - [Music Tracking / Discovery](https://github.com/MoonWalker440/Music-Megathread#music-tracking--discovery)
+   - [Metadata Editor / File Renaming / Tagging And More](https://github.com/MoonWalker440/Music-Megathread#metadata-editor--file-renaming--tagging-and-more)
+   - [Video Game Soundtracks](https://github.com/MoonWalker440/Music-Megathread#video-game-soundtracks)
+   - [Sound effects](https://github.com/MoonWalker440/Music-Megathread#sound-effects)
+   - [Music Automation](https://github.com/MoonWalker440/Music-Megathread#music-automation)
+   - [Lyrics](https://github.com/MoonWalker440/Music-Megathread#lyrics)
+   - [Music Production](https://github.com/MoonWalker440/Music-Megathread#music-production)
+   - [Thanks](https://github.com/MoonWalker440/Music-Megathread#thanks)
+   - [Feedback](https://github.com/MoonWalker440/Music-Megathread#feedback)
 
 </details>
 
@@ -687,11 +657,11 @@ that would never normally get surfaced with their algorithms
 
 ### 💝 Thanks to
 
-Friends and many supporters who provided many materials for me and make suggestions to me to make this repository more cool 🙌
+- Friends and many supporters who provided many materials for me and make suggestions to me to make this repository more cool 🙌
 
-Very thanks to [@SowadBD](https://t.me/SowadBD) for making such a cool banner ❤️
+- Very thanks to [@SowadBD](https://t.me/SowadBD) for making such a cool banner ❤️
 
-Telegram Channels which help me to discover many great apps 😇 - [Droid Den](https://t.me/DroidDenn) , [Mix Mods](https://t.me/Mix_Mods) , [Twapple](https://t.me/twapple)
+- Telegram Channels which help me to discover many great apps 😇 - [Droid Den](https://t.me/DroidDenn) , [Mix Mods](https://t.me/Mix_Mods) , [Twapple](https://t.me/twapple)
 
 ### Feedback 😄
 
