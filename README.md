@@ -165,6 +165,8 @@ Note - It's still in Alpha stage
 
 - [Groove](https://reproductor-multimedia-de-windows.en.uptodown.com/windows)🆕 - Groove Music offers one of the most comfortable ways to listen to music on your computer
 
+- [Elisa](https://apps.kde.org/elisa/) - A music player by KDE community with system integration and KDE color scheme.
+
 ## ➤ Android Apps
 
 ### ▷ Android Streaming Apps 🎶
@@ -239,6 +241,8 @@ Note - It's still in Alpha stage
 
 - [SoulSearching](https://github.com/enteraname74/SoulSearching)🆕 - An offline music application for Android 8 and above using Jetpack Compose.
 
+- [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player) - A feature rich mmusic appliation with a bit of classical taste alongside material design. 
+
 ## ➤ Audio Thread 
 
 ### ▷ Audio Recording
@@ -256,6 +260,8 @@ Note - It's still in Alpha stage
 - [Audionote](https://github.com/certified84/AudioNote) - A simple open source audio note-taking Android application
 
 - [Record You](https://github.com/you-apps/RecordYou) - Privacy focused recorder app built with MD3
+
+- [Dolby On](https://play.google.com/store/apps/details?id=com.dolby.dolby234) - Nothing beats music when dolby support is integrated, right? 
 
 ### ▷ Audio Downloading
 
@@ -651,7 +657,7 @@ that would never normally get surfaced with their algorithms
 
 ### ▷ Music Production
 
-- [FL Studio Mobile](https://play.google.com/store/apps/details?id=com.imageline.FLM) / [Bandlab](https://play.google.com/store/apps/details?id=com.bandlab.bandlab) / [LMMS]() / [Rap Fame](https://play.google.com/store/apps/details?id=com.komspek.battleme) / [Moises](https://play.google.com/store/apps/details?id=ai.moises) / [Groovepad](https://play.google.com/store/apps/details?id=com.easybrain.make.music) / [Edjing Mix](https://play.google.com/store/apps/details?id=com.edjing.edjingdjturntable) / [Ableton Live Suite](https://www.ableton.com/en/) / [Bitwig](https://www.bitwig.com/) / [LMMS](https://lmms.io/lsp/)
+- [FL Studio Mobile](https://play.google.com/store/apps/details?id=com.imageline.FLM) / [Bandlab](https://play.google.com/store/apps/details?id=com.bandlab.bandlab) / [LMMS]() / [Rap Fame](https://play.google.com/store/apps/details?id=com.komspek.battleme) / [Moises](https://play.google.com/store/apps/details?id=ai.moises) / [Groovepad](https://play.google.com/store/apps/details?id=com.easybrain.make.music) / [Edjing Mix](https://play.google.com/store/apps/details?id=com.edjing.edjingdjturntable) / [Ableton Live Suite](https://www.ableton.com/en/) / [Bitwig](https://www.bitwig.com/) / [LMMS](https://lmms.io/lsp/) 
 
 - [Tonbandfetzen](https://github.com/janberges/Tonbandfetzen)🆕 - Tonbandfetzen is a collection of command-line tools that allow you to compose music based on audio fragments generated from plain text input.
 
