@@ -71,6 +71,8 @@
 
    ➤ [Thanks](https://github.com/MoonWalker440/Music-Megathread#thanks)
 
+   ➤ [Contributors](https://github.com/MoonWalker440/Music-Megathread#contributors)
+
    ➤ [Feedback](https://github.com/MoonWalker440/Music-Megathread#feedback)
 
 </details>
@@ -165,7 +167,7 @@ Note - It's still in Alpha stage
 
 - [Groove](https://reproductor-multimedia-de-windows.en.uptodown.com/windows)🆕 - Groove Music offers one of the most comfortable ways to listen to music on your computer
 
-- [Elisa](https://apps.kde.org/elisa/) - A music player by KDE community with system integration and KDE color scheme.
+- [Elisa](https://apps.kde.org/elisa/)🆕 - A music player by KDE community with system integration and KDE color scheme.
 
 ## ➤ Android Apps
 
@@ -241,7 +243,7 @@ Note - It's still in Alpha stage
 
 - [SoulSearching](https://github.com/enteraname74/SoulSearching)🆕 - An offline music application for Android 8 and above using Jetpack Compose.
 
-- [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player) - A feature rich mmusic appliation with a bit of classical taste alongside material design. 
+- [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player)🆕 - A feature rich music appliation with a bit of classical taste alongside material design. 
 
 ## ➤ Audio Thread 
 
@@ -261,7 +263,7 @@ Note - It's still in Alpha stage
 
 - [Record You](https://github.com/you-apps/RecordYou) - Privacy focused recorder app built with MD3
 
-- [Dolby On](https://play.google.com/store/apps/details?id=com.dolby.dolby234) - Nothing beats music when dolby support is integrated, right? 
+- [Dolby On](https://play.google.com/store/apps/details?id=com.dolby.dolby234)🆕 - Nothing beats music when dolby support is integrated, right? 
 
 ### ▷ Audio Downloading
 
@@ -670,6 +672,23 @@ that would never normally get surfaced with their algorithms
 - Very thanks to [@SowadBD](https://t.me/SowadBD) for making such a cool banner ❤️
 
 - Telegram Channels which help me to discover many great apps 😇 - [Droid Den](https://t.me/DroidDenn) , [Mix Mods](https://t.me/Mix_Mods) , [Twapple](https://t.me/twapple)
+
+### Contributors ✨
+
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/MoonWalker440"><img src="https://graph.org//file/96cefcd4214bd4c1c31ff.jpg" width="100px;" alt=""/><br /><sub><b>Krish</b></sub></a><br /><a href="#MoonWalker440" title="Design"></a> <a href="https://github.com/cloverleaf/web/commits?author=MoonWalker440" title="Code"></a></td>
+    <td align="center"><a href="https://github.com/Unofficial-Life"><img src="https://graph.org//file/8446314ce08a4679a8361.jpg" width="100px;" alt=""/><br /><sub><b>Unofficial</b></sub></a><br /><a href="#Unofficial" title="Design"></a> <a href="https://github.com/cloverleaf/web/commits?author=Unofficial" title="Code"></a></td> 
+    <td align="center"><a href="https://github.com/xyloflake"><img src="https://graph.org//file/25064d7e4c467270bb294.jpg" width="100px;" alt=""/><br /><sub><b>xyloflake</b></sub></a><br /><a href="#xyloflake" title="Design"></a> <a href="https://github.com/cloverleaf/web/commits?author=xyloflake" title="Code"></a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
 
 ### Feedback 😄
 
