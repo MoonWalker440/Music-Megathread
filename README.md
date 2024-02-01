@@ -71,9 +71,9 @@
 
    ➤ [Thanks](https://github.com/MoonWalker440/Music-Megathread#thanks)
 
-   ➤ [Contributors](https://github.com/MoonWalker440/Music-Megathread#contributors)
-
    ➤ [Feedback](https://github.com/MoonWalker440/Music-Megathread#feedback)
+
+   ➤ [Contributors](https://github.com/MoonWalker440/Music-Megathread#contributors) 
 
 </details>
 
@@ -673,6 +673,10 @@ that would never normally get surfaced with their algorithms
 
 - Telegram Channels which help me to discover many great apps 😇 - [Droid Den](https://t.me/DroidDenn) , [Mix Mods](https://t.me/Mix_Mods) , [Twapple](https://t.me/twapple)
 
+### Feedback 😄
+
+If you find any broken or wrong link Please report me or if you want to add suggestions, open a new [issue](https://github.com/MoonWalker440/Music-Megathread/issues/new) or text me in Telegram [@Krish_440](https://t.me/krish_440)
+
 ### Contributors ✨
 
 
@@ -689,7 +693,3 @@ that would never normally get surfaced with their algorithms
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
-
-### Feedback 😄
-
-If you find any broken or wrong link Please report me or if you want to add suggestions, open a new [issue](https://github.com/MoonWalker440/Music-Megathread/issues/new) or text me in Telegram [@Krish_440](https://t.me/krish_440)
