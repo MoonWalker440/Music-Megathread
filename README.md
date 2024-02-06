@@ -406,6 +406,8 @@ Note - It's still in Alpha stage
 
 - [mStream](https://mstream.io/) - A music streaming server
 
+- [Logitech Media Server](https://lms-community.github.io/) - Self-hosted, extensible music server with support for multiroom playing and third-party streaming services. It can play local or remote music to a wide range of software and hardware players.
+
 ### ▷ Audio Torrenting
 
 - [TheTradersDen](http://www.thetradersden.org/) / [Black Torrent](https://blacktorrent.ru/) / [New Team](https://new-team.org/) / [Goldesel](http://goldesel.to/) / [MyAnonaMouse](https://www.myanonamouse.net/) / [NoNaMe Club](https://nnmclub.to/) / [Rutracker](https://rutracker.org/forum/index.php) / [Mixtapetorrent](http://www.mixtapetorrent.com/) / [TribalMixes](https://www.tribalmixes.com/)
