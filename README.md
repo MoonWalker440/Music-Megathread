@@ -143,6 +143,8 @@ Note - It's still in Alpha stage
 
 - [music-you](https://github.com/GuMengYu/music-you) - Material you music player / [Web](https://music-you-next.vercel.app/)
 
+- [Supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured music player for Jellyfin and Subsonic-compatible music servers 
+
 ### ▷ Offline Player
 
 - [Nora](https://github.com/Sandakan/Nora) - An elegant music player built using Electron and React. Inspired from Oto Music for Android by Piyush Mamidwar.
