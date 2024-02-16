@@ -143,8 +143,6 @@ Note - It's still in Alpha stage
 
 - [music-you](https://github.com/GuMengYu/music-you) - Material you music player / [Web](https://music-you-next.vercel.app/)
 
-- [Supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured music player for Jellyfin and Subsonic-compatible music servers 
-
 ### ▷ Offline Player
 
 - [Nora](https://github.com/Sandakan/Nora) - An elegant music player built using Electron and React. Inspired from Oto Music for Android by Piyush Mamidwar.
@@ -403,6 +401,8 @@ Note - It's still in Alpha stage
 - [Navidrome](https://github.com/navidrome/navidrome) - Navidrome is an open source web-based music collection server and streamer. It gives you freedom to listen to your music collection from any browser or mobile device. It's like your personal Spotify !
 
 - [Tempo](https://github.com/CappielloAntonio/tempo) - An open source and lightweight music client for Subsonic, designed and built natively for Android
+
+- [Supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured desktop music client for Jellyfin and Subsonic-compatible servers 
 
 - [Funkwhale](https://play.google.com/store/apps/details?id=audio.funkwhale.ffa) - Access your personal music collection from anywhere. Funkwhale supports advanced sharing features to promote Freely licensed content
 
