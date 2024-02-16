@@ -402,6 +402,8 @@ Note - It's still in Alpha stage
 
 - [Tempo](https://github.com/CappielloAntonio/tempo) - An open source and lightweight music client for Subsonic, designed and built natively for Android
 
+- [Supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured desktop music client for Jellyfin and Subsonic-compatible servers 
+
 - [Funkwhale](https://play.google.com/store/apps/details?id=audio.funkwhale.ffa) - Access your personal music collection from anywhere. Funkwhale supports advanced sharing features to promote Freely licensed content
 
 - [mStream](https://mstream.io/) - A music streaming server
