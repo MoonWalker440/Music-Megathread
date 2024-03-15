@@ -694,6 +694,10 @@ that would never normally get surfaced with their algorithms
 
 - [Everynoise](http://Everynoise.com)🆕 - A website that provides a map of music genres. It allows users to explore and discover new music by browsing through a variety of genres and subgenres.
 
+- [Maloja](https://github.com/krateng/maloja)🆕 - A self-hosted alternative to last.fm to scrobble your music history and view listening statistics.
+
+- [multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler)🆕 - A self-hosted app that monitors your music platforms and scrobbles to multiple clients.
+
 ### ▷ Metadata Editor / File Renaming / Tagging And More
 
 - [Metatogger](https://www.luminescence-software.org/en/metatogger.html) - Metatogger is the new generation of tag editor allowing you to rename, tag and easily sort your audio files
