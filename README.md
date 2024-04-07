@@ -93,15 +93,15 @@
 ### ➤ Spotify Tools
 
 - [Spicetify.app](https://spicetify.app) / 
-[Lyricify](https://github.com/WXRIW/Lyricify-App) / [Spotify Lyrics](https://github.com/mantou132/Spotify-Lyrics) / [Spotify Tools](https://spotifytools.romanello.xyz/) / [Spotify Cloud](https://spotifycloud.zamar-roura.com/) / [SpotiStat](https://spotistats.app/) / [Spotr](https://github.com/XDGFX/spotr) / [Versefy](https://versefy.app/) / [Exportify](https://github.com/watsonbox/exportify) / [Spottr](https://github.com/Spiderpig86/spottr) / [Spytify](https://jwallet.github.io/spy-spotify/) / [spotify_to_ytmusic](https://github.com/sigma67/spotify_to_ytmusic) / [spotifyplaylistrandomizer](https://stevenaleong.com/tools/spotifyplaylistrandomizer)🆕
+[Lyricify](https://github.com/WXRIW/Lyricify-App) / [Spotify Lyrics](https://github.com/mantou132/Spotify-Lyrics) / [Spotify Tools](https://spotifytools.romanello.xyz/) / [Spotify Cloud](https://spotifycloud.zamar-roura.com/) / [SpotiStat](https://spotistats.app/) / [Spotr](https://github.com/XDGFX/spotr) / [Versefy](https://versefy.app/) / [Exportify](https://github.com/watsonbox/exportify) / [Spottr](https://github.com/Spiderpig86/spottr) / [Spytify](https://jwallet.github.io/spy-spotify/) / [spotify_to_ytmusic](https://github.com/sigma67/spotify_to_ytmusic) / [spotifyplaylistrandomizer](https://stevenaleong.com/tools/spotifyplaylistrandomizer)
 
-- [SpotifySyncWall](https://github.com/genricoloni/SpotifySyncWall)🆕 - Currently Playing Spotify Song As Wallpaper.
+- [SpotifySyncWall](https://github.com/genricoloni/SpotifySyncWall) - Currently Playing Spotify Song As Wallpaper.
 
-- [DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot)🆕 - Spotify music and playlist downloader working with free Spotify accounts.
+- [DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot) - Spotify music and playlist downloader working with free Spotify accounts.
 
-- [Syrics Web](https://github.com/akashrchandran/syrics-web)🆕 - A web app to download Spotify lyrics.
+- [Syrics Web](https://github.com/akashrchandran/syrics-web) - A web app to download Spotify lyrics.
 
-- [Spotify github profile](https://github.com/kittinan/spotify-github-profile)🆕 - Show your Spotify playing on your Github profile
+- [Spotify github profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile
 
 ### ➤ Spotify Themes
 
@@ -148,9 +148,9 @@ Note - It's still in Alpha stage
 
 - [music-you](https://github.com/GuMengYu/music-you) - Material you music player / [Web](https://music-you-next.vercel.app/)
 
-- [Ytmdesktop2](https://github.com/Venipa/ytmdesktop2)🆕 - Unofficial Youtube Music Desktop App, with LastFM support.
+- [Ytmdesktop2](https://github.com/Venipa/ytmdesktop2) - Unofficial Youtube Music Desktop App, with LastFM support.
 
-- [Hi-fi](https://github.com/sachinsenal0x64/Hifi-Tui)🆕 - Privacy Focused Cross Platform Self Hostable Tidal Reverse Proxy / Tui + Batteries Included.
+- [Hi-fi](https://github.com/sachinsenal0x64/Hifi-Tui) - Privacy Focused Cross Platform Self Hostable Tidal Reverse Proxy / Tui + Batteries Included.
 
 ### ▷ Offline Player
 
@@ -176,17 +176,17 @@ Note - It's still in Alpha stage
 
 - [Elisa](https://apps.kde.org/elisa/) - A music player by KDE community with system integration and KDE color scheme.
 
-- [Sayonara](https://sayonara-player.com)🆕 - Linux audio player and music library manager
+- [Sayonara](https://sayonara-player.com) - Linux audio player and music library manager
 
-- [Amberol](https://apps.gnome.org/en-GB/Amberol/)🆕 - Amberol is a music player with no delusions of grandeur
+- [Amberol](https://apps.gnome.org/en-GB/Amberol/) - Amberol is a music player with no delusions of grandeur
 
-- [MPD](https://www.musicpd.org/)🆕 - Music Player Daemon (MPD) is a flexible, powerful, server-side application for playing music. [Clients](https://www.musicpd.org/clients/)
+- [MPD](https://www.musicpd.org/) - Music Player Daemon (MPD) is a flexible, powerful, server-side application for playing music. [Clients](https://www.musicpd.org/clients/)
+
+- [Swing Music](https://swingmusic.vercel.app/)🆕 - A beautiful, self-hosted music player for your local audio files / [GitHub](https://github.com/swing-opensource/swingmusic)
 
 ## ➤ Android Apps
 
 ### ▷ Android Streaming Apps 🎶
-
-- [Blackhole](https://sangwan5688.github.io/) - Blackhole is a music app created with the Purpose of high quality music streaming experience on your phone with no advertising or paid subscriptions.
 
 - [Gyawun](https://github.com/sheikhhaziq/gyavun) - A Flutter application for streaming music from Jio Saavn and YouTube Music
 
@@ -216,7 +216,9 @@ Note - It's still in Alpha stage
 
 - [MusicSearch](https://github.com/lydavid/MusicSearch) - An Android app for browsing songs, artists, and anything related to them
 
-- [Just Audio](https://github.com/ryanheise/just_audio)🆕 - A solution for streaming H.264, H.263, AMR, AAC using RTP on Android
+- [Just Audio](https://github.com/ryanheise/just_audio) - A solution for streaming H.264, H.263, AMR, AAC using RTP on Android
+
+- [ViTune](https://github.com/25huizengek1/ViMusic)🆕 - An Android application for streaming music from YouTube Music
 
 ### ▷ Offline Local Player
 
@@ -260,7 +262,15 @@ Note - It's still in Alpha stage
 
 - [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player) - A feature rich music appliation with a bit of classical taste alongside material design.
 
-- [Musicmax](https://github.com/TheMusicmax/Musicmax)🆕 - Musicmax is a Music Player application for Android 
+- [Musicmax](https://github.com/TheMusicmax/Musicmax) - Musicmax is a Music Player application for Android 
+
+- [Music Player GO](https://github.com/enricocid/Music-Player-GO/)🆕 - Very simple local Android Music Player
+
+- [Apollo Music](https://github.com/nuclearfog/Apollo-Music/)🆕 - A fork from CyanogenMod's Apollo music app
+
+- [Accord](https://t.me/AkaneDistributionStorage/3)🆕 - A sane music player built with media3 and material design library
+
+- [Breeze : Music Player & Friends](https://play.google.com/store/apps/details?id=com.airis.breeze)🆕 - A beautiful Material You Music Player that lets you listen to music with friends and chat in real time !!
 
 ## ➤ Audio Thread 
 
@@ -285,8 +295,6 @@ Note - It's still in Alpha stage
 ### ▷ Audio Downloading
 
 - [Double Double](https://doubledouble.top/) - 320kb / MP3 / FLAC
-
-- [Free Mp3 Downloader](https://free-mp3-download.net/) - 320kb / MP3 / FLAC
 
 - [SpotifyMate](https://spotifymate.com/) - MP3
 
@@ -330,21 +338,21 @@ Note - It's still in Alpha stage
 
 - [downloadsound.cloud](https://downloadsound.cloud/) - Download your favorite SoundCloud tracks to MP3 files with one click.
 
-- [albumart.digital](https://albumart.digital/)🆕 - Allows users to download high-quality album art for their music library.
+- [albumart.digital](https://albumart.digital/) - Allows users to download high-quality album art for their music library.
 
-- [Slavart](https://slavart.gamesdrive.net)🆕 - Easily download high quality music for free.
+- [Slavart](https://slavart.gamesdrive.net) - Easily download high quality music for free.
 
-- [Baidu gamesdrive](https://baidu.gamesdrive.net/)🆕 - A tool to get the download link of the Baidu netdisk. [GitHub](https://github.com/yuantuo666/baiduwp-php)
+- [Baidu gamesdrive](https://baidu.gamesdrive.net/) - A tool to get the download link of the Baidu netdisk. [GitHub](https://github.com/yuantuo666/baiduwp-php)
 
-- [f_streaming](https://github.com/2N44/f_streaming)🆕 - Small program with GUI to download and tag mp3
+- [f_streaming](https://github.com/2N44/f_streaming) - Small program with GUI to download and tag mp3
 
-- [myfreemp3juices](https://myfreemp3juices.cc/)🆕 - Free Mp3 Downloads 
+- [myfreemp3juices](https://myfreemp3juices.cc/) - Free Mp3 Downloads 
 
-- [Onthespot](https://github.com/casualsnek/onthespot)🆕 - qt based music downloader written in python
+- [Onthespot](https://github.com/casualsnek/onthespot) - qt based music downloader written in python
 
-- [kpop](https://kpopdownloadscmm.blogspot.com/)🆕 - K pop downloads 
+- [kpop](https://kpopdownloadscmm.blogspot.com/) - K pop downloads 
 
-- [Zorify](https://gitlab.com/team-zotify/zotify)🆕 - Downloads directly from Spotify, suporting ogg, mp3 and other config stuff
+- [Zorify](https://gitlab.com/team-zotify/zotify) - Downloads directly from Spotify, suporting ogg, mp3 and other config stuff
 
 ### ▷ Audio Tools
 
@@ -395,13 +403,13 @@ Note - It's still in Alpha stage
 
 - [sonicvisualiser](https://www.sonicvisualiser.org/) - Visualisation, analysis, and annotation of music audio recordings
 
-- [AudioBand](https://github.com/AudioBand/AudioBand)🆕 - Display and control songs from the Windows taskbar.
+- [AudioBand](https://github.com/AudioBand/AudioBand) - Display and control songs from the Windows taskbar.
 
-- [JamesDSPManager](https://github.com/james34602/JamesDSPManager)🆕 - Audio DSP effects build on Android system framework layer
+- [JamesDSPManager](https://github.com/james34602/JamesDSPManager) - Audio DSP effects build on Android system framework layer
 
-- [eqMac](https://github.com/bitgapp/eqMac)🆕 - macOS  System-wide Audio Equalizer & Volume Mixer
+- [eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer & Volume Mixer
 
-- [exactaudiocopy](https://www.exactaudiocopy.de/)🆕 - Exact Audio Copy is a so called audio grabber for CDs using standard CD and DVD-ROM drives
+- [exactaudiocopy](https://www.exactaudiocopy.de/) - Exact Audio Copy is a so called audio grabber for CDs using standard CD and DVD-ROM drives
 
 ### ▷ Audio Editing
 
@@ -418,6 +426,8 @@ Note - It's still in Alpha stage
 - [Audioalter](https://audioalter.com) - A collection of easy-to-use web tools for all your audio files
 
 - [Adobe Enhance](https://podcast.adobe.com/enhance) - Speech Enhancer
+
+- [Element](https://kushview.net/element/)🆕 - Powerful Audio Editor
 
 ### ▷ Audiobooks
 
@@ -451,13 +461,13 @@ Note - It's still in Alpha stage
 
 - [Logitech Media Server](https://lms-community.github.io/) - Self-hosted, extensible music server with support for multiroom playing and third-party streaming services. It can play local or remote music to a wide range of software and hardware players.
 
-- [Supersonic](https://github.com/dweymouth/supersonic)🆕 - A lightweight and full-featured desktop music client for Jellyfin and Subsonic-compatible servers 
+- [Supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured desktop music client for Jellyfin and Subsonic-compatible servers 
 
-- [Tack](https://github.com/patzly/tack-android/)🆕 - A powerful and beautiful metronome for Android
+- [Tack](https://github.com/patzly/tack-android/) - A powerful and beautiful metronome for Android
 
 ### ▷ Audio Torrenting
 
-- [TheTradersDen](http://www.thetradersden.org/) / [Black Torrent](https://blacktorrent.ru/) / [New Team](https://new-team.org/) / [Goldesel](http://goldesel.to/) / [MyAnonaMouse](https://www.myanonamouse.net/) / [NoNaMe Club](https://nnmclub.to/) / [Rutracker](https://rutracker.org/forum/index.php) / [Mixtapetorrent](http://www.mixtapetorrent.com/) / [TribalMixes](https://www.tribalmixes.com/) / [Multiplex](https://github.com/pojntfx/multiplex)🆕
+- [TheTradersDen](http://www.thetradersden.org/) / [Black Torrent](https://blacktorrent.ru/) / [New Team](https://new-team.org/) / [Goldesel](http://goldesel.to/) / [MyAnonaMouse](https://www.myanonamouse.net/) / [NoNaMe Club](https://nnmclub.to/) / [Rutracker](https://rutracker.org/forum/index.php) / [Mixtapetorrent](http://www.mixtapetorrent.com/) / [TribalMixes](https://www.tribalmixes.com/) / [Multiplex](https://github.com/pojntfx/multiplex)
 
 ### ▷ Audio Ripping 
 
@@ -469,7 +479,9 @@ Note - It's still in Alpha stage
 
 - [How to determine the true quality of an audio file](https://www.reddit.com/r/skrillex/comments/3l0yxp/how_to_determine_the_true_quality_of_an_audio_file/)
 
-- [How to rip music at 256 kbps from Youtube Music](https://www.reddit.com/r/Piracy/comments/vv27dy/heres_how_to_rip_music_at_256_kbps_from_youtube/)🆕
+- [How to rip music at 256 kbps from Youtube Music](https://www.reddit.com/r/Piracy/comments/vv27dy/heres_how_to_rip_music_at_256_kbps_from_youtube/)
+
+- [Firehawk52 Music Ripping Guide](https://rentry.org/firehawk52)🆕
 
 ## ➤ Others 
 
@@ -506,11 +518,13 @@ that would never normally get surfaced with their algorithms
 
 - [youtune](https://youtune.kvnp.eu/) - Youtube Music Client for Android, iOS and Web
 
-- [Serenity](https://github.com/YajanaRao/Serenity)🆕 - Free App for Music, Meditation and Podcasts.
+- [Serenity](https://github.com/YajanaRao/Serenity) - Free App for Music, Meditation and Podcasts.
 
-- [primemusic](https://www.primemusic.ru/)🆕 - Stream & download music 
+- [primemusic](https://www.primemusic.ru/) - Stream & download music 
 
-- [musictaste](https://musictaste.space/)🆕 - Compare your music taste with your friends
+- [musictaste](https://musictaste.space/) - Compare your music taste with your friends
+
+- [DatPiff](https://www.datpiff.com/)🆕 - Mixtapes & Albums 
 
 ### ▷ Downloader Apps
 
@@ -548,15 +562,15 @@ that would never normally get surfaced with their algorithms
 
 - [SongTube](https://github.com/SongTube/SongTube-App) - A new beautiful and fast application made in Flutter, it supports an almost full original experience, with many features music oriented features, including a full music player.
 
-- [finamp](https://github.com/jmshrv/finamp)🆕 - A Jellyfin music client for mobile.
+- [finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile.
 
-- [MusixClient](https://github.com/ShimmyMySherbet/MusixClient)🆕 - A WIP Multi-Platform YouTube & Spotify music downloader tool. Downloads music with Artwork & metadata
+- [MusixClient](https://github.com/ShimmyMySherbet/MusixClient) - A WIP Multi-Platform YouTube & Spotify music downloader tool. Downloads music with Artwork & metadata
 
 ### ▷ Song Identification
 
 - [WatZatSong](https://www.watzatsong.com/en) / [Midomi](https://www.midomi.com/) / [Songwhip](https://songwhip.com/)
 
-- Telegram Bots - [Voice Shazam](https://t.me/VoiceShazamBot) / [Audd](https://t.me/auddbot) / [@FindMusicPleaseBot](https://t.me/FindMusicPleaseBot) / [Song Id](https://t.me/SongIDbot) / [BeatSpotBot](https://t.me/BeatSpotBot) / [@JioDLBot](https://t.me/JioDLBot) / [What's the song](https://t.me/WTSong_Bot) / [@tgodeslibot](https://t.me/tgodeslibot)🆕 / [@SongwhipBot](https://t.me/SongwhipBot)🆕 / [@MusicLinkBot](MusicLinkBot)🆕
+- Telegram Bots - [Voice Shazam](https://t.me/VoiceShazamBot) / [Audd](https://t.me/auddbot) / [@FindMusicPleaseBot](https://t.me/FindMusicPleaseBot) / [Song Id](https://t.me/SongIDbot) / [BeatSpotBot](https://t.me/BeatSpotBot) / [@JioDLBot](https://t.me/JioDLBot) / [What's the song](https://t.me/WTSong_Bot) / [@tgodeslibot](https://t.me/tgodeslibot) / [@SongwhipBot](https://t.me/SongwhipBot) / [@MusicLinkBot](MusicLinkBot)
 
 - [Audire](https://github.com/alexmercerind/audire/) - Identifies the music playing near you and shows you details on its title including lyrics (where available), album details, and linking you to Spotify/Youtube for it
 
@@ -564,7 +578,7 @@ that would never normally get surfaced with their algorithms
 
 ### ▷ Transfer Your Music Library 🔄
 
-- [TuneMyMusic](https://tunemymusic.com/) / [soundiiz](https://soundiiz.com/)🆕 - Transfer your music library from any music service to any other you want! Supports Spotify, TIDAL, Apple Music, YouTube, Amazon Music, Deezer and many more !!
+- [TuneMyMusic](https://tunemymusic.com/) / [soundiiz](https://soundiiz.com/) - Transfer your music library from any music service to any other you want! Supports Spotify, TIDAL, Apple Music, YouTube, Amazon Music, Deezer and many more !!
 
 - [Tunemunk](https://www.tunemunk.com/) - Spotify Playlist Sharing
 
@@ -572,11 +586,11 @@ that would never normally get surfaced with their algorithms
 
 - [Seeker](https://github.com/jackBonadies/SeekerAndroid) - An unofficial soulseek client.
 
-- [Audio Share](https://github.com/mkckr0/audio-share)🆕 - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer.
+- [Audio Share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer.
 
 ### ▷ Telegram Bots 🤖
 
-- [@monoearthmusicbot](https://t.me/monoearthmusicbot) / [@yotBot](https://t.me/yotBot) /  [@RingtoneRobot](https://t.me/RingtoneRobot) / [@slowreverberbot](https://t.me/slowreverberbot) /  [Meph](https://t.me/mephbot) / [@MadnessBeatBot](https://t.me/MadnessBeatBot) / [@RadioBot](https://t.me/RadioBot) / [@music_ripper_bot](https://t.me/music_ripper_bot) / [@musicaiobot](https://t.me/musicaiobot) / [GlomaticoAmazonMusicbot](https://t.me/GlomaticoAmazonMusicBot) / [@redmuzicdlbot](https://t.me/RedMuzicBot) / [@joeymusicbot](https://t.me/@joeymusicbot) / [@mymusics12bot](https://t.me/mymusics12bot)🆕
+- [@monoearthmusicbot](https://t.me/monoearthmusicbot) / [@yotBot](https://t.me/yotBot) /  [@RingtoneRobot](https://t.me/RingtoneRobot) / [@slowreverberbot](https://t.me/slowreverberbot) /  [Meph](https://t.me/mephbot) / [@MadnessBeatBot](https://t.me/MadnessBeatBot) / [@RadioBot](https://t.me/RadioBot) / [@music_ripper_bot](https://t.me/music_ripper_bot) / [@musicaiobot](https://t.me/musicaiobot) / [GlomaticoAmazonMusicbot](https://t.me/GlomaticoAmazonMusicBot) / [@redmuzicdlbot](https://t.me/RedMuzicBot) / [@joeymusicbot](https://t.me/@joeymusicbot) / [@mymusics12bot](https://t.me/mymusics12bot)
 
 - [DeezEmpireBot](https://t.me/DeezEmpireBot) - Spotify, Deezer, Soundcloud, Youtube
 
@@ -588,9 +602,9 @@ that would never normally get surfaced with their algorithms
 
 - VK Bot - [Zio](https://t.me/Ziyotech_Vkmbot) , [Zio2](https://t.me/ziyotech_vkmusicbot) , [Vkmus](https://t.me/vkmusbot) , [ivkm](https://t.me/ivkmbot)
 
-- SoundCloud Bot - [Soundloader](https://www.soundloaders.com/) / [Klickaud](https://www.klickaud.co/) / [SoundCloud-dl](https://github.com/NotTobi/soundcloud-dl) / [OrpheusDL SoundCloud](https://github.com/yarrm80s/orpheusdl-soundcloud) / [SD](https://t.me/Soundclouddownloadbot)🆕
+- SoundCloud Bot - [Soundloader](https://www.soundloaders.com/) / [Klickaud](https://www.klickaud.co/) / [SoundCloud-dl](https://github.com/NotTobi/soundcloud-dl) / [OrpheusDL SoundCloud](https://github.com/yarrm80s/orpheusdl-soundcloud) / [SD](https://t.me/Soundclouddownloadbot)
 
-- Spotify Bot - [Spoti](https://t.me/spotifydownloadrobot) / [Motreb](https://t.me/motreb_downloader_bot) / [Music Downloader](https://t.me/Music_Downloader_Bot_Spotify) / [Spotdl](https://t.me/Spotdlrobot) / [Spotify Down](https://t.me/spotify_down_bot) / [JayBeeSpotifyBot](https://t.me/JayBeeSpotifyBot) / [@SpotSeekBot](https://t.me/SpotSeekBot)🆕 / [@Music_Downloader_Bot_Spotify](https://t.me/Music_Downloader_Bot_Spotify)🆕 / [@spotifysavebot](https://t.me/spotifysavebot)🆕 / [@SpotifyRipBot](https://t.me/SpotifyRipBot)🆕 / [@motreb_downloader_bot](https://t.me/motreb_downloader_bot)🆕
+- Spotify Bot - [Spoti](https://t.me/spotifydownloadrobot) / [Motreb](https://t.me/motreb_downloader_bot) / [Music Downloader](https://t.me/Music_Downloader_Bot_Spotify) / [Spotdl](https://t.me/Spotdlrobot) / [Spotify Down](https://t.me/spotify_down_bot) / [JayBeeSpotifyBot](https://t.me/JayBeeSpotifyBot) / [@SpotSeekBot](https://t.me/SpotSeekBot) / [@Music_Downloader_Bot_Spotify](https://t.me/Music_Downloader_Bot_Spotify) / [@spotifysavebot](https://t.me/spotifysavebot) / [@SpotifyRipBot](https://t.me/SpotifyRipBot) / [@motreb_downloader_bot](https://t.me/motreb_downloader_bot)
 
 - Jio Saavan Bot - [Song Downloader](https://t.me/Song_downloaderbot) / [@SaavnDLBot](https://t.me/SaavnDLBot) / [@JioSaavnRobot](https://t.me/JioSaavnRobot)
 
@@ -598,25 +612,27 @@ that would never normally get surfaced with their algorithms
 
 - Bandcamp Downloader - [bcdl](https://github.com/daot/bcdl) , [bandcamp](https://downloadmusicschool.com/bandcamp/) , [Bandcamp Download](https://github.com/Otiel/BandcampDownloader)
 
-- [@podcastly_bot](https://t.me/podcastly_bot)🆕 - Find new podcasts by search or recommendation system, deliver notification on new episods.
+- [@podcastly_bot](https://t.me/podcastly_bot) - Find new podcasts by search or recommendation system, deliver notification on new episods.
 
-- [@mp3toolsbot](https://t.me/mp3toolsbot)🆕 / [@convrt_bot](https://t.me/convrt_bot)🆕 - convert any mp3 into voice message, add/edit mp3 tags, cut mp3 based on start and end points in seconds, add album art.
+- [@mp3toolsbot](https://t.me/mp3toolsbot) / [@convrt_bot](https://t.me/convrt_bot) - convert any mp3 into voice message, add/edit mp3 tags, cut mp3 based on start and end points in seconds, add album art.
 
-- Beatport music downloader - [@beatport_downloader_bot](https://t.me/beatport_downloader_bot)🆕
+- Beatport music downloader - [@beatport_downloader_bot](https://t.me/beatport_downloader_bot)
 
-- Apple Music Downloader - [@GlomaticoAppleMusicBot](https://t.me/GlomaticoAppleMusicBot)🆕 / [Bay Apple Music](https://t.me/bayapplemusicbot)🆕
+- Apple Music Downloader - [@GlomaticoAppleMusicBot](https://t.me/GlomaticoAppleMusicBot) / [Bay Apple Music](https://t.me/bayapplemusicbot)
 
-- Murglar Downloader - [@murglar_bot](https://t.me/murglar_bot)🆕
+- Murglar Downloader - [@murglar_bot](https://t.me/murglar_bot)
 
-- Music Editor - [@musiceditor_tgbot](musiceditor_tgbot)🆕 / [@jpwnbot](https://t.me/jpwnbot)🆕
+- Music Editor - [@musiceditor_tgbot](musiceditor_tgbot) / [@jpwnbot](https://t.me/jpwnbot)
 
-- Token/Arl Checker - [@TokenArlbot](https://t.me/TokenArlbot)🆕
+- Token/Arl Checker - [@TokenArlbot](https://t.me/TokenArlbot)
 
-- Spectrograms Generator - [@spekgenbot](https://t.me/spekgenbot)🆕
+- Spectrograms Generator - [@spekgenbot](https://t.me/spekgenbot)
+
+- A helpful companion for sharing and organizing music with friends - [Music bucket](https://t.me/music_bucket_bot)🆕 / [Website](https://musicbucket.net/)
 
 ### ▷ Telegram Channels 
 
-- [Amazon Music](https://t.me/+L6pRuCvFzWdmZmVh) / [Apple Music](https://t.me/+_a_HVYo3fXw1ZWVh) / [Spotify Database](https://t.me/joinchat/CpMAJhkWaTwk8BVPepASZQ) / [Bassmuzic](https://t.me/bassmuzic) / [CORE RADIO](https://t.me/joinchat/AfzXogQiQ9wwNGUy) / [flacmusics](https://t.me/flacmusics) / [AlbanianMusic](https://t.me/AlbanianMusic) / [YouTube Music DB](https://t.me/joinchat/l4i3KWKnONQxNWNi) / [ZKY MUSIC](https://t.me/+itsoUFF3Wv44MDFl) / [FLACSong](https://t.me/FLACSong)🆕 / [flacmusics](https://t.me/flacmusics)🆕 / [Tamil Flac Songs](https://t.me/+epkL3ORe865lMjBl)🆕 / [MUSIC SUBMIT️ MUSIK REQUEST](https://t.me/+R_03ERf_q8k2NzE1)🆕 / [ReD & DailyLeaks](https://t.me/RedAndDailyLeaks)🆕
+- [Amazon Music](https://t.me/+L6pRuCvFzWdmZmVh) / [Apple Music](https://t.me/+_a_HVYo3fXw1ZWVh) / [Spotify Database](https://t.me/joinchat/CpMAJhkWaTwk8BVPepASZQ) / [Bassmuzic](https://t.me/bassmuzic) / [CORE RADIO](https://t.me/joinchat/AfzXogQiQ9wwNGUy) / [flacmusics](https://t.me/flacmusics) / [AlbanianMusic](https://t.me/AlbanianMusic) / [YouTube Music DB](https://t.me/joinchat/l4i3KWKnONQxNWNi) / [ZKY MUSIC](https://t.me/+itsoUFF3Wv44MDFl) / [FLACSong](https://t.me/FLACSong) / [flacmusics](https://t.me/flacmusics) / [Tamil Flac Songs](https://t.me/+epkL3ORe865lMjBl) / [MUSIC SUBMIT️ MUSIK REQUEST](https://t.me/+R_03ERf_q8k2NzE1) / [ReD & DailyLeaks](https://t.me/RedAndDailyLeaks)
 
 ### ▷ Ambient Sound
 
@@ -639,6 +655,12 @@ that would never normally get surfaced with their algorithms
 - [Soundscape](https://www.soundscape.store) - The immersive music visualizer that lets you build your own beats
 
 - [Cityhop](https://www.cityhop.co.nz/) - Relaxing sounds 
+
+- [Defonic](https://defonic.com/vibeocean.html)🆕 - Ocean Noise Generator 
+
+- [Listen to Wikipedia](http://listen.hatnote.com/)🆕 - Wikipedia Recent Changes Feed Sounds
+
+- [tree.fm](https://www.tree.fm/)🆕 - Ambient Forest Sounds
 
 ### ▷ Podcasts / Radio 📻
 
@@ -664,9 +686,17 @@ that would never normally get surfaced with their algorithms
 
 - [Podverse](https://github.com/podverse/podverse-fdroid) - Free and open source podcast manager for Android, iOS, and the web.
 
-- [m3u playlists](https://github.com/junguler/m3u-radio-music-playlists)🆕 - m3u playlists for radio music, sorted by popularity.
+- [m3u playlists](https://github.com/junguler/m3u-radio-music-playlists) - m3u playlists for radio music, sorted by popularity.
 
-- [Pmrp](https://github.com/hakerdefo/pmrp)🆕 - pmrp (Poor Man's Radio Player) is an Internet radio player script written in bash
+- [Pmrp](https://github.com/hakerdefo/pmrp) - pmrp (Poor Man's Radio Player) is an Internet radio player script written in bash
+
+- [Nightwave Plaza](https://plaza.one/)🆕 - A free 24/7 online vaporwave radio station
+
+- [Podsync](https://github.com/mxpv/podsync)🆕 - Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
+
+- [Grover Podcast](https://www.microsoft.com/store/productId/9NBLGGH6C4BC)🆕 - Grover Podcast is the best app to manage your favorite podcasts on Windows.
+
+- [Retrowave](https://retrowave.ru/)🆕 - Simple Retrowave Radio
 
 ### ▷ Music Tracking / Discovery 
 
@@ -686,15 +716,13 @@ that would never normally get surfaced with their algorithms
 
 - [Soundhound](https://play.google.com/store/apps/details?id=com.melodis.midomiMusicIdentifier.freemium) - Music discovery, identification, & voice-controlled player
 
-- [songwhip.com](https://songwhip.com/)🆕 - It allows users to create a single link that directs to all the available platforms where a particular song or music is available.
+- [songwhip.com](https://songwhip.com/) - It allows users to create a single link that directs to all the available platforms where a particular song or music is available.
 
-- [Musicbutler](https://www.musicbutler.io/)🆕 - A website that sends you notifications about new music albums and releases by artists you follow. It integrates with Apple Music, Spotify, and Last.FM so you can import your artists from these services effortlessly.
+- [Musicbutler](https://www.musicbutler.io/) - A website that sends you notifications about new music albums and releases by artists you follow. It integrates with Apple Music, Spotify, and Last.FM so you can import your artists from these services effortlessly.
 
-- [Musicdex](https://musicdex.org/)🆕 - Musicdex is a website that allows users to discover and enjoy their favorite music.
+- [Musicdex](https://musicdex.org/) - Musicdex is a website that allows users to discover and enjoy their favorite music.
 
-- [Everynoise](http://Everynoise.com)🆕 - A website that provides a map of music genres. It allows users to explore and discover new music by browsing through a variety of genres and subgenres.
-
-- [Maloja](https://github.com/krateng/maloja)🆕 - A self-hosted alternative to last.fm to scrobble your music history and view listening statistics.
+- [Everynoise](http://Everynoise.com) - A website that provides a map of music genres. It allows users to explore and discover new music by browsing through a variety of genres and subgenres.
 
 - [multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler)🆕 - A self-hosted app that monitors your music platforms and scrobbles to multiple clients.
 
@@ -716,7 +744,7 @@ that would never normally get surfaced with their algorithms
 
 - [audiotagger](https://github.com/codeconscious/audiotagger) - Various ID3 tag–related operations on local audio files
 
-- [MusicBrainz Android](https://github.com/metabrainz/musicbrainz-android)🆕 - The Official Android App of MusicBrainz
+- [MusicBrainz Android](https://github.com/metabrainz/musicbrainz-android) - The Official Android App of MusicBrainz
 
 ### ▷ Video Game Soundtracks 
 
@@ -750,9 +778,9 @@ that would never normally get surfaced with their algorithms
 
 - [MxLRC](https://github.com/fashni/MxLRC) - Fetch synced lyrics from Musixmatch and save it as *.lrc file, written in Python
 
-- [FastLyrics](https://github.com/TecCheck/FastLyrics)🆕 - FastLyrics is an app that downloads lyrics for the song, you're listening to
+- [FastLyrics](https://github.com/TecCheck/FastLyrics) - FastLyrics is an app that downloads lyrics for the song, you're listening to
 
-- [Manzana Music Lyrics](https://github.com/dropcreations/Manzana-Apple-Music-Lyrics)🆕 - A python program to fetch lyrics from apple music albums and songs and then generates lyrics videos from fetched time-synced lyrics.
+- [Manzana Music Lyrics](https://github.com/dropcreations/Manzana-Apple-Music-Lyrics) - A python program to fetch lyrics from apple music albums and songs and then generates lyrics videos from fetched time-synced lyrics.
 
 ### ▷ Music Production
 
@@ -760,39 +788,41 @@ that would never normally get surfaced with their algorithms
 
 - [Tonbandfetzen](https://github.com/janberges/Tonbandfetzen) - Tonbandfetzen is a collection of command-line tools that allow you to compose music based on audio fragments generated from plain text input.
 
-- [Hexpress](https://github.com/jmiskovic/hexpress)🆕 - Modern mobile music instrument.
+- [Hexpress](https://github.com/jmiskovic/hexpress) - Modern mobile music instrument.
 
-- [Amphion](https://github.com/open-mmlab/Amphion)🆕 - Amphion is a toolkit for Audio, Music, and Speech Generation.
+- [Amphion](https://github.com/open-mmlab/Amphion) - Amphion is a toolkit for Audio, Music, and Speech Generation.
 
-- [BeatInspector](https://github.com/Leonidius20/BeatInspector)🆕 - BeatInspector is meant to help music producers analyze other tracks for remixing, referencing etc
+- [BeatInspector](https://github.com/Leonidius20/BeatInspector) - BeatInspector is meant to help music producers analyze other tracks for remixing, referencing etc
 
-- [Faircamp](https://simonrepp.com/faircamp/)🆕 - It allows you to create a complete, static website that presents your music to your audience by pointing it to a folder hierarchy on your disk which contains your audio files
+- [Faircamp](https://simonrepp.com/faircamp/) - It allows you to create a complete, static website that presents your music to your audience by pointing it to a folder hierarchy on your disk which contains your audio files
 
 ### ➤ Audio Synthesizer 
 
-- [SliderSynth](https://github.com/marcopar/SliderSynth)🆕 - Touch and play audio synth for Android.
+- [SliderSynth](https://github.com/marcopar/SliderSynth) - Touch and play audio synth for Android.
 
-- [Fluidsynth](https://github.com/FluidSynth/fluidsynth)🆕 - Software synthesizer based on the SoundFont 2 specifications.
+- [Fluidsynth](https://github.com/FluidSynth/fluidsynth) - Software synthesizer based on the SoundFont 2 specifications.
 
-- [ModSynth](https://github.com/owingsbj/ModSynth)🆕 - A modular synthesizer for Android.
+- [ModSynth](https://github.com/owingsbj/ModSynth) - A modular synthesizer for Android.
 
-- [Munt](https://github.com/munt/munt)🆕 - A multi-platform software synthesiser emulating pre-GM MIDI devices such as the Roland MT-32, CM-32L, CM-64 and LAPC-I.
+- [Munt](https://github.com/munt/munt) - A multi-platform software synthesiser emulating pre-GM MIDI devices such as the Roland MT-32, CM-32L, CM-64 and LAPC-I.
+
+- [Supercollider](https://supercollider.github.io/)🆕 - A Platform For Audio Synthesis 
 
 ### ➤ Awesome Music List 🎶 
 
-- [Awesome Music Production](https://github.com/ad-si/awesome-music-production)🆕 / [2](https://github.com/adius/awesome-music-production)🆕 - A curated list of software, services, and resources to create and distribute music
+- [Awesome Music Production](https://github.com/ad-si/awesome-music-production) / [2](https://github.com/adius/awesome-music-production) - A curated list of software, services, and resources to create and distribute music
 
-- [Awesome Music](https://github.com/noteflakes/awesome-music)🆕 - Awesome Music Projects
+- [Awesome Music](https://github.com/noteflakes/awesome-music) - Awesome Music Projects
 
-- [Awesome WebAudio](https://github.com/notthetup/awesome-webaudio)🆕 - A curated list of awesome WebAudio packages and resources
+- [Awesome WebAudio](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources
 
-- [Awesome python scientific audio](https://github.com/faroit/awesome-python-scientific-audio)🆕 - Curated list of python software and packages related to scientific research in audio
+- [Awesome python scientific audio](https://github.com/faroit/awesome-python-scientific-audio) - Curated list of python software and packages related to scientific research in audio
 
-- [Awesome sheet music](https://github.com/adius/awesome-sheet-music)🆕 - A curated list of awesome sheet music software, libraries and resources
+- [Awesome sheet music](https://github.com/adius/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources
 
-- [Awesome audio DSP](https://github.com/BillyDM/awesome-audio-dsp)🆕 - A curated list of audio DSP and plugin development resources
+- [Awesome audio DSP](https://github.com/BillyDM/awesome-audio-dsp) - A curated list of audio DSP and plugin development resources
 
-- [Awesome music listening](https://github.com/ybayle/awesome-music-listening)🆕 - Awesome list of websites dedicated to listening to music
+- [Awesome music listening](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music
 
 ### 💝 Thanks to
 
