@@ -358,6 +358,8 @@ Note - It's still in Alpha stage
 
 - [spotify-aac-downloader](https://github.com/glomatico/spotify-aac-downloader) - Spotify AAC Downloader
 
+- [gamdl](https://github.com/glomatico/gamdl) - Apple Music AAC/ALAC songs, h264/h265 music videos Downloader
+
 - [stacher](https://stacher.io/) - It is a free and open-source software that allows users to download videos and audio from YouTube and other video-sharing websites
 
 - [320ytmp3](https://320ytmp3.info/) - YouTube to MP3 is a fast free online tool to download and convert youtube videos to 320kbps mp3 music
@@ -832,7 +834,7 @@ that would never normally get surfaced with their algorithms
 
 - [FastLyrics](https://github.com/TecCheck/FastLyrics) - FastLyrics is an app that downloads lyrics for the song, you're listening to
 
-- [Manzana Music Lyrics](https://github.com/dropcreations/Manzana-Apple-Music-Lyrics) - A python program to fetch lyrics from apple music albums and songs and then generates lyrics videos from fetched time-synced lyrics.
+- [Manzana Music Lyrics](https://github.com/dropcreations/Manzana-Apple-Music-Lyrics) - A python program to fetch lyrics from Apple Music albums and songs and then generates lyrics videos from fetched time-synced lyrics.
 
 - [Genius](https://genius.com/)🆕 - Genius is the world’s biggest collection of song lyrics and musical knowledge
 
