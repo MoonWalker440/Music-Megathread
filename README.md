@@ -483,6 +483,8 @@ Note - It's still in Alpha stage
 
 - [Soundtap](https://play.google.com/store/apps/details?id=fr.angel.soundtap) - SoundTap is an Android app that enhances your music listening experience by allowing you to control playback using your device's volume buttons. [GitHub](https://github.com/Angel-Studio/SoundTap)
 
+- [Melodfy](https://github.com/HemantKArya/Melodfy) - Powered Piano Audio to MIDI Converter 
+
 ### ▷ Audio Editing
 
 - [Tenacity](https://tenacityaudio.org) - It's an easy-to-use, cross-platform multi-track audio editor/recorder for Windows, Linux, and other operating systems
@@ -536,6 +538,8 @@ Note - It's still in Alpha stage
 - [Supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured desktop music client for Jellyfin and Subsonic-compatible servers 
 
 - [Tack](https://github.com/patzly/tack-android/) - A powerful and beautiful metronome for Android
+
+- [YouAMP](https://github.com/siper/YouAMP) - Material You android player for subsonic music stream servers written with jetpack compose 
 
 ### ▷ Audio Torrenting
 
