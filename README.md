@@ -485,6 +485,8 @@ Note - It's still in Alpha stage
 
 - [Melodfy](https://github.com/HemantKArya/Melodfy) - Powered Piano Audio to MIDI Converter 
 
+- [Remusic](https://remusic.ai/en) - Explore the future of AI-generated music with Remusic, the revolutionary AI music generator designed to transform how you make, create, and enjoy music. 
+
 ### ▷ Audio Editing
 
 - [Tenacity](https://tenacityaudio.org) - It's an easy-to-use, cross-platform multi-track audio editor/recorder for Windows, Linux, and other operating systems
