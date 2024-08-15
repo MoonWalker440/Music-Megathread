@@ -76,9 +76,9 @@
 
 ### ➤ Spotify Clients
 
-- 🌟[xManager](https://github.com/Team-xManager/xManager) - The Ultimate Music Streaming Experience that offers unlimited skips, ad-free listening, and much more.
+- 🌟 [xManager](https://github.com/Team-xManager/xManager) - The Ultimate Music Streaming Experience that offers unlimited skips, ad-free listening, and much more.
 
-- 🌟[Spotube](https://spotube.krtirtho.dev/) - A fast, modern, lightweight & efficient Spotify Music Client for every platform
+- 🌟 [Spotube](https://spotube.krtirtho.dev/) - A fast, modern, lightweight & efficient Spotify Music Client for every platform
 
 - [Blade](https://github.com/vhaudiquet/BladePlayer) - An open source music player for Android, allowing you to play music from multiple services
 
@@ -92,7 +92,7 @@
 
 ### ➤ Spotify Tools
 
-- 🌟[Spicetify.app](https://spicetify.app) / 
+- 🌟 [Spicetify.app](https://spicetify.app) / 
 [Lyricify](https://github.com/WXRIW/Lyricify-App) / [Spotify Lyrics](https://github.com/mantou132/Spotify-Lyrics) / [Spotify Tools](https://spotifytools.romanello.xyz/) / [Spotify Cloud](https://spotifycloud.zamar-roura.com/) / [SpotiStat](https://spotistats.app/) / [Spotr](https://github.com/XDGFX/spotr) / [Versefy](https://versefy.app/) / [Exportify](https://github.com/watsonbox/exportify) / [Spottr](https://github.com/Spiderpig86/spottr) / [Spytify](https://jwallet.github.io/spy-spotify/) / [spotify_to_ytmusic](https://github.com/sigma67/spotify_to_ytmusic) / [spotifyplaylistrandomizer](https://stevenaleong.com/tools/spotifyplaylistrandomizer)
 
 - [SpotifySyncWall](https://github.com/genricoloni/SpotifySyncWall) - Currently Playing Spotify Song As Wallpaper.
@@ -111,7 +111,7 @@
 
 ### ➤ Spotify Themes
 
-- 🌟[Spotify Customizer](https://github.com/Darkempire78/Spotify-Customizer) / [Spicetify Bloom](https://github.com/nimsandu/spicetify-bloom) / [Spicetify Fluent](https://github.com/williamckha/spicetify-fluent) / [Colorify](https://colorify.live/) / [Nord-Spotify](https://github.com/Tetrax-10/Nord-Spotify)
+- 🌟 [Spotify Customizer](https://github.com/Darkempire78/Spotify-Customizer) / [Spicetify Bloom](https://github.com/nimsandu/spicetify-bloom) / [Spicetify Fluent](https://github.com/williamckha/spicetify-fluent) / [Colorify](https://colorify.live/) / [Nord-Spotify](https://github.com/Tetrax-10/Nord-Spotify)
 
 ### ➤ Spotify Adblockers
 
@@ -123,15 +123,15 @@
 
 ### ▷ Desktop Streaming Apps 🎧
 
-- 🌟[YouTube Music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins, built-in ad blocker, downloader and many more great features !!
+- 🌟 [YouTube Music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins, built-in ad blocker, downloader and many more great features !!
 
-- 🌟[Ytmdesktop2](https://github.com/Venipa/ytmdesktop2) - Unofficial Youtube Music Desktop App, with LastFM support.
+- 🌟 [Ytmdesktop2](https://github.com/Venipa/ytmdesktop2) - Unofficial Youtube Music Desktop App, with LastFM support.
 
-- 🌟[Neptune](https://github.com/uwu/neptune) - An experimental client mod for TIDAL 
+- 🌟 [Neptune](https://github.com/uwu/neptune) - An experimental client mod for TIDAL 
 
-- 🌟[Saturn PC](https://github.com/SaturnMusic/PC) - Alternative Deezer client 
+- 🌟 [Saturn PC](https://github.com/SaturnMusic/PC) - Alternative Deezer client 
 
-- 🌟[Moosync](https://github.com/Moosync/Moosync) - Music player capable of playing local audio or from Youtube, Spotify and many more
+- 🌟 [Moosync](https://github.com/Moosync/Moosync) - Music player capable of playing local audio or from Youtube, Spotify and many more
 
 - [Rurrd Music](https://github.com/RuurdBijlsma/Music) - A really cool Spotify and YouTube client featuring beautiful UI and tons of features.
 
@@ -172,11 +172,11 @@ Note - It's still in Alpha stage
 
 ### ▷ Offline Player
 
-- 🌟[Wora](https://github.com/hiaaryan/wora) - A beautiful player for audiophiles 
+- 🌟 [Wora](https://github.com/hiaaryan/wora) - A beautiful player for audiophiles 
 
-- 🌟[Swing Music](https://swingmusic.vercel.app/) - A beautiful, self-hosted music player for your local audio files / [GitHub](https://github.com/swing-opensource/swingmusic)
+- 🌟 [Swing Music](https://swingmusic.vercel.app/) - A beautiful, self-hosted music player for your local audio files / [GitHub](https://github.com/swing-opensource/swingmusic)
 
-- 🌟[Harmonoid](https://github.com/harmonoid/harmonoid) - Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more
+- 🌟 [Harmonoid](https://github.com/harmonoid/harmonoid) - Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more
 
 - [Nora](https://github.com/Sandakan/Nora) - An elegant music player built using Electron and React. Inspired from Oto Music for Android by Piyush Mamidwar.
 
@@ -214,13 +214,13 @@ Note - It's still in Alpha stage
 
 ### ▷ Android Streaming Apps 🎶
 
-- 🌟[Saturn Mobile](https://github.com/SaturnMusic/mobile) / 🌟[Refreezer](https://github.com/DJDoubleD/refreezer) - Alternative Deezer music streaming & downloading client, based on Freezer.
+- 🌟 [Saturn Mobile](https://github.com/SaturnMusic/mobile) / 🌟[Refreezer](https://github.com/DJDoubleD/refreezer) - Alternative Deezer music streaming & downloading client, based on Freezer.
 
-- 🌟[BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - A music app designed to bring you ad-free tunes from various sources
+- 🌟 [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - A music app designed to bring you ad-free tunes from various sources
 
-- 🌟[Echo : Music Player](https://github.com/brahmkshatriya/echo) - An Extension based online & offline Music Player for Android, with a clean and simple UI
+- 🌟 [Echo : Music Player](https://github.com/brahmkshatriya/echo) - An Extension based online & offline Music Player for Android, with a clean and simple UI
 
-- 🌟[Ri Music](https://github.com/fast4x/RiMusic) - A multilingual Android application for streaming music from YouTube Music.
+- 🌟 [Ri Music](https://github.com/fast4x/RiMusic) - A multilingual Android application for streaming music from YouTube Music.
 
 - [Gyawun](https://github.com/sheikhhaziq/gyavun) - A Flutter application for streaming music from Jio Saavn and YouTube Music
 
@@ -260,11 +260,11 @@ Note - It's still in Alpha stage
 
 ### ▷ Offline Local Player
 
-- 🌟[Namida](https://github.com/namidaco/namida) - A Feature-rich Material You Foss Music & Video Player app with Youtube Support
+- 🌟 [Namida](https://github.com/namidaco/namida) - A Feature-rich Material You Foss Music & Video Player app with Youtube Support
 
-- 🌟[Gramophone](https://github.com/AkaneTan/Gramophone) - A sane music player built with media3 and material design library that is following android's standard strictly
+- 🌟 [Gramophone](https://github.com/AkaneTan/Gramophone) - A sane music player built with media3 and material design library that is following android's standard strictly
 
-- 🌟[symphony](https://github.com/zyrouge/symphony) - Lightweight, elegant and open source music player
+- 🌟 [symphony](https://github.com/zyrouge/symphony) - Lightweight, elegant and open source music player
 
 - [Salt music Player](https://play.google.com/store/apps/details?id=com.salt.music) - It is a beautiful and open source high quality local music player.
 
@@ -318,6 +318,8 @@ Note - It's still in Alpha stage
 
 - [Nothing Music](https://github.com/MissingCore/Music) - A Nothing inspired music player
 
+- [CuteMusic](https://github.com/sosauce/CuteMusic) - CuteMusic is a simple,lightweight and open-source offline music player app for Android.
+
 ## ➤ Audio Thread 
 
 ### ▷ Audio Recording
@@ -340,13 +342,13 @@ Note - It's still in Alpha stage
 
 ### ▷ Audio Downloading
 
-- 🌟[Double Double](https://doubledouble.top/) - 320kb / MP3 / FLAC
+- 🌟 [Double Double](https://doubledouble.top/) - 320kb / MP3 / FLAC
 
-- 🌟[Lucida](http://lucida.to/) - Download music directly from Spotify, Qobuz, Tidal, Soundcloud and Deezer in high quality for free. 
+- 🌟 [Lucida](http://lucida.to/) - Download music directly from Spotify, Qobuz, Tidal, Soundcloud and Deezer in high quality for free. 
 
-- 🌟[YAMS](https://yams.tf) - Download music from Qobuz, Tidal, Spotify, Apple Music, Deezer.
+- 🌟 [YAMS](https://yams.tf) - Download music from Qobuz, Tidal, Spotify, Apple Music, Deezer.
 
-- 🌟[Squid.wtf](https://squid.wtf/) - 320kb / MP3 / FLAC
+- 🌟 [Squid.wtf](https://squid.wtf/) - 320kb / MP3 / FLAC
 
 - [SpotifyMate](https://spotifymate.com/) - MP3
 
@@ -422,9 +424,9 @@ Note - It's still in Alpha stage
 
 ### ▷ Audio Tools
 
-- 🌟[Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) - Headphone specific equalization with lots of customizability
+- 🌟 [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) - Headphone specific equalization with lots of customizability
 
-- 🌟[JamesDSPManager](https://github.com/james34602/JamesDSPManager) - Audio DSP effects build on Android system framework layer
+- 🌟 [JamesDSPManager](https://github.com/james34602/JamesDSPManager) - Audio DSP effects build on Android system framework layer
 
 - [AudioTool](https://audiotoolset.com/) , [Chow multi tool](https://github.com/Chowdhury-DSP/ChowMultiTool) - Audio Multi Tool Site
 
@@ -491,7 +493,7 @@ Note - It's still in Alpha stage
 
 ### ▷ Audio Editing
 
-- 🌟[Tenacity](https://tenacityaudio.org) - It's an easy-to-use, cross-platform multi-track audio editor/recorder for Windows, Linux, and other operating systems
+- 🌟 [Tenacity](https://tenacityaudio.org) - It's an easy-to-use, cross-platform multi-track audio editor/recorder for Windows, Linux, and other operating systems
 
 - [fre:ac](https://github.com/enzo1982/freac) - A free and open source audio converter. It supports audio CD ripping and tag editing and converts between various audio file formats
 
@@ -523,9 +525,9 @@ Note - It's still in Alpha stage
 
 ### ▷ Audio Servers
 
-- 🌟[Swing Music](https://swingmusic.vercel.app) - Swing Music is a beautifully designed, self-hosted music streaming server
+- 🌟 [Swing Music](https://swingmusic.vercel.app) - Swing Music is a beautifully designed, self-hosted music streaming server
 
-- 🌟[YouAMP](https://github.com/siper/YouAMP) - Material You android player for subsonic music stream servers written with jetpack compose 
+- 🌟 [YouAMP](https://github.com/siper/YouAMP) - Material You android player for subsonic music stream servers written with jetpack compose 
 
 - [Koel](https://koel.dev/) - A personal music streaming server
 
@@ -567,9 +569,9 @@ Note - It's still in Alpha stage
 
 ### ▷ Streaming Sites
 
-- 🌟[Ytify](https://github.com/n-ce/ytify) - Ytify is a platform with a primary focus on audio streaming, allowing you to enjoy podcasts, audiobooks, music and other audio content available on YouTube
+- 🌟 [Ytify](https://github.com/n-ce/ytify) - Ytify is a platform with a primary focus on audio streaming, allowing you to enjoy podcasts, audiobooks, music and other audio content available on YouTube
 
-- 🌟[Forgotify](https://forgotify.com) - Millions of songs on Spotify have been forgotten. Let’s give them new life in new ears
+- 🌟 [Forgotify](https://forgotify.com) - Millions of songs on Spotify have been forgotten. Let’s give them new life in new ears
 
 - [First Sound](https://www.firstsounds.org/) - Oldest Music Recordings
 
@@ -620,11 +622,11 @@ that would never normally get surfaced with their algorithms
 
 ### ▷ Downloader Apps
 
-- 🌟[Spowlo](https://github.com/BobbyESP/Spowlo) - A Spotify songs downloader for Android made with Jetpack Compose, Material You and the spotDL Python library
+- 🌟 [Spowlo](https://github.com/BobbyESP/Spowlo) - A Spotify songs downloader for Android made with Jetpack Compose, Material You and the spotDL Python library
 
-- 🌟[Murglar](https://github.com/badmannersteam/murglar-downloads/) - Music player and downloader from Deezer, SoundCloud, VKontakte and Yandex Music
+- 🌟 [Murglar](https://github.com/badmannersteam/murglar-downloads/) - Music player and downloader from Deezer, SoundCloud, VKontakte and Yandex Music
 
-- 🌟[SongTube](https://github.com/SongTube/SongTube-App) - A new beautiful and fast application made in Flutter, it supports an almost full original experience, with many features music oriented features, including a full music player.
+- 🌟 [SongTube](https://github.com/SongTube/SongTube-App) - A new beautiful and fast application made in Flutter, it supports an almost full original experience, with many features music oriented features, including a full music player.
 
 - [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify / Gaana / Youtube Music / Jio Saavn / SoundCloud.
 
@@ -656,7 +658,7 @@ that would never normally get surfaced with their algorithms
 
 ### ▷ Song Identification
 
-- 🌟[Songwhip](https://songwhip.com/) / [WatZatSong](https://www.watzatsong.com/en) / [Midomi](https://www.midomi.com/)
+- 🌟 [Songwhip](https://songwhip.com/) / [WatZatSong](https://www.watzatsong.com/en) / [Midomi](https://www.midomi.com/)
 
 - Telegram Bots - [Voice Shazam](https://t.me/VoiceShazamBot) / [Audd](https://t.me/auddbot) / [@FindMusicPleaseBot](https://t.me/FindMusicPleaseBot) / [Song Id](https://t.me/SongIDbot) / [BeatSpotBot](https://t.me/BeatSpotBot) / [@JioDLBot](https://t.me/JioDLBot) / [What's the song](https://t.me/WTSong_Bot) / [@tgodeslibot](https://t.me/tgodeslibot) / [@SongwhipBot](https://t.me/SongwhipBot) / [@MusicLinkBot](MusicLinkBot) / [@infinityMusics_bot](https://t.me/infinityMusics_bot)
 
@@ -666,11 +668,11 @@ that would never normally get surfaced with their algorithms
 
 ### ▷ Transfer Your Music Library 🔄
 
-- 🌟[TuneMyMusic](https://tunemymusic.com/) / [soundiiz](https://soundiiz.com/) - Transfer your music library from any music service to any other you want! Supports Spotify, TIDAL, Apple Music, YouTube, Amazon Music, Deezer and many more !!
+- 🌟 [TuneMyMusic](https://tunemymusic.com/) / [soundiiz](https://soundiiz.com/) - Transfer your music library from any music service to any other you want! Supports Spotify, TIDAL, Apple Music, YouTube, Amazon Music, Deezer and many more !!
 
-- 🌟[Nicotine+](https://github.com/nicotine-plus/nicotine-plus) - Nicotine+ aims to be a lightweight, pleasant, free and open source (FOSS) alternative to the official Soulseek client, while also providing a comprehensive set of features.
+- 🌟 [Nicotine+](https://github.com/nicotine-plus/nicotine-plus) - Nicotine+ aims to be a lightweight, pleasant, free and open source (FOSS) alternative to the official Soulseek client, while also providing a comprehensive set of features.
 
-- 🌟[Seeker](https://github.com/jackBonadies/SeekerAndroid) - An unofficial soulseek client.
+- 🌟 [Seeker](https://github.com/jackBonadies/SeekerAndroid) - An unofficial soulseek client.
 
 - [Tunemunk](https://www.tunemunk.com/) - Spotify Playlist Sharing
 
@@ -726,11 +728,11 @@ that would never normally get surfaced with their algorithms
 
 ### ▷ Ambient Sound
 
-- 🌟[Calm](https://www.calm.com/app) - Meditation
+- 🌟 [Calm](https://www.calm.com/app) - Meditation
 
-- 🌟[Lofi Cafe](https://www.lofi.cafe/) - Lofi Radio
+- 🌟 [Lofi Cafe](https://www.lofi.cafe/) - Lofi Radio
 
-- 🌟[Calm sound](https://www.calmsound.com) - An oasis of relaxation
+- 🌟 [Calm sound](https://www.calmsound.com) - An oasis of relaxation
 
 - [Mynoise](https://mynoise.net/) - Background Noises
 
@@ -754,13 +756,13 @@ that would never normally get surfaced with their algorithms
 
 ### ▷ Podcasts / Radio 📻
 
-- 🌟[Radio Garden](https://radio.garden/) - Listen Worldwide Radio
+- 🌟 [Radio Garden](https://radio.garden/) - Listen Worldwide Radio
 
-- 🌟[Listen Moe](https://listen.moe/) - It's time to ditch other radios. 
+- 🌟 [Listen Moe](https://listen.moe/) - It's time to ditch other radios. 
 
-- 🌟[Nightwave Plaza](https://plaza.one/) - A free 24/7 online vaporwave radio station
+- 🌟 [Nightwave Plaza](https://plaza.one/) - A free 24/7 online vaporwave radio station
 
-- 🌟[Daft Punk Cafe](https://daftpunk.cafe/) - Daft Punk Radio
+- 🌟 [Daft Punk Cafe](https://daftpunk.cafe/) - Daft Punk Radio
 
 - [Maps.fm](https://maps.fm/) - Find Podcasts about Anywhere
 
@@ -800,9 +802,9 @@ that would never normally get surfaced with their algorithms
 
 ### ▷ Music Tracking / Discovery 
 
-- 🌟[Soundhound](https://play.google.com/store/apps/details?id=com.melodis.midomiMusicIdentifier.freemium) - Music discovery, identification, & voice-controlled player
+- 🌟 [Soundhound](https://play.google.com/store/apps/details?id=com.melodis.midomiMusicIdentifier.freemium) - Music discovery, identification, & voice-controlled player
 
-- 🌟[Taranify](http://taranify.com) - Discover Spotify playlists, Netflix shows, books or food based on your mood with AI. 
+- 🌟 [Taranify](http://taranify.com) - Discover Spotify playlists, Netflix shows, books or food based on your mood with AI. 
 
 - Spotify Playlist Generators - [Spotalike](https://spotalike.com/) / [Playlist generator](https://www.playlist-generator.com/) / [Groovifi](https://play.google.com/store/apps/details?id=com.parshendata.groovifi)
 
@@ -840,7 +842,7 @@ that would never normally get surfaced with their algorithms
 
 ### ▷ Metadata Editor / File Renaming / Tagging And More
 
-- 🌟[Metatogger](https://www.luminescence-software.org/en/metatogger.html) - Metatogger is the new generation of tag editor allowing you to rename, tag and easily sort your audio files
+- 🌟 [Metatogger](https://www.luminescence-software.org/en/metatogger.html) - Metatogger is the new generation of tag editor allowing you to rename, tag and easily sort your audio files
 
 - [Beets](https://beets.io/) - Beets is the media library management system for obsessive music geeks
 
@@ -880,9 +882,9 @@ that would never normally get surfaced with their algorithms
 
 ### ▷ Lyrics
 
-- 🌟[SongSync](https://github.com/Lambada10/SongSync) - Android app to download lyrics (.lrc files) for songs in your music library
+- 🌟 [SongSync](https://github.com/Lambada10/SongSync) - Android app to download lyrics (.lrc files) for songs in your music library
 
-- 🌟[Rush](https://github.com/shub39/Rush) - An app to get and store lyrics for your favorite songs
+- 🌟 [Rush](https://github.com/shub39/Rush) - An app to get and store lyrics for your favorite songs
 
 - [Azlyrics](https://www.azlyrics.com/) / [Versefy](https://versefy.app) / [beautiful-lyrics](https://github.com/surfbryce/beautiful-lyrics)
 
@@ -904,7 +906,7 @@ that would never normally get surfaced with their algorithms
 
 ### ▷ Music Production
 
-- 🌟[Awesome Telegram Collection](https://t.me/addlist/RsWNAih2P1M0ZDc1) - Some VSTs, EDM Sample packs, plugins, Music Production related resources and many more for the music producers.
+- 🌟 [Awesome Telegram Collection](https://t.me/addlist/RsWNAih2P1M0ZDc1) - Some VSTs, EDM Sample packs, plugins, Music Production related resources and many more for the music producers.
 
 - [FL Studio Mobile](https://play.google.com/store/apps/details?id=com.imageline.FLM) / [Bandlab](https://play.google.com/store/apps/details?id=com.bandlab.bandlab) / [LMMS]() / [Rap Fame](https://play.google.com/store/apps/details?id=com.komspek.battleme) / [Moises](https://play.google.com/store/apps/details?id=ai.moises) / [Groovepad](https://play.google.com/store/apps/details?id=com.easybrain.make.music) / [Edjing Mix](https://play.google.com/store/apps/details?id=com.edjing.edjingdjturntable) / [Ableton Live Suite](https://www.ableton.com/en/) / [Bitwig](https://www.bitwig.com/) / [LMMS](https://lmms.io/lsp/) 
 
