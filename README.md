@@ -67,11 +67,7 @@
    - [Music Production](https://github.com/MoonWalker440/Music-Megathread#music-production)
    - [Audio Synthesizer](https://github.com/MoonWalker440/Music-Megathread#audio-synthesizer)
    - [Awesome Music List](https://github.com/MoonWalker440/Music-Megathread#awesome-music-list)
-
-   ➤ [Thanks](https://github.com/MoonWalker440/Music-Megathread#thanks)
-
-   ➤ [Feedback](https://github.com/MoonWalker440/Music-Megathread#feedback)
-
+   
 </details>
 
 ### ➤ Spotify Clients
@@ -127,7 +123,7 @@
 
 - 🌟 [Ytmdesktop2](https://github.com/Venipa/ytmdesktop2) - Unofficial Youtube Music Desktop App, with LastFM support.
 
-- 🌟 [Neptune](https://github.com/uwu/neptune) - An experimental client mod for TIDAL 
+- 🌟 [Neptune](https://github.com/uwu/neptune) / [Plugins](https://github.com/Inrixia/neptune-plugins) - An experimental client mod for TIDAL 
 
 - 🌟 [Saturn PC](https://github.com/SaturnMusic/PC) - Alternative Deezer client 
 
@@ -656,6 +652,8 @@ that would never normally get surfaced with their algorithms
 
 - [Osmium](https://github.com/cranci1/Osmium) - A free iOS mobile client to download publicly accessible items from various known platforms.
 
+- [Spotify Downloader](https://github.com/WilliamSchack/Spotify-Downloader) - A program that downloads songs from spotify.
+
 ### ▷ Song Identification
 
 - 🌟 [Songwhip](https://songwhip.com/) / [WatZatSong](https://www.watzatsong.com/en) / [Midomi](https://www.midomi.com/)
@@ -955,15 +953,3 @@ that would never normally get surfaced with their algorithms
 - [Awesome audio DSP](https://github.com/BillyDM/awesome-audio-dsp) - A curated list of audio DSP and plugin development resources
 
 - [Awesome music listening](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music
-
-### 💝 Thanks to
-
-- Friends and many supporters who provided many materials for me and make suggestions to me to make this repository more cool 🙌
-
-- Very thanks to [@SowadBD](https://t.me/SowadBD) for making such a cool banner ❤️
-
-- Telegram Channels which help me to discover many great apps 😇 - [Droid Den](https://t.me/DroidDenn) , [Mix Mods](https://t.me/Mix_Mods) , [Twapple](https://t.me/twapple)
-
-### Feedback 😄
-
-If you find any broken or wrong link Please report me or if you want to add suggestions, open a new [issue](https://github.com/MoonWalker440/Music-Megathread/issues/new) or text me in Telegram [@Krish_440](https://t.me/krish_440)
