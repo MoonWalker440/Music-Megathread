@@ -819,6 +819,8 @@ that would never normally get surfaced with their algorithms
 - [Musixmatch Lyrics](https://play.google.com/store/apps/details?id=com.musixmatch.android.lyrify) - Rediscover the music you love with lyrics and translations
 
 - [Musicbutler](https://www.musicbutler.io/) - A website that sends you notifications about new music albums and releases by artists you follow. It integrates with Apple Music, Spotify, and Last.FM so you can import your artists from these services effortlessly.
+  
+- [MusicReleaseTracker](https://github.com/BLCK-B/MusicReleaseTracker) - Desktop multi-source music scraper that helps you follow latest songs. Free and open source.
 
 - [Musicdex](https://musicdex.org/) - Musicdex is a website that allows users to discover and enjoy their favorite music.
 
