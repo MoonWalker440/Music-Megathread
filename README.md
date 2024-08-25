@@ -46,8 +46,9 @@
    - [Audiobook Player](https://github.com/MoonWalker440/Music-Megathread#audiobook-player)
    - [Audio Servers](https://github.com/MoonWalker440/Music-Megathread#audio-servers)
    - [Audio Torrenting](https://github.com/MoonWalker440/Music-Megathread#audio-torrenting)
+   - [Extension & Userscripts](#extension-&-userscripts)
    - [Audio Ripping](https://github.com/MoonWalker440/Music-Megathread#audio-ripping)
-
+   
 ### ➤ Others 
 
    - [Streaming Sites](https://github.com/MoonWalker440/Music-Megathread#streaming-sites)
@@ -210,7 +211,7 @@ Note - It's still in Alpha stage
 
 ### ▷ Android Streaming Apps 🎶
 
-- 🌟 [Saturn Mobile](https://github.com/SaturnMusic/mobile) / 🌟[Refreezer](https://github.com/DJDoubleD/refreezer) - Alternative Deezer music streaming & downloading client, based on Freezer.
+- 🌟 [Saturn Mobile](https://github.com/SaturnMusic/mobile) / 🌟 [Refreezer](https://github.com/DJDoubleD/refreezer) - Alternative Deezer music streaming & downloading client, based on Freezer.
 
 - 🌟 [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - A music app designed to bring you ad-free tunes from various sources
 
@@ -338,7 +339,7 @@ Note - It's still in Alpha stage
 
 ### ▷ Audio Downloading
 
-- 🌟 [Double Double](https://doubledouble.top/) - 320kb / MP3 / FLAC
+- 🌟 [Double Double](https://doubledouble.top/) - 320kb / MP3 / FLAC [Important Note](https://rentry.co/LucidaDoubleDouble)
 
 - 🌟 [Lucida](http://lucida.to/) - Download music directly from Spotify, Qobuz, Tidal, Soundcloud and Deezer in high quality for free. 
 
@@ -417,6 +418,8 @@ Note - It's still in Alpha stage
 - [jio saavn dl](https://github.com/bunnykek/jiosaavn-dl) - Music, Album and Playlist downloader for JioSaavn
 
 - [deemix fork](https://gitlab.com/tekamiocho/deemix) - deemix-gui fork that downloads Spotify playlists as FLAC again
+
+- [d fi](https://notabug.org/sayem314/d-fi) - Deezer / FLAC / Requires Premium [Firehawk52](https://rentry.org/firehawk52)
 
 ### ▷ Audio Tools
 
@@ -546,14 +549,19 @@ Note - It's still in Alpha stage
 ### ▷ Audio Torrenting
 
 - [TheTradersDen](http://www.thetradersden.org/) / [Black Torrent](https://blacktorrent.ru/) / [New Team](https://new-team.org/) / [Goldesel](http://goldesel.to/) / [MyAnonaMouse](https://www.myanonamouse.net/) / [NoNaMe Club](https://nnmclub.to/) / [Rutracker](https://rutracker.org/forum/index.php) / [Mixtapetorrent](http://www.mixtapetorrent.com/) / [TribalMixes](https://www.tribalmixes.com/) / [Multiplex](https://github.com/pojntfx/multiplex)
+ 
+### ▷ Extension & Userscripts
+
+- [Apple Music Downloader Extension](https://github.com/JemPH/Apple-Music-Downloader-Browser) - It requires Apple Music Subscription. 
+- [Qobuz Downloader Tool](https://github.com/JemPH/QobuzDL-Browser)
 
 ### ▷ Audio Ripping 
 
-- [Firehawk52 Music Ripping Guide](https://rentry.org/firehawk52)🌟
+- 🌟 [Firehawk52 Music Ripping Guide](https://rentry.org/firehawk52)
 
-- [captainrookie](https://captainrookie.com/)🌟 - Digital audio guides and tutorials covering MP3 and FLAC ripping, editing, converting and organising your digital music collection
+- 🌟 [captainrookie](https://captainrookie.com/) - Digital audio guides and tutorials covering MP3 and FLAC ripping, editing, converting and organising your digital music collection
 
-- [musicripping](https://ori5000.github.io/musicripping.html)🌟 - A Music ripping guide for various platforms by Esoteria Avenue.
+- 🌟 [musicripping](https://ori5000.github.io/musicripping.html) - A Music ripping guide for various platforms by Esoteria Avenue.
 
 - [How to determine the true quality of an audio file](https://www.reddit.com/r/skrillex/comments/3l0yxp/how_to_determine_the_true_quality_of_an_audio_file/)
 
@@ -819,7 +827,7 @@ that would never normally get surfaced with their algorithms
 - [Musixmatch Lyrics](https://play.google.com/store/apps/details?id=com.musixmatch.android.lyrify) - Rediscover the music you love with lyrics and translations
 
 - [Musicbutler](https://www.musicbutler.io/) - A website that sends you notifications about new music albums and releases by artists you follow. It integrates with Apple Music, Spotify, and Last.FM so you can import your artists from these services effortlessly.
-  
+
 - [MusicReleaseTracker](https://github.com/BLCK-B/MusicReleaseTracker) - Desktop multi-source music scraper that helps you follow latest songs. Free and open source.
 
 - [Musicdex](https://musicdex.org/) - Musicdex is a website that allows users to discover and enjoy their favorite music.
@@ -942,7 +950,9 @@ that would never normally get surfaced with their algorithms
 
 ### ➤ Awesome Music List 🎶 
 
-- [Awesome Music Production](https://github.com/ad-si/awesome-music-production) / [2](https://github.com/adius/awesome-music-production) - A curated list of software, services, and resources to create and distribute music
+- 🌟 [Awesome Music Production](https://github.com/ad-si/awesome-music-production) / [2](https://github.com/adius/awesome-music-production) - A curated list of software, services, and resources to create and distribute music
+
+- 🌟 [Awesome collection of tg channels related to Music Production](https://t.me/addlist/igsIdtQXLXRhMTY0) by [@EDM115](https://t.me/EDM115)
 
 - [Awesome Music](https://github.com/noteflakes/awesome-music) - Awesome Music Projects
 
