@@ -573,7 +573,7 @@ Note - It's still in Alpha stage
 
 ### ▷ Streaming Sites
 
-- 🌟 [Ytify](https://github.com/n-ce/ytify) - Ytify is a platform with a primary focus on audio streaming, allowing you to enjoy podcasts, audiobooks, music and other audio content available on YouTube
+- 🌟 [Ytify](https://github.com/n-ce/ytify) / 🌟 [LowKey Player](https://github.com/tejas-git64/LowKey-player) / [Audire](http://audire.vercel.app)
 
 - 🌟 [Forgotify](https://forgotify.com) - Millions of songs on Spotify have been forgotten. Let’s give them new life in new ears
 
@@ -679,6 +679,8 @@ that would never normally get surfaced with their algorithms
 - 🌟 [Nicotine+](https://github.com/nicotine-plus/nicotine-plus) - Nicotine+ aims to be a lightweight, pleasant, free and open source (FOSS) alternative to the official Soulseek client, while also providing a comprehensive set of features.
 
 - 🌟 [Seeker](https://github.com/jackBonadies/SeekerAndroid) - An unofficial soulseek client.
+
+- [slskd](https://github.com/slskd/slskd) - A modern client-server application for the Soulseek file sharing network.
 
 - [Tunemunk](https://www.tunemunk.com/) - Spotify Playlist Sharing
 
