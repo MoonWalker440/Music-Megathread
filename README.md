@@ -490,6 +490,8 @@ Note - It's still in Alpha stage
 
 - [Remusic](https://remusic.ai/en) - Explore the future of AI-generated music with Remusic, the revolutionary AI music generator designed to transform how you make, create, and enjoy music. 
 
+- [SendFame.com](https://sendfame.com/ai-music-generator) - Send epic video messages and AI music!
+
 ### ▷ Audio Editing
 
 - 🌟 [Tenacity](https://tenacityaudio.org) - It's an easy-to-use, cross-platform multi-track audio editor/recorder for Windows, Linux, and other operating systems
@@ -850,6 +852,8 @@ that would never normally get surfaced with their algorithms
 
 - [Replay Mix Plus](https://github.com/soreikomori/ReplayMixPlus) - A playlist generator for YouTube Music
 
+- [discord-music-presence](https://github.com/ungive/discord-music-presence) - Music Presence shows your friends on Discord what music you are listening to.    
+
 ### ▷ Metadata Editor / File Renaming / Tagging And More
 
 - 🌟 [Metatogger](https://www.luminescence-software.org/en/metatogger.html) - Metatogger is the new generation of tag editor allowing you to rename, tag and easily sort your audio files
@@ -877,6 +881,8 @@ that would never normally get surfaced with their algorithms
 - [ligaudio](https://web.ligaudio.ru/) - Soundtrack for cartoons
 
 - [3ost.ru](https://3ost.ru/) - FLAC / MP3
+
+- [VGM KHI Download](https://github.com/EDM115/VGM-KHI-download) - Automatically download all songs from an album from KH Insider's Video Game Music site with format chooser.
 
 ### ▷ Sound effects
 
