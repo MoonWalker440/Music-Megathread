@@ -9,12 +9,6 @@
 <p align="center">
           <img src="https://m3-markdown-badges.vercel.app/stars/1/2/MoonWalker440/Music-Megathread">
 
-
-<p align="center">
-  <a href="https://t.me/MoonWalkersLabchat">
-    <img src="https://img.shields.io/endpoint?&style=for-the-badge&colorA=e4edf2&colorB=004a77&logo=telegram&logoColor=34849f&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2FMoonWalkersLabchat"
-        alt="Telegram">
-
 <details>
   <summary><h2>Table Of Contents</h2></summary>
 
