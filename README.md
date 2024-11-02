@@ -161,6 +161,8 @@ Note - It's still in Alpha stage
 
 - [YesPlayMusic](https://github.com/qier222/YesPlayMusic) - High-value third-party NetEase Cloud Player 
 
+- [SoundCloud Cracked](https://github.com/ArizakiDev/SoundCloud-cracked) - Removed Ads + Discord Rpc.
+
 ### ▷ Offline Player
 
 - 🌟 [Wora](https://github.com/hiaaryan/wora) - A beautiful player for audiophiles 
@@ -213,6 +215,8 @@ Note - It's still in Alpha stage
 
 - 🌟 [Ri Music](https://github.com/fast4x/RiMusic) - A multilingual Android application for streaming music from YouTube Music.
 
+- 🌟 [PaxMusic](https://t.me/PaxMusicApp) - Ad free Music Streaming App for everyone.
+
 - [Gyawun](https://github.com/sheikhhaziq/gyavun) - A Flutter application for streaming music from Jio Saavn and YouTube Music
 
 - [Datmusic](https://play.google.com/store/apps/details?id=tm.alashow.datmusic) - search, play and download high quality music!
@@ -227,13 +231,9 @@ Note - It's still in Alpha stage
 
 - [Simp Music Player](https://github.com/maxrave-dev/SimpMusic) - A simple music app using YouTube Music for backend.
 
-- [Mellow Music](https://github.com/SuhasDissa/MellowMusic) - Online music player app using Piped API to fetch music.
-
 - [Fildo](https://fildo.net/android/en/) - Music streaming app
 
 - [Soundbound](https://play.google.com/store/apps/details?id=in.shabinder.soundbound) - Music Player, able to support custom sources and consume content from multiple sources which serve the media content.
-
-- [VibeYou](https://github.com/you-apps/VibeYou) - Privacy focused music player built with MD3
 
 - [MusicSearch](https://github.com/lydavid/MusicSearch) - An Android app for browsing songs, artists, and anything related to them
 
@@ -682,6 +682,8 @@ that would never normally get surfaced with their algorithms
 
 - [Audio Share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer.
 
+- [Soulify](https://github.com/WB2024/soulify) - Soulify is a hybrid web application that bridges the gap between Spotify and Soulseek, allowing users to search for and download their favorite tracks directly from the Soulseek network.
+
 ### ▷ Telegram Bots 🤖
 
 - [@monoearthmusicbot](https://t.me/monoearthmusicbot) / [@yotBot](https://t.me/yotBot) /  [@RingtoneRobot](https://t.me/RingtoneRobot) / [@slowreverberbot](https://t.me/slowreverberbot) /  [Meph](https://t.me/mephbot) / [@MadnessBeatBot](https://t.me/MadnessBeatBot) / [@RadioBot](https://t.me/RadioBot) / [@music_ripper_bot](https://t.me/music_ripper_bot) / [@musicaiobot](https://t.me/musicaiobot) / [GlomaticoAmazonMusicbot](https://t.me/GlomaticoAmazonMusicBot) / [@redmuzicdlbot](https://t.me/RedMuzicBot) / [@joeymusicbot](https://t.me/@joeymusicbot) / [@mymusics12bot](https://t.me/mymusics12bot)
@@ -803,6 +805,10 @@ that would never normally get surfaced with their algorithms
 - [radiotimeapp](https://radiotimeapp.com/) - Listen to plenty of radio stations from all around the world
 
 - [lofiatc](https://www.lofiatc.com) - Lofi Sounds with LIVE Air Traffic Controll
+
+- [Anytime Podcast Player](https://github.com/amugofjava/anytime_podcast_player) - Simple, easy to use Podcast player app written in Flutter and Dart.
+
+- [audiophile.fm](http://audiophile.fm) - Experience curated radio stations, from around the world, in lossless quality!
 
 ### ▷ Music Tracking / Discovery 
 
