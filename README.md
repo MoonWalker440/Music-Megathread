@@ -718,7 +718,7 @@ that would never normally get surfaced with their algorithms
 
 - Beatport music downloader - [@beatport_downloader_bot](https://t.me/beatport_downloader_bot)
 
-- Apple Music Downloader - [@GlomaticoAppleMusicBot](https://t.me/GlomaticoAppleMusicBot) / [Bay Apple Music](https://t.me/bayapplemusicbot)
+- Apple Music Downloader - 🌟 [zhaarey apple bot](https://t.me/zhaarey_apple_bot) / [@GlomaticoAppleMusicBot](https://t.me/GlomaticoAppleMusicBot) / [Bay Apple Music](https://t.me/bayapplemusicbot)
 
 - Murglar Downloader - [@murglar_bot](https://t.me/murglar_bot)
 
