@@ -622,6 +622,8 @@ that would never normally get surfaced with their algorithms
 
 - [spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 
+- [Astiga Cloud Music Player](https://asti.ga/index.html) - Play your own music, directly from the cloud. [Play Store](https://play.google.com/store/apps/details?id=ga.asti.android)
+
 ### ▷ Downloader Apps
 
 - 🌟 [Spowlo](https://github.com/BobbyESP/Spowlo) - A Spotify songs downloader for Android made with Jetpack Compose, Material You and the spotDL Python library
