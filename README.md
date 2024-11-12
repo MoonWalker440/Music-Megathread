@@ -249,6 +249,8 @@ Note - It's still in Alpha stage
 
 - [Soundcrowd](https://github.com/soundcrowd/soundcrowd) - An extensible music player app for Android with plugins to support streaming from SoundCloud, YouTube, Spotify, Beatport, and Tidal
 
+- [Harmony music](https://github.com/anandnet/Harmony-Music) - A cross platform app for music streaming made with Flutter(Android, Windows, linux).
+
 ### ▷ Offline Local Player
 
 - 🌟 [Namida](https://github.com/namidaco/namida) - A Feature-rich Material You Foss Music & Video Player app with Youtube Support
