@@ -686,6 +686,8 @@ that would never normally get surfaced with their algorithms
 
 - [Soulify](https://github.com/WB2024/soulify) - Soulify is a hybrid web application that bridges the gap between Spotify and Soulseek, allowing users to search for and download their favorite tracks directly from the Soulseek network.
 
+- [Playlists.cloud](https://playlists.cloud/) - Unlimited playlist transfer between Spotify/Apple Music.
+
 ### ▷ Telegram Bots 🤖
 
 - [@monoearthmusicbot](https://t.me/monoearthmusicbot) / [@yotBot](https://t.me/yotBot) /  [@RingtoneRobot](https://t.me/RingtoneRobot) / [@slowreverberbot](https://t.me/slowreverberbot) /  [Meph](https://t.me/mephbot) / [@MadnessBeatBot](https://t.me/MadnessBeatBot) / [@RadioBot](https://t.me/RadioBot) / [@music_ripper_bot](https://t.me/music_ripper_bot) / [@musicaiobot](https://t.me/musicaiobot) / [GlomaticoAmazonMusicbot](https://t.me/GlomaticoAmazonMusicBot) / [@redmuzicdlbot](https://t.me/RedMuzicBot) / [@joeymusicbot](https://t.me/@joeymusicbot) / [@mymusics12bot](https://t.me/mymusics12bot)
