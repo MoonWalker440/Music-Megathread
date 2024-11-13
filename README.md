@@ -417,6 +417,8 @@ Note - It's still in Alpha stage
 
 - [d fi](https://notabug.org/sayem314/d-fi) - Deezer / FLAC / Requires Premium [Firehawk52](https://rentry.org/firehawk52)
 
+- [ytiz](https://github.com/tizerk/ytiz) - An MP3 downloader for YouTube and SoundCloud with no annoying ads or popups.
+
 ### ▷ Audio Tools
 
 - 🌟 [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) - Headphone specific equalization with lots of customizability
@@ -487,6 +489,8 @@ Note - It's still in Alpha stage
 - [Remusic](https://remusic.ai/en) - Explore the future of AI-generated music with Remusic, the revolutionary AI music generator designed to transform how you make, create, and enjoy music. 
 
 - [SendFame.com](https://sendfame.com/ai-music-generator) - Send epic video messages and AI music!
+
+- [I don't have Spotify](https://github.com/sjdonado/idonthavespotify) - Effortlessly convert Spotify links to your preferred streaming service.
 
 ### ▷ Audio Editing
 
