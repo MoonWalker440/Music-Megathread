@@ -680,6 +680,8 @@ that would never normally get surfaced with their algorithms
 
 - 🌟 [TuneMyMusic](https://tunemymusic.com/) / [soundiiz](https://soundiiz.com/) - Transfer your music library from any music service to any other you want! Supports Spotify, TIDAL, Apple Music, YouTube, Amazon Music, Deezer and many more !!
 
+- 🌟 [AirWave](https://play.google.com/store/apps/details?id=me.onvo.wave) - AirWave lets you import playlists from Spotify, SoundCloud, YouTube and Apple Music, download tracks for offline listening and enjoy a clean, intuitive interface. [GitHub](https://github.com/ONVO-me/airwave-web)
+
 - 🌟 [Nicotine+](https://github.com/nicotine-plus/nicotine-plus) - Nicotine+ aims to be a lightweight, pleasant, free and open source (FOSS) alternative to the official Soulseek client, while also providing a comprehensive set of features.
 
 - 🌟 [Seeker](https://github.com/jackBonadies/SeekerAndroid) - An unofficial soulseek client.
