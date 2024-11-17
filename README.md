@@ -634,6 +634,8 @@ that would never normally get surfaced with their algorithms
 
 - 🌟 [Murglar](https://github.com/badmannersteam/murglar-downloads/) - Music player and downloader from Deezer, SoundCloud, VKontakte and Yandex Music
 
+- 🌟 [FluidAC](https://github.com/imjyotiraditya/fluidac-releases) - Easily download FLAC quality songs within seconds, no ads with Material You theming.
+
 - 🌟 [SongTube](https://github.com/SongTube/SongTube-App) - A new beautiful and fast application made in Flutter, it supports an almost full original experience, with many features music oriented features, including a full music player.
 
 - [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify / Gaana / Youtube Music / Jio Saavn / SoundCloud.
