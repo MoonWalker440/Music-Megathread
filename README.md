@@ -122,7 +122,7 @@
 
 - 🌟 [Saturn PC](https://github.com/SaturnMusic/PC) - Alternative Deezer client 
 
-- 🌟 [Moosync](https://github.com/Moosync/Moosync) - Music player capable of playing local audio or from Youtube, Spotify and many more
+- [Moosync](https://github.com/Moosync/Moosync) - Music player capable of playing local audio or from Youtube, Spotify and many more
 
 - [Rurrd Music](https://github.com/RuurdBijlsma/Music) - A really cool Spotify and YouTube client featuring beautiful UI and tons of features.
 
