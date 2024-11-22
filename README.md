@@ -209,6 +209,8 @@ Note - It's still in Alpha stage
 
 - 🌟 [Saturn Mobile](https://github.com/SaturnMusic/mobile) / 🌟 [Refreezer](https://github.com/DJDoubleD/refreezer) - Alternative Deezer music streaming & downloading client, based on Freezer.
 
+- 🌟 [Deezer Mod](https://github.com/PetitPrinc3/Deezer) - An alternative to the Deezer App providing premium features to free accounts using both public and internal Deezer APIs.
+
 - 🌟 [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - A music app designed to bring you ad-free tunes from various sources
 
 - 🌟 [Echo : Music Player](https://github.com/brahmkshatriya/echo) - An Extension based online & offline Music Player for Android, with a clean and simple UI
@@ -334,8 +336,6 @@ Note - It's still in Alpha stage
 - [Dolby On](https://play.google.com/store/apps/details?id=com.dolby.dolby234) - Nothing beats music when dolby support is integrated, right? 
 
 ### ▷ Audio Downloading
-
-- 🌟 [Double Double](https://doubledouble.top/) - 320kb / MP3 / FLAC [Important Note](https://rentry.co/LucidaDoubleDouble)
 
 - 🌟 [Lucida](http://lucida.to/) - Download music directly from Spotify, Qobuz, Tidal, Soundcloud and Deezer in high quality for free. 
 
