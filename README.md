@@ -552,7 +552,9 @@ Note - It's still in Alpha stage
 
 ### ▷ Audio Torrenting
 
-- [TheTradersDen](http://www.thetradersden.org/) / [Black Torrent](https://blacktorrent.ru/) / [New Team](https://new-team.org/) / [Goldesel](http://goldesel.to/) / [MyAnonaMouse](https://www.myanonamouse.net/) / [NoNaMe Club](https://nnmclub.to/) / [Rutracker](https://rutracker.org/forum/index.php) / [Mixtapetorrent](http://www.mixtapetorrent.com/) / [TribalMixes](https://www.tribalmixes.com/) / [Multiplex](https://github.com/pojntfx/multiplex)
+- 🌟 [Rutracker](https://rutracker.org/forum/index.php) / [TheTradersDen](http://www.thetradersden.org/) / [Black Torrent](https://blacktorrent.ru/) / [New Team](https://new-team.org/) / [Goldesel](http://goldesel.to/) / [MyAnonaMouse](https://www.myanonamouse.net/) / [NoNaMe Club](https://nnmclub.to/) / [Mixtapetorrent](http://www.mixtapetorrent.com/) / [TribalMixes](https://www.tribalmixes.com/) / [Multiplex](https://github.com/pojntfx/multiplex)
+
+- [Miku Database](https://mikudb.moe/) - MikuDB has always been a place for Vocaloid music lovers to find their favourite albums they couldn't get elsewhere on the internet.
  
 ### ▷ Extension & Userscripts
 
