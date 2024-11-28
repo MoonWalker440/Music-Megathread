@@ -560,6 +560,7 @@ Note - It's still in Alpha stage
 
 - [Apple Music Downloader Extension](https://github.com/JemPH/Apple-Music-Downloader-Browser) - It requires Apple Music Subscription. 
 - [Qobuz Downloader Tool](https://github.com/JemPH/QobuzDL-Browser)
+- [Spotify Downloader](https://greasyfork.org/en/scripts/446143-spotify-downloader-download-spotify-songs-playlists-and-albums) - Downloads Spotify songs, playlists, and albums as MP3. Can also download full playlist or album as ZIP.
 
 ### ▷ Audio Ripping 
 
