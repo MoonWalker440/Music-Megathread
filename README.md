@@ -421,6 +421,8 @@ Note - It's still in Alpha stage
 
 - [ytiz](https://github.com/tizerk/ytiz) - An MP3 downloader for YouTube and SoundCloud with no annoying ads or popups.
 
+- [kuku-dl](https://github.com/bunnykek/kuku-dl) - Kuku FM downloader.
+
 ### ▷ Audio Tools
 
 - 🌟 [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) - Headphone specific equalization with lots of customizability
