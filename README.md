@@ -163,6 +163,8 @@ Note - It's still in Alpha stage
 
 - [SoundCloud Cracked](https://github.com/ArizakiDev/SoundCloud-cracked) - Removed Ads + Discord Rpc.
 
+- [Yami](https://github.com/DevER-M/yami) - An Open Source Music Player with Spotdl Integration.
+
 ### ▷ Offline Player
 
 - 🌟 [Wora](https://github.com/hiaaryan/wora) - A beautiful player for audiophiles 
@@ -834,6 +836,8 @@ that would never normally get surfaced with their algorithms
 - [Anytime Podcast Player](https://github.com/amugofjava/anytime_podcast_player) - Simple, easy to use Podcast player app written in Flutter and Dart.
 
 - [audiophile.fm](http://audiophile.fm) - Experience curated radio stations, from around the world, in lossless quality!
+
+- [Cardo](https://cardo-podcast.github.io/) - Open Source desktop podcast client.
 
 ### ▷ Music Tracking / Discovery 
 
