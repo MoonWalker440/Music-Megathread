@@ -165,6 +165,8 @@ Note - It's still in Alpha stage
 
 - [Yami](https://github.com/DevER-M/yami) - An Open Source Music Player with Spotdl Integration.
 
+ - [Qcm](https://github.com/hypengw/Qcm) - Material You cloud music player.
+
 ### ▷ Offline Player
 
 - 🌟 [Wora](https://github.com/hiaaryan/wora) - A beautiful player for audiophiles 
@@ -220,6 +222,8 @@ Note - It's still in Alpha stage
 - 🌟 [Ri Music](https://github.com/fast4x/RiMusic) - A multilingual Android application for streaming music from YouTube Music.
 
 - 🌟 [PaxMusic](https://t.me/PaxMusicApp) - Ad free Music Streaming App for everyone.
+
+- [QobuzDownloaderX Mobile](https://github.com/JemPH/QobuzDownloaderX-Mobile) - A mobile version of QBDLX application for high-quality music streaming and downloading files from Qobuz.
 
 - [Gyawun](https://github.com/sheikhhaziq/gyavun) - A Flutter application for streaming music from Jio Saavn and YouTube Music
 
@@ -318,6 +322,8 @@ Note - It's still in Alpha stage
 - [CuteMusic](https://github.com/sosauce/CuteMusic) - CuteMusic is a simple,lightweight and open-source offline music player app for Android.
 
 - [Satunes](https://github.com/antoinepirlot/Satunes) - Modern MP3 Player to listen your local music files on Android Lollipop 5.1.1+ & compatible with Android Auto.
+
+- [Phocid](https://github.com/tjysunset/phocid) - A modern offline music player with familiar designs.
 
 ## ➤ Audio Thread 
 
@@ -529,6 +535,8 @@ Note - It's still in Alpha stage
 - [BookPlayer](https://github.com/TortugaPower/BookPlayer) – Player for your DRM-free audiobooks
 
 - [Material Audiobook Player](https://github.com/PaulWoitaschek/MaterialAudiobookPlayer) - Minimalistic audiobook player
+
+- [Homer Player](https://msimonides.github.io/homerplayer) - Homer Player is an audiobook player for the elderly. Its simple user interface makes it easy to operate for seniors and people with poor vision (or both).
 
 ### ▷ Audio Servers
 
