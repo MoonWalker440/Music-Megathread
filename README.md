@@ -14,54 +14,54 @@
 
 ### ➤ Spotify
 
-   - [Spotify Clients](https://github.com/MoonWalker440/Music-Megathread#spotify-clients)
-   - [Spotify Tools](https://github.com/MoonWalker440/Music-Megathread#spotify-tools)
-   - [Spotify Themes](https://github.com/MoonWalker440/Music-Megathread#spotify-themes)
-   - [Spotify Adblockers](https://github.com/MoonWalker440/Music-Megathread#spotify-adblockers)
+   - [Spotify Clients](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-spotify-clients)
+   - [Spotify Tools](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-spotify-tools)
+   - [Spotify Themes](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-spotify-themes)
+   - [Spotify Adblockers](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-spotify-adblockers)
 
 ###  ➤ Desktop Apps
 
-   - [Desktop Streaming Apps](https://github.com/MoonWalker440/Music-Megathread/tree/main#desktop-streaming-apps-)
-   - [Offline Player](https://github.com/MoonWalker440/Music-Megathread/tree/main#offline-player)
+   - [Desktop Streaming Apps](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-desktop-streaming-apps-)
+   - [Offline Player](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-offline-player)
 
 ###  ➤ Android Apps
 
-   - [Android Streaming Apps](https://github.com/MoonWalker440/Music-Megathread/tree/main#android-streaming-apps-)
-   - [Offline Local Player](https://github.com/MoonWalker440/Music-Megathread/tree/main#offline-local-player)
+   - [Android Streaming Apps](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-android-streaming-apps-)
+   - [Offline Local Player](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-offline-local-player)
 
 ###  ➤ Audio Thread
 
-   - [Audio Recording](https://github.com/MoonWalker440/Music-Megathread#audio-recording)
-   - [Mobile Audio Recording](https://github.com/MoonWalker440/Music-Megathread#mobile-audio-recording)
-   - [Audio Downloading](https://github.com/MoonWalker440/Music-Megathread#audio-downloading)
-   - [Audio Tools](https://github.com/MoonWalker440/Music-Megathread#audio-tools)
-   - [Audio Editing](https://github.com/MoonWalker440/Music-Megathread#audio-editing)
-   - [Audiobooks](https://github.com/MoonWalker440/Music-Megathread#audiobooks)
-   - [Audiobook Player](https://github.com/MoonWalker440/Music-Megathread#audiobook-player)
-   - [Audio Servers](https://github.com/MoonWalker440/Music-Megathread#audio-servers)
-   - [Audio Torrenting](https://github.com/MoonWalker440/Music-Megathread#audio-torrenting)
-   - [Extension & Userscripts](#extension-&-userscripts)
-   - [Audio Ripping](https://github.com/MoonWalker440/Music-Megathread#audio-ripping)
+   - [Audio Recording](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-audio-recording)
+   - [Mobile Audio Recording](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-mobile-audio-recording-%EF%B8%8F)
+   - [Audio Downloading](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-audio-downloading)
+   - [Audio Tools](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-audio-tools)
+   - [Audio Editing](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-audio-editing)
+   - [Audiobooks](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-audiobooks)
+   - [Audiobook Player](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-audiobook-players)
+   - [Audio Servers](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-audio-servers)
+   - [Audio Torrenting](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-audio-torrenting)
+   - [Extension & Userscripts](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-extension--userscripts)
+   - [Audio Ripping](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-audio-ripping)
    
 ### ➤ Others 
 
-   - [Streaming Sites](https://github.com/MoonWalker440/Music-Megathread#streaming-sites)
-   - [Downloader Apps](https://github.com/MoonWalker440/Music-Megathread#downloader-apps)
-   - [Song Identification](https://github.com/MoonWalker440/Music-Megathread#song-identification)
-   - [Transfer Your Music Library](https://github.com/MoonWalker440/Music-Megathread#transfer-your-music-library)
-   - [Telegram Bots](https://github.com/MoonWalker440/Music-Megathread#telegram-bots-)
-   - [Telegram Channels](https://github.com/MoonWalker440/Music-Megathread#telegram-channels)
-   - [Ambient Sound](https://github.com/MoonWalker440/Music-Megathread#ambient-sound)
-   - [Podcasts / Radio](https://github.com/MoonWalker440/Music-Megathread#podcasts--radio)
-   - [Music Tracking / Discovery](https://github.com/MoonWalker440/Music-Megathread#music-tracking--discovery)
-   - [Metadata Editor / File Renaming / Tagging And More](https://github.com/MoonWalker440/Music-Megathread#metadata-editor--file-renaming--tagging-and-more)
-   - [Video Game Soundtracks](https://github.com/MoonWalker440/Music-Megathread#video-game-soundtracks)
-   - [Sound effects](https://github.com/MoonWalker440/Music-Megathread#sound-effects)
-   - [Music Automation](https://github.com/MoonWalker440/Music-Megathread#music-automation)
-   - [Lyrics](https://github.com/MoonWalker440/Music-Megathread#lyrics)
-   - [Music Production](https://github.com/MoonWalker440/Music-Megathread#music-production)
-   - [Audio Synthesizer](https://github.com/MoonWalker440/Music-Megathread#audio-synthesizer)
-   - [Awesome Music List](https://github.com/MoonWalker440/Music-Megathread#awesome-music-list)
+   - [Streaming Sites](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-streaming-sites)
+   - [Downloader Apps](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-downloader-apps)
+   - [Song Identification](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-song-identification)
+   - [Transfer Your Music Library](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-transfer-your-music-library-)
+   - [Telegram Bots](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-telegram-bots-)
+   - [Telegram Channels](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-telegram-channels)
+   - [Ambient Sound](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-ambient-sound)
+   - [Podcasts / Radio](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-podcasts--radio-)
+   - [Music Tracking / Discovery](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-music-tracking--discovery)
+   - [Metadata Editor / File Renaming / Tagging And More](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-metadata-editor--file-renaming--tagging-and-more)
+   - [Video Game Soundtracks](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-video-game-soundtracks)
+   - [Sound effects](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-sound-effects)
+   - [Music Automation](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-music-automation)
+   - [Lyrics](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-lyrics)
+   - [Music Production](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-music-production)
+   - [Audio Synthesizer](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-audio-synthesizer)
+   - [Awesome Music List](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-awesome-music-list-)
    
 </details>
 
@@ -651,7 +651,7 @@ that would never normally get surfaced with their algorithms
 
 - 🌟 [Murglar](https://github.com/badmannersteam/murglar-downloads/) - Music player and downloader from Deezer, SoundCloud, VKontakte and Yandex Music
 
-- 🌟 [Echoir](https://github.com/imjyotiraditya/Echoir) - A Material You music downloader for Android. This is the successor to [FluidAC](https://github.com/imjyotiraditya/fluidac-releases), completely rewritten with new features and improvements.
+- 🌟 [Echoir](https://github.com/imjyotiraditya/Echoir) - A Material You music downloader for Android. This is the successor to FluidAC, completely rewritten with new features and improvements.
 
 - 🌟 [SongTube](https://github.com/SongTube/SongTube-App) - A new beautiful and fast application made in Flutter, it supports an almost full original experience, with many features music oriented features, including a full music player.
 
