@@ -88,8 +88,6 @@
 
 - [SpotifySyncWall](https://github.com/genricoloni/SpotifySyncWall) - Currently Playing Spotify Song As Wallpaper.
 
-- [DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot) - Spotify music and playlist downloader working with free Spotify accounts.
-
 - [Syrics Web](https://github.com/akashrchandran/syrics-web) - A web app to download Spotify lyrics.
 
 - [Spotify github profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile
