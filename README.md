@@ -205,6 +205,8 @@ Note - It's still in Alpha stage
 
 - [fooyin](https://github.com/ludouzi/fooyin) - A customisable music player 
 
+- [Rune](https://github.com/Losses/rune) - Rune Player is a music player that offers audio analysis and recommendation features. It introduces a new, modern music management paradigm to enhance your experience with cross-platform support.
+
 ## ➤ Android Apps
 
 ### ▷ Android Streaming Apps 🎶
@@ -322,6 +324,8 @@ Note - It's still in Alpha stage
 - [Satunes](https://github.com/antoinepirlot/Satunes) - Modern MP3 Player to listen your local music files on Android Lollipop 5.1.1+ & compatible with Android Auto.
 
 - [Phocid](https://github.com/tjysunset/phocid) - A modern offline music player with familiar designs.
+
+- [Rune](https://github.com/Losses/rune) - Rune Player is a music player that offers audio analysis and recommendation features. It introduces a new, modern music management paradigm to enhance your experience with cross-platform support.
 
 ## ➤ Audio Thread 
 
