@@ -685,6 +685,8 @@ that would never normally get surfaced with their algorithms
 
 - [Spotify Downloader](https://github.com/WilliamSchack/Spotify-Downloader) - A program that downloads songs from spotify.
 
+- [OnTheSpot](https://github.com/justin025/onthespot) - A GUI music downloader for Apple Music, Bandcamp, Deezer, Spotify, Tidal, and Youtube.
+
 ### ▷ Song Identification
 
 - 🌟 [Songwhip](https://songwhip.com/) / [WatZatSong](https://www.watzatsong.com/en) / [Midomi](https://www.midomi.com/)
