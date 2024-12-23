@@ -165,6 +165,8 @@ Note - It's still in Alpha stage
 
  - [Qcm](https://github.com/hypengw/Qcm) - Material You cloud music player.
 
+- [Alger Music Player](https://github.com/algerkong/AlgerMusicPlayer) - A desktop music player based on electron typescript vue3 adapted to web, desktop & web.
+
 ### ▷ Offline Player
 
 - 🌟 [Wora](https://github.com/hiaaryan/wora) - A beautiful player for audiophiles 
@@ -258,6 +260,8 @@ Note - It's still in Alpha stage
 - [Soundcrowd](https://github.com/soundcrowd/soundcrowd) - An extensible music player app for Android with plugins to support streaming from SoundCloud, YouTube, Spotify, Beatport, and Tidal
 
 - [Harmony music](https://github.com/anandnet/Harmony-Music) - A cross platform app for music streaming made with Flutter(Android, Windows, linux).
+
+- [Bookify Audio](https://github.com/gokeihub/bookify_audio) - An open source cross-platform alternative to kabbik and kukuFm.
 
 ### ▷ Offline Local Player
 
@@ -433,6 +437,8 @@ Note - It's still in Alpha stage
 
 - [kuku-dl](https://github.com/bunnykek/kuku-dl) - Kuku FM downloader.
 
+- [Unminus](https://www.unminus.com/) - Free Music Download for Your Projects. No Rules. No Ads. Yes Artists. Curated Royalty Free Music.
+
 ### ▷ Audio Tools
 
 - 🌟 [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) - Headphone specific equalization with lots of customizability
@@ -540,6 +546,8 @@ Note - It's still in Alpha stage
 
 - [Homer Player](https://msimonides.github.io/homerplayer) - Homer Player is an audiobook player for the elderly. Its simple user interface makes it easy to operate for seniors and people with poor vision (or both).
 
+- [Aradia](https://github.com/sagarchaulagai/aradia) - Aradia Audiobook is a free and open-source app designed to help you browse, search, and download audiobooks from the public domain.
+
 ### ▷ Audio Servers
 
 - 🌟 [Swing Music](https://swingmusic.vercel.app) - Swing Music is a beautifully designed, self-hosted music streaming server
@@ -560,9 +568,11 @@ Note - It's still in Alpha stage
 
 - [Logitech Media Server](https://lms-community.github.io/) - Self-hosted, extensible music server with support for multiroom playing and third-party streaming services. It can play local or remote music to a wide range of software and hardware players.
 
-- [Supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured desktop music client for Jellyfin and Subsonic-compatible servers 
+- [Supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured desktop music client for Jellyfin and Subsonic-compatible servers.
 
-- [Tack](https://github.com/patzly/tack-android/) - A powerful and beautiful metronome for Android
+- [Tack](https://github.com/patzly/tack-android/) - A powerful and beautiful metronome for Android.
+
+- [Netplayer Mobile](https://github.com/Zhoucheng133/netPlayer-Mobile) - A Subsonic & Navidrome based mobile music player.
 
 ### ▷ Audio Torrenting
 
@@ -589,6 +599,8 @@ Note - It's still in Alpha stage
 - [How to Rip Music from a CD to a Computer](https://www.pcmag.com/how-to/how-to-rip-a-cd-in-windows-11)
 
 - [How to rip music at 256 kbps from Youtube Music](https://www.reddit.com/r/Piracy/comments/vv27dy/heres_how_to_rip_music_at_256_kbps_from_youtube/)
+
+- [Sharemania](http://ShareMania.us/) - A community where users share high-quality media content, primarily focusing on music, music videos, live performances, Concert videos, TV shows and other entertainment-related media.
 
 ## ➤ Others 
 
@@ -686,6 +698,10 @@ that would never normally get surfaced with their algorithms
 - [Spotify Downloader](https://github.com/WilliamSchack/Spotify-Downloader) - A program that downloads songs from spotify.
 
 - [OnTheSpot](https://github.com/justin025/onthespot) - A GUI music downloader for Apple Music, Bandcamp, Deezer, Spotify, Tidal, and Youtube.
+
+- [Melora](https://github.com/IcySnex/Melora) - Melora allows you to download all your music from any platform using custom plugins - just like the good old days of MP3 ripping, but with a modern twist.
+
+- [Beatport Downloader](https://github.com/unspok3n/beatportdl) - Beatport downloader (FLAC, AAC)
 
 ### ▷ Song Identification
 
@@ -891,7 +907,9 @@ that would never normally get surfaced with their algorithms
 
 - [Replay Mix Plus](https://github.com/soreikomori/ReplayMixPlus) - A playlist generator for YouTube Music
 
-- [discord-music-presence](https://github.com/ungive/discord-music-presence) - Music Presence shows your friends on Discord what music you are listening to.    
+- [discord-music-presence](https://github.com/ungive/discord-music-presence) - Music Presence shows your friends on Discord what music you are listening to.
+
+- [Tracklist](https://tracklist.it/) - The place to share and discover new music daily 🎧.    
 
 ### ▷ Metadata Editor / File Renaming / Tagging And More
 
@@ -959,6 +977,8 @@ that would never normally get surfaced with their algorithms
 
 - [Alspotron](https://github.com/organization/alspotron) - Shows the egg lyrics of the track, playing on Spotify / YouTube Music 
 
+- [Lyrics Grabber](https://github.com/IllusionMan1212/lyrics-grabbr) - App that listens to your notifications and provides lyrics for the currently playing song.
+
 ### ▷ Music Production
 
 - 🌟 [Awesome Telegram Collection](https://t.me/addlist/RsWNAih2P1M0ZDc1) - Some VSTs, EDM Sample packs, plugins, Music Production related resources and many more for the music producers.
@@ -982,6 +1002,8 @@ that would never normally get surfaced with their algorithms
 - [MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software
 
 - [Donna](https://www.musicdonna.com/) - Create unique songs with Donna
+
+- [Reaper](https://www.reaper.fm/) - Complete digital audio production application for computers, offering a full multitrack audio and MIDI recording.
 
 ### ➤ Audio Synthesizer 
 
