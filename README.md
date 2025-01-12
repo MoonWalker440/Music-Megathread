@@ -315,8 +315,6 @@ Note - It's still in Alpha stage
 
 - [Breeze : Music Player & Friends](https://play.google.com/store/apps/details?id=com.airis.breeze) - A beautiful Material You Music Player that lets you listen to music with friends and chat in real time !!
 
-- [CuteMusic](https://github.com/sosauce/CuteMusic) - CuteMusic is a simple,lightweight and open-source offline music player app for Android
-
 - [SoulSearching](https://github.com/enteraname74/SoulSearching) - An offline music application
 
 - [Stelio Player](https://play.google.com/store/apps/details?id=io.stellio.music) - Advanced player with theme support, powerful audio settings and waveform 
