@@ -785,6 +785,8 @@ that would never normally get surfaced with their algorithms
 
 - [Amazon Music](https://t.me/+L6pRuCvFzWdmZmVh) / [Apple Music](https://t.me/+_a_HVYo3fXw1ZWVh) / [Spotify Database](https://t.me/joinchat/CpMAJhkWaTwk8BVPepASZQ) / [Bassmuzic](https://t.me/bassmuzic) / [CORE RADIO](https://t.me/joinchat/AfzXogQiQ9wwNGUy) / [flacmusics](https://t.me/flacmusics) / [AlbanianMusic](https://t.me/AlbanianMusic) / [YouTube Music DB](https://t.me/joinchat/l4i3KWKnONQxNWNi) / [ZKY MUSIC](https://t.me/+itsoUFF3Wv44MDFl) / [FLACSong](https://t.me/FLACSong) / [flacmusics](https://t.me/flacmusics) / [Tamil Flac Songs](https://t.me/+epkL3ORe865lMjBl) / [MUSIC SUBMIT️ MUSIK REQUEST](https://t.me/+R_03ERf_q8k2NzE1) / [ReD & DailyLeaks](https://t.me/RedAndDailyLeaks) / [♪ Trending Songs 𝄞](https://t.me/trendingsongsonly)
 
+👉 Useful Telegram Groups - https://rentry.org/Musicgroups
+
 ### ▷ Ambient Sound
 
 - 🌟 [Calm](https://www.calm.com/app) - Meditation
