@@ -31,8 +31,7 @@
 
 ### ➤ IOS Apps
 
-   - [IOS Streaming Apps]()
-   - [IOS Local Player]()
+   - [IOS Streaming Apps](https://github.com/MoonWalker440/Music-Megathread#-ios-apps-1)
 
 ###  ➤ Audio Thread
 
@@ -348,7 +347,13 @@ Note - It's still in Alpha stage
 
 ### ▷ IOS Streaming Apps
 
+- [EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) - A tweak to get Spotify Premium for free, just like Spotilife.
+
+- [Spotc](https://spotc.yodaluca.dev/) - Compiled Spotify IPAs with enhanced features.
+
 - [Scmusicplus](https://github.com/Rov3r/scmusicplus) - Enhance your iOS SoundCloud experience.
+
+- [YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate) - The best tweak for YouTube Music iOS.
 
 ## ➤ Audio Thread 
 
@@ -602,6 +607,8 @@ Note - It's still in Alpha stage
 - [Netplayer Mobile](https://github.com/Zhoucheng133/netPlayer-Mobile) - A Subsonic & Navidrome based mobile music player.
 
 - [Castafiore](https://github.com/sawyerf/Castafiore) - Castafiore is a music player that support Subsonic API.
+
+- [Black Candy](https://github.com/blackcandy-org/blackcandy) - Black Candy is a self-hosted music streaming server, your personal music center.
 
 ### ▷ Audio Torrenting
 
