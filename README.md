@@ -29,6 +29,11 @@
    - [Android Streaming Apps](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-android-streaming-apps-)
    - [Offline Local Player](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-offline-local-player)
 
+### ➤ IOS Apps
+
+   - [IOS Streaming Apps]()
+   - [IOS Local Player]()
+
 ###  ➤ Audio Thread
 
    - [Audio Recording](https://github.com/MoonWalker440/Music-Megathread?tab=readme-ov-file#-audio-recording)
@@ -97,6 +102,8 @@
 - [Spytify](https://jwallet.github.io/spy-spotify/overview.html) / [GitHub](https://github.com/jwallet/spy-spotify) - Spytify is a Spotify recorder for Windows which records Spotify audio without recording or playing ads.
 
 - [Newtunes](https://newtunes.xyz/) - A place to view information about your listening history 
+
+- [SpotTransfer](https://github.com/Pushan2005/SpotTransfer) - Spotify to YT-Music Migration Tool.
 
 ### ➤ Spotify Themes
 
@@ -167,6 +174,10 @@ Note - It's still in Alpha stage
 
 - [Alger Music Player](https://github.com/algerkong/AlgerMusicPlayer) - A desktop music player based on electron typescript vue3 adapted to web, desktop & web.
 
+- [Gyawun](https://github.com/sheikhhaziq/gyavun) - A Flutter application for streaming music from Jio Saavn and YouTube Music
+
+- [Vleer](https://github.com/vleerapp/Vleer) - Vleer is a lightweight, fast, privacy-first music app, offering a free alternative to Spotify or Apple Music
+
 ### ▷ Offline Player
 
 - 🌟 [Wora](https://github.com/hiaaryan/wora) - A beautiful player for audiophiles 
@@ -208,6 +219,8 @@ Note - It's still in Alpha stage
 - [fooyin](https://github.com/ludouzi/fooyin) - A customisable music player 
 
 - [Rune](https://github.com/Losses/rune) - Rune Player is a music player that offers audio analysis and recommendation features. It introduces a new, modern music management paradigm to enhance your experience with cross-platform support.
+
+- [Amberol](https://gitlab.gnome.org/ebassi/amberol) - Amberol is a music player with no delusions of grandeur. If you just want to play music available on your local system then Amberol is the music player you are looking for.
 
 ## ➤ Android Apps
 
@@ -329,6 +342,14 @@ Note - It's still in Alpha stage
 
 - [Rune](https://github.com/Losses/rune) - Rune Player is a music player that offers audio analysis and recommendation features. It introduces a new, modern music management paradigm to enhance your experience with cross-platform support.
 
+- [Lotus](https://github.com/dn0ne/lotus) - A modern Material You style music player.
+
+## ➤ IOS Apps 
+
+### ▷ IOS Streaming Apps
+
+- [Scmusicplus](https://github.com/Rov3r/scmusicplus) - Enhance your iOS SoundCloud experience.
+
 ## ➤ Audio Thread 
 
 ### ▷ Audio Recording
@@ -437,6 +458,8 @@ Note - It's still in Alpha stage
 
 - [Unminus](https://www.unminus.com/) - Free Music Download for Your Projects. No Rules. No Ads. Yes Artists. Curated Royalty Free Music.
 
+- [Qobuz dl](https://www.qobuz-dl.com/) - A frontend browser client for downloading music for Qobuz. [GitHub](https://github.com/QobuzDL/Qobuz-DL)
+
 ### ▷ Audio Tools
 
 - 🌟 [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) - Headphone specific equalization with lots of customizability
@@ -510,6 +533,8 @@ Note - It's still in Alpha stage
 
 - [I don't have Spotify](https://github.com/sjdonado/idonthavespotify) - Effortlessly convert Spotify links to your preferred streaming service.
 
+- [Pleezer](https://github.com/roderickvd/pleezer) - Headless Deezer Connect player.[A paid Deezer subscription is required to use pleezer]
+
 ### ▷ Audio Editing
 
 - 🌟 [Tenacity](https://tenacityaudio.org) - It's an easy-to-use, cross-platform multi-track audio editor/recorder for Windows, Linux, and other operating systems
@@ -534,6 +559,8 @@ Note - It's still in Alpha stage
 
 - [Scribl](https://scribl.com/info/podiobooks-now-scribl/) – Audiobooks that are are free to download
 
+- [Ebook 2 Audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!
+
 ### ▷ Audiobook Players
 
 - [OpenAudible](https://github.com/openaudible/openaudible) – A cross-platform desktop application for downloading and managing your Audible audiobooks
@@ -545,6 +572,8 @@ Note - It's still in Alpha stage
 - [Homer Player](https://msimonides.github.io/homerplayer) - Homer Player is an audiobook player for the elderly. Its simple user interface makes it easy to operate for seniors and people with poor vision (or both).
 
 - [Aradia](https://github.com/sagarchaulagai/aradia) - Aradia Audiobook is a free and open-source app designed to help you browse, search, and download audiobooks from the public domain.
+
+- [Lissen Android](https://github.com/GrakovNe/lissen-android) - Minimalistic Android client app for Audiobookshelf.
 
 ### ▷ Audio Servers
 
@@ -571,6 +600,8 @@ Note - It's still in Alpha stage
 - [Tack](https://github.com/patzly/tack-android/) - A powerful and beautiful metronome for Android.
 
 - [Netplayer Mobile](https://github.com/Zhoucheng133/netPlayer-Mobile) - A Subsonic & Navidrome based mobile music player.
+
+- [Castafiore](https://github.com/sawyerf/Castafiore) - Castafiore is a music player that support Subsonic API.
 
 ### ▷ Audio Torrenting
 
@@ -657,6 +688,8 @@ that would never normally get surfaced with their algorithms
 
 - [Astiga Cloud Music Player](https://asti.ga/index.html) - Play your own music, directly from the cloud. [Play Store](https://play.google.com/store/apps/details?id=ga.asti.android)
 
+- [Octave Music](https://github.com/octave-music/frontend) - The Ad-free, premium music streaming site with no strings attached.
+
 ### ▷ Downloader Apps
 
 - 🌟 [Spowlo](https://github.com/BobbyESP/Spowlo) - A Spotify songs downloader for Android made with Jetpack Compose, Material You and the spotDL Python library
@@ -700,6 +733,8 @@ that would never normally get surfaced with their algorithms
 - [Melora](https://github.com/IcySnex/Melora) - Melora allows you to download all your music from any platform using custom plugins - just like the good old days of MP3 ripping, but with a modern twist.
 
 - [Beatport Downloader](https://github.com/unspok3n/beatportdl) - Beatport downloader (FLAC, AAC)
+
+- [Creamplayer](https://github.com/Beadd/Creamplayer) - A music downloader with metadata.
 
 ### ▷ Song Identification
 
@@ -781,7 +816,7 @@ that would never normally get surfaced with their algorithms
 
 ### ▷ Telegram Channels
 
-- [Amazon Music](https://t.me/+L6pRuCvFzWdmZmVh) / [Apple Music](https://t.me/+_a_HVYo3fXw1ZWVh) / [Spotify Database](https://t.me/joinchat/CpMAJhkWaTwk8BVPepASZQ) / [Bassmuzic](https://t.me/bassmuzic) / [CORE RADIO](https://t.me/joinchat/AfzXogQiQ9wwNGUy) / [flacmusics](https://t.me/flacmusics) / [AlbanianMusic](https://t.me/AlbanianMusic) / [YouTube Music DB](https://t.me/joinchat/l4i3KWKnONQxNWNi) / [ZKY MUSIC](https://t.me/+itsoUFF3Wv44MDFl) / [FLACSong](https://t.me/FLACSong) / [flacmusics](https://t.me/flacmusics) / [Tamil Flac Songs](https://t.me/+epkL3ORe865lMjBl) / [MUSIC SUBMIT️ MUSIK REQUEST](https://t.me/+R_03ERf_q8k2NzE1) / [ReD & DailyLeaks](https://t.me/RedAndDailyLeaks) / [♪ Trending Songs 𝄞](https://t.me/trendingsongsonly)
+- [Bassmuzic](https://t.me/bassmuzic) / [flacmusics](https://t.me/flacmusics) / [AlbanianMusic](https://t.me/AlbanianMusic) / [FLACSong](https://t.me/FLACSong) / [flacmusics](https://t.me/flacmusics) / [ReD & DailyLeaks](https://t.me/RedAndDailyLeaks) / [♪ Trending Songs 𝄞](https://t.me/trendingsongsonly)
 
 👉 Useful Telegram Groups - https://rentry.org/Musicgroups
 
@@ -864,6 +899,8 @@ that would never normally get surfaced with their algorithms
 - [audiophile.fm](http://audiophile.fm) - Experience curated radio stations, from around the world, in lossless quality!
 
 - [Cardo](https://cardo-podcast.github.io/) - Open Source desktop podcast client.
+
+- [Poddl](https://github.com/freshe/poddl) - Download all podcasts / episodes from an RSS-feed.
 
 ### ▷ Music Tracking / Discovery 
 
@@ -978,6 +1015,8 @@ that would never normally get surfaced with their algorithms
 - [Alspotron](https://github.com/organization/alspotron) - Shows the egg lyrics of the track, playing on Spotify / YouTube Music 
 
 - [Lyrics Grabber](https://github.com/IllusionMan1212/lyrics-grabbr) - App that listens to your notifications and provides lyrics for the currently playing song.
+
+- [LyricFever](https://github.com/aviwad/LyricFever) - Ultimate Spotify & Apple Music Lyrics experience for macOS (spiritual successor to LyricsX).
 
 ### ▷ Music Production
 
