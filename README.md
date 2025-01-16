@@ -221,6 +221,8 @@ Note - It's still in Alpha stage
 
 - [Amberol](https://gitlab.gnome.org/ebassi/amberol) - Amberol is a music player with no delusions of grandeur. If you just want to play music available on your local system then Amberol is the music player you are looking for.
 
+- [Stylophone](https://github.com/Difegue/Stylophone) - A modern, open source MPD client for Windows 10 and 11 devices.
+
 ## ➤ Android Apps
 
 ### ▷ Android Streaming Apps 🎶
@@ -539,6 +541,8 @@ Note - It's still in Alpha stage
 - [I don't have Spotify](https://github.com/sjdonado/idonthavespotify) - Effortlessly convert Spotify links to your preferred streaming service.
 
 - [Pleezer](https://github.com/roderickvd/pleezer) - Headless Deezer Connect player.[A paid Deezer subscription is required to use pleezer]
+
+- [Audible Extractor](https://github.com/joonaspaakko/audible-library-extractor) - Browser extension that extracts your Audible library as a locally viewable web gallery.
 
 ### ▷ Audio Editing
 
@@ -909,6 +913,8 @@ that would never normally get surfaced with their algorithms
 
 - [Poddl](https://github.com/freshe/poddl) - Download all podcasts / episodes from an RSS-feed.
 
+- [Fluentcast](https://fluentcast.luandersonn.com/) - A beautiful, fast, responsive, free and Ad-free podcast app designed for Windows 11.
+
 ### ▷ Music Tracking / Discovery 
 
 - 🌟 [Soundhound](https://play.google.com/store/apps/details?id=com.melodis.midomiMusicIdentifier.freemium) - Music discovery, identification, & voice-controlled player
@@ -1026,8 +1032,6 @@ that would never normally get surfaced with their algorithms
 - [LyricFever](https://github.com/aviwad/LyricFever) - Ultimate Spotify & Apple Music Lyrics experience for macOS (spiritual successor to LyricsX).
 
 ### ▷ Music Production
-
-- 🌟 [Awesome Telegram Collection](https://t.me/addlist/RsWNAih2P1M0ZDc1) - Some VSTs, EDM Sample packs, plugins, Music Production related resources and many more for the music producers.
 
 - [FL Studio Mobile](https://play.google.com/store/apps/details?id=com.imageline.FLM) / [Bandlab](https://play.google.com/store/apps/details?id=com.bandlab.bandlab) / [LMMS]() / [Rap Fame](https://play.google.com/store/apps/details?id=com.komspek.battleme) / [Moises](https://play.google.com/store/apps/details?id=ai.moises) / [Groovepad](https://play.google.com/store/apps/details?id=com.easybrain.make.music) / [Edjing Mix](https://play.google.com/store/apps/details?id=com.edjing.edjingdjturntable) / [Ableton Live Suite](https://www.ableton.com/en/) / [Bitwig](https://www.bitwig.com/) / [LMMS](https://lmms.io/lsp/) 
 
