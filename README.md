@@ -32,8 +32,8 @@
 ### ➤ IOS Apps
 
    - [IOS Streaming Apps](https://github.com/MoonWalker440/Music-Megathread#-ios-apps-1)
-   - [IOS Audio Servers]()
-   - [IOS Podcast Player]()
+   - [IOS Audio Servers](https://github.com/MoonWalker440/Music-Megathread#-ios-audio-servers)
+   - [IOS Podcast Player](https://github.com/MoonWalker440/Music-Megathread#-ios-podcast-player)
 
 ###  ➤ Audio Thread
 
@@ -231,7 +231,7 @@ Note - It's still in Alpha stage
 
 - 🌟 [Saturn Mobile](https://github.com/SaturnMusic/mobile) / 🌟 [Refreezer](https://github.com/DJDoubleD/refreezer) - Alternative Deezer music streaming & downloading client, based on Freezer.
 
-- 🌟 [Deezer Mod](https://github.com/PetitPrinc3/Deezer) - An alternative to the Deezer App providing premium features to free accounts using both public and internal Deezer APIs.
+- [Deezer Mod](https://github.com/PetitPrinc3/Deezer) - An alternative to the Deezer App providing premium features to free accounts using both public and internal Deezer APIs.
 
 - 🌟 [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - A music app designed to bring you ad-free tunes from various sources
 
@@ -247,7 +247,7 @@ Note - It's still in Alpha stage
 
 - [Datmusic](https://play.google.com/store/apps/details?id=tm.alashow.datmusic) - search, play and download high quality music!
 
-- [Innertune](https://github.com/z-huang/InnerTune) - Material 3 YouTube Music client for Android
+- [OuterTune](https://github.com/DD3Boh/OuterTune) - Material 3 YouTube Music client for Android.
 
 - [Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app!
 
@@ -346,6 +346,8 @@ Note - It's still in Alpha stage
 - [Rune](https://github.com/Losses/rune) - Rune Player is a music player that offers audio analysis and recommendation features. It introduces a new, modern music management paradigm to enhance your experience with cross-platform support.
 
 - [Lotus](https://github.com/dn0ne/lotus) - A modern Material You style music player.
+
+- [Music You by DanielSevillano](https://github.com/DanielSevillano/music-you) - Another offline music player.
 
 ## ➤ IOS Apps 
 
