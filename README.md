@@ -32,6 +32,8 @@
 ### ➤ IOS Apps
 
    - [IOS Streaming Apps](https://github.com/MoonWalker440/Music-Megathread#-ios-apps-1)
+   - [IOS Audio Servers]()
+   - [IOS Podcast Player]()
 
 ###  ➤ Audio Thread
 
@@ -357,6 +359,22 @@ Note - It's still in Alpha stage
 
 - [YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate) - The best tweak for YouTube Music iOS.
 
+### ▷ IOS Audio Servers
+
+- [Ambry](https://github.com/ambry-app/ambry) - Self-hosted audiobook streaming server.
+
+- [Flo](https://github.com/kepelet/flo) - An open source Navidrome client written in Swift.
+
+- [AmpFin](https://github.com/rasmuslos/AmpFin) - Native Jellyfin music player for iOS & iPadOS.
+
+### ▷ IOS Podcast Player
+
+- [Podcatcher](https://apps.apple.com/app/podcatcher-podcast-player/id6736467324) - Podcatcher is a powerful podcast player with a simple user experience.
+
+### ▷ IOS Audiobooks 
+
+- [AudioYoink](https://github.com/castdrian/AudioYoink) - An audiobook downloader for iOS written in swift
+
 ## ➤ Audio Thread 
 
 ### ▷ Audio Recording
@@ -467,6 +485,10 @@ Note - It's still in Alpha stage
 
 - [Qobuz dl](https://www.qobuz-dl.com/) - A frontend browser client for downloading music for Qobuz. [GitHub](https://github.com/QobuzDL/Qobuz-DL)
 
+- [Zotifarr](https://github.com/Xoconoch/zotifarr) - Rip from spotify directly to your music library regardless of your account.
+
+- [Spotizerr](https://github.com/Xoconoch/spotizerr) - Spotify music downloader with a lossless twist, based on the deezspot library
+
 ### ▷ Audio Tools
 
 - 🌟 [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) - Headphone specific equalization with lots of customizability
@@ -544,6 +566,10 @@ Note - It's still in Alpha stage
 
 - [Audible Extractor](https://github.com/joonaspaakko/audible-library-extractor) - Browser extension that extracts your Audible library as a locally viewable web gallery.
 
+- [Audiblez](https://github.com/santinic/audiblez) - Generate audiobooks from e-books.
+
+- [AudioNote](https://github.com/certified84/AudioNote) - An open source simple audio note taking app.
+
 ### ▷ Audio Editing
 
 - 🌟 [Tenacity](https://tenacityaudio.org) - It's an easy-to-use, cross-platform multi-track audio editor/recorder for Windows, Linux, and other operating systems
@@ -613,6 +639,10 @@ Note - It's still in Alpha stage
 - [Castafiore](https://github.com/sawyerf/Castafiore) - Castafiore is a music player that support Subsonic API.
 
 - [Black Candy](https://github.com/blackcandy-org/blackcandy) - Black Candy is a self-hosted music streaming server, your personal music center.
+
+- [Meelo](https://github.com/Arthi-chaud/Meelo) - Self-Hosted, Personal Music Server, designed for collectors and music maniacs.
+
+- [NSMusicS](https://github.com/Super-Badmen-Viper/NSMusicS) - NSMusicS NineSong Cloud-Native Music Server/ Full platform Client，support navidrome, jellyfin, emby
 
 ### ▷ Audio Torrenting
 
@@ -780,6 +810,8 @@ that would never normally get surfaced with their algorithms
 - [Playlistor](https://github.com/akornor/playlistor) - Self-hosted apple music to spotify playlist convertor (and vice versa).
 
 - [Musconv](http://musconv.com) - A fast and easy way to transfer & sync your music library.
+
+- [Dappled](https://github.com/taciturnaxolotl/dappled) - Spotify to Apple Music converter.
 
 ### ▷ Telegram Bots 🤖
 
@@ -1030,6 +1062,8 @@ that would never normally get surfaced with their algorithms
 - [Lyrics Grabber](https://github.com/IllusionMan1212/lyrics-grabbr) - App that listens to your notifications and provides lyrics for the currently playing song.
 
 - [LyricFever](https://github.com/aviwad/LyricFever) - Ultimate Spotify & Apple Music Lyrics experience for macOS (spiritual successor to LyricsX).
+
+- [Chronograph](https://github.com/Dzheremi2/Chronograph) - Sync lyrics of your loved songs.
 
 ### ▷ Music Production
 
