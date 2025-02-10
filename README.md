@@ -289,8 +289,6 @@ Note - It's still in Alpha stage
 
 - [Salt music Player](https://play.google.com/store/apps/details?id=com.salt.music) - It is a beautiful and open source high quality local music player.
 
-- [Apex Music](https://github.com/TheTerminatorOfProgramming/ApexMusic) - Material You foss Music Player
-
 - [Flowie Music](https://play.google.com/store/apps/details?id=com.flowiemusic.tiles.mp3.player.magictiles) - It offers a top-quality music listening experience with a super bass boost and synced lyrics support. The app supports multiple languages and offers features like cloud drive integration, Android TV casting, powerful equalizer, and a range of other functionalities for a delightful music experience.
 
 - [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music) - A beautiful and material designed offline music player for android / [Discord](https://discord.com/invite/yrHm9ervEC)
@@ -321,11 +319,7 @@ Note - It's still in Alpha stage
 
 - [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player) - A feature rich music appliation with a bit of classical taste alongside material design.
 
-- [Musicmax](https://github.com/TheMusicmax/Musicmax) - Musicmax is a Music Player application for Android 
-
-- [Music Player GO](https://github.com/enricocid/Music-Player-GO/) - Very simple local Android Music Player
-
-- [Apollo Music](https://github.com/nuclearfog/Apollo-Music/) - A fork from CyanogenMod's Apollo music app
+- [Music Player GO](https://github.com/enricocid/Music-Player-GO/) - Very simple local Android Music Player.
 
 - [Accord](https://t.me/AkaneDistributionStorage/3) - A sane music player built with media3 and material design library
 
