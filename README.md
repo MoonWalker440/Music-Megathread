@@ -333,7 +333,7 @@ Note - It's still in Alpha stage
 
 - [CuteMusic](https://github.com/sosauce/CuteMusic) - CuteMusic is a simple,lightweight and open-source offline music player app for Android.
 
-- [Satunes](https://github.com/antoinepirlot/Satunes) - Modern MP3 Player to listen your local music files on Android Lollipop 5.1.1+ & compatible with Android Auto.
+- [Satunes](https://codeberg.org/antoinepirlot/Satunes) - Modern MP3 Player to listen your local music files on Android Lollipop 5.1.1+ & compatible with Android Auto.
 
 - [Phocid](https://github.com/tjysunset/phocid) - A modern offline music player with familiar designs.
 
