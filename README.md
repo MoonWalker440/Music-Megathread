@@ -479,8 +479,6 @@ Note - It's still in Alpha stage
 
 - [Unminus](https://www.unminus.com/) - Free Music Download for Your Projects. No Rules. No Ads. Yes Artists. Curated Royalty Free Music.
 
-- [Qobuz dl](https://www.qobuz-dl.com/) - A frontend browser client for downloading music for Qobuz. [GitHub](https://github.com/QobuzDL/Qobuz-DL)
-
 - [Zotifarr](https://github.com/Xoconoch/zotifarr) - Rip from spotify directly to your music library regardless of your account.
 
 - [Spotizerr](https://github.com/Xoconoch/spotizerr) - Spotify music downloader with a lossless twist, based on the deezspot library
