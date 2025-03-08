@@ -247,7 +247,7 @@ Note - It's still in Alpha stage
 
 - [Datmusic](https://play.google.com/store/apps/details?id=tm.alashow.datmusic) - search, play and download high quality music!
 
-- [OuterTune](https://github.com/DD3Boh/OuterTune) - Material 3 YouTube Music client for Android.
+- [OuterTune](https://github.com/DD3Boh/OuterTune) / [Metrolist](https://github.com/mostafaalagamy/Metrolist) - Innertune Forks
 
 - [Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app!
 
