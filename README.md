@@ -179,6 +179,10 @@ Note - It's still in Alpha stage
 
 - [Vleer](https://github.com/vleerapp/Vleer) - Vleer is a lightweight, fast, privacy-first music app, offering a free alternative to Spotify or Apple Music
 
+- [EmberTune](https://github.com/dylanakp/embertune) - EmberTune aims to be a solid alternative to your streaming services without any ads.
+
+- [ytmdesktop2](https://github.com/Venipa/ytmdesktop2) - Unofficial Youtube Music Desktop App, with LastFM support.
+
 ### ▷ Offline Player
 
 - 🌟 [Wora](https://github.com/hiaaryan/wora) - A beautiful player for audiophiles 
@@ -279,6 +283,8 @@ Note - It's still in Alpha stage
 
 - [Bookify Audio](https://github.com/gokeihub/bookify_audio) - An open source cross-platform alternative to kabbik and kukuFm.
 
+- [Kreate](https://github.com/knighthat/Kreate) - A multilingual YouTube Music frontend for Android, prioritize performance.
+
 ### ▷ Offline Local Player
 
 - 🌟 [Namida](https://github.com/namidaco/namida) - A Feature-rich Material You Foss Music & Video Player app with Youtube Support
@@ -343,6 +349,8 @@ Note - It's still in Alpha stage
 
 - [Music You by DanielSevillano](https://github.com/DanielSevillano/music-you) - Another offline music player.
 
+- [LOS Player](https://github.com/RRechz/LOS-Player) - Native music media player ported from LineageOS 22 for other Android devices.
+
 ## ➤ IOS Apps 
 
 ### ▷ IOS Streaming Apps
@@ -362,6 +370,9 @@ Note - It's still in Alpha stage
 - [Flo](https://github.com/kepelet/flo) - An open source Navidrome client written in Swift.
 
 - [AmpFin](https://github.com/rasmuslos/AmpFin) - Native Jellyfin music player for iOS & iPadOS.
+
+- [Jellify](https://github.com/anultravioletaurora/Jellify) - A free and open source iOS music player(Android soon) for Jellyfin powered by React Native.
+
 
 ### ▷ IOS Podcast Player
 
@@ -564,6 +575,8 @@ Note - It's still in Alpha stage
 
 - [AudioNote](https://github.com/certified84/AudioNote) - An open source simple audio note taking app.
 
+- [slsk-batchdl](https://github.com/fiso64/slsk-batchdl) - An automatic downloader for Soulseek built with Soulseek.NET
+
 ### ▷ Audio Editing
 
 - 🌟 [Tenacity](https://tenacityaudio.org) - It's an easy-to-use, cross-platform multi-track audio editor/recorder for Windows, Linux, and other operating systems
@@ -604,6 +617,8 @@ Note - It's still in Alpha stage
 
 - [Lissen Android](https://github.com/GrakovNe/lissen-android) - Minimalistic Android client app for Audiobookshelf.
 
+- [Tsacdop-Fork](https://github.com/lojcs/tsacdop) - Tsacdop-Fork is a fork of Tsacdop, a podcast player developed with Flutter.
+
 ### ▷ Audio Servers
 
 - 🌟 [Swing Music](https://swingmusic.vercel.app) - Swing Music is a beautifully designed, self-hosted music streaming server
@@ -636,7 +651,12 @@ Note - It's still in Alpha stage
 
 - [Meelo](https://github.com/Arthi-chaud/Meelo) - Self-Hosted, Personal Music Server, designed for collectors and music maniacs.
 
-- [NSMusicS](https://github.com/Super-Badmen-Viper/NSMusicS) - NSMusicS NineSong Cloud-Native Music Server/ Full platform Client，support navidrome, jellyfin, emby
+- [NSMusicS](https://github.com/Super-Badmen-Viper/NSMusicS) - NSMusicS NineSong Cloud-Native Music Server/ Full platform Client，support navidrome, jellyfin, emby.
+
+- [Toutui](https://github.com/AlbanDAVID/Toutui) - Toutui is a TUI Audiobookshelf Client for Linux.
+
+- [Swingsonic](https://github.com/Prince527GitHub/Swingsonic) - A translation layer allowing clients from other music servers to work with Swing Music.
+
 
 ### ▷ Audio Torrenting
 
@@ -884,6 +904,8 @@ that would never normally get surfaced with their algorithms
 - [Listen to Wikipedia](http://listen.hatnote.com/) - Wikipedia Recent Changes Feed Sounds
 
 - [tree.fm](https://www.tree.fm/) - Ambient Forest Sounds
+
+- [Atmoify](https://github.com/bluegoosemedia/atmoify) - Atmoify is a web application that allows users to create their perfect atmospheric environment for working, studying, or relaxing.
 
 ### ▷ Podcasts / Radio 📻
 
