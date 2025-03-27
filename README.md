@@ -753,6 +753,10 @@ that would never normally get surfaced with their algorithms
 
 - 🌟 [SongTube](https://github.com/SongTube/SongTube-App) - A new beautiful and fast application made in Flutter, it supports an almost full original experience, with many features music oriented features, including a full music player.
 
+- 🌟 [DAB Music](https://dab-music.vercel.app) - A modern high-resolution audio player that lets you search, stream, or download any song in up to 24bit/192kHz (FLAC) for exceptional sound quality and an immersive listening experience.
+
+- 🌟 [Echoirx](https://github.com/imjyotiraditya/echoirx) - A Material You music downloader for Android.
+
 - [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify / Gaana / Youtube Music / Jio Saavn / SoundCloud.
 
 - [Spotdl](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found)
