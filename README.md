@@ -239,9 +239,7 @@ Note - It's still in Alpha stage
 
 - 🌟 [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - A music app designed to bring you ad-free tunes from various sources
 
-- 🌟 [Echo : Music Player](https://github.com/brahmkshatriya/echo) - An Extension based online & offline Music Player for Android, with a clean and simple UI
-
-- 🌟 [Ri Music](https://github.com/fast4x/RiMusic) - A multilingual Android application for streaming music from YouTube Music.
+- 🌟 [Echo : Music Player](https://github.com/brahmkshatriya/echo) - An Extension based online & offline Music Player for Android, with a clean and simple UI.
 
 - 🌟 [PaxMusic](https://t.me/PaxMusicApp) - Ad free Music Streaming App for everyone.
 
