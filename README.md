@@ -235,7 +235,7 @@ Note - It's still in Alpha stage
 
 - 🌟 [Saturn Mobile](https://github.com/SaturnMusic/mobile) / 🌟 [Refreezer](https://github.com/DJDoubleD/refreezer) - Alternative Deezer music streaming & downloading client, based on Freezer.
 
-- [Deezer Mod](https://github.com/PetitPrinc3/Alchemy) - An alternative to the Deezer App providing premium features to free accounts using both public and internal Deezer APIs.
+- [OuterTune](https://github.com/DD3Boh/OuterTune) / [Metrolist](https://github.com/mostafaalagamy/Metrolist) - Innertune Forks
 
 - 🌟 [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - A music app designed to bring you ad-free tunes from various sources
 
@@ -245,13 +245,13 @@ Note - It's still in Alpha stage
 
 - 🌟 [PaxMusic](https://t.me/PaxMusicApp) - Ad free Music Streaming App for everyone.
 
+- [Deezer Mod](https://github.com/PetitPrinc3/Alchemy) - An alternative to the Deezer App providing premium features to free accounts using both public and internal Deezer APIs.
+
 - [QobuzDownloaderX Mobile](https://github.com/JemPH/QobuzDownloaderX-Mobile) - A mobile version of QBDLX application for high-quality music streaming and downloading files from Qobuz.
 
 - [Gyawun](https://github.com/sheikhhaziq/gyavun) - A Flutter application for streaming music from Jio Saavn and YouTube Music
 
 - [Datmusic](https://play.google.com/store/apps/details?id=tm.alashow.datmusic) - search, play and download high quality music!
-
-- [OuterTune](https://github.com/DD3Boh/OuterTune) / [Metrolist](https://github.com/mostafaalagamy/Metrolist) - Innertune Forks
 
 - [Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app!
 
