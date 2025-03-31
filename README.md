@@ -235,7 +235,7 @@ Note - It's still in Alpha stage
 
 - 🌟 [Saturn Mobile](https://github.com/SaturnMusic/mobile) / 🌟 [Refreezer](https://github.com/DJDoubleD/refreezer) - Alternative Deezer music streaming & downloading client, based on Freezer.
 
-- [OuterTune](https://github.com/DD3Boh/OuterTune) / [Metrolist](https://github.com/mostafaalagamy/Metrolist) - Innertune Forks
+- 🌟 [OuterTune](https://github.com/DD3Boh/OuterTune) / [Metrolist](https://github.com/mostafaalagamy/Metrolist) - Innertune Forks
 
 - 🌟 [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - A music app designed to bring you ad-free tunes from various sources
 
