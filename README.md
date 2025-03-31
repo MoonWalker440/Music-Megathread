@@ -967,6 +967,8 @@ that would never normally get surfaced with their algorithms
 
 - [Fluentcast](https://fluentcast.luandersonn.com/) - A beautiful, fast, responsive, free and Ad-free podcast app designed for Windows 11.
 
+- [ScrobbleRadio](https://scrobblerad.io) - Your music discovery secret weapon. Curated radio from around the world for those serious about scrobbling music. With Apple Carplay support. 
+
 ### ▷ Music Tracking / Discovery 
 
 - 🌟 [Soundhound](https://play.google.com/store/apps/details?id=com.melodis.midomiMusicIdentifier.freemium) - Music discovery, identification, & voice-controlled player
