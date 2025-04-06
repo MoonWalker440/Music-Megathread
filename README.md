@@ -283,6 +283,8 @@ Note - It's still in Alpha stage
 
 - [Kreate](https://github.com/knighthat/Kreate) - A multilingual YouTube Music frontend for Android, prioritize performance.
 
+- [Shazarr](https://github.com/cstaelen/shazarr) - Shazarr: a mobile app providing Shazam song recognition service with Tidarr (Self hosted tidal media downloader) integration
+
 ### ▷ Offline Local Player
 
 - 🌟 [Namida](https://github.com/namidaco/namida) - A Feature-rich Material You Foss Music & Video Player app with Youtube Support
@@ -490,7 +492,9 @@ Note - It's still in Alpha stage
 
 - [Zotifarr](https://github.com/Xoconoch/zotifarr) - Rip from spotify directly to your music library regardless of your account.
 
-- [Spotizerr](https://github.com/Xoconoch/spotizerr) - Spotify music downloader with a lossless twist, based on the deezspot library
+- [Spotizerr](https://github.com/Xoconoch/spotizerr) - Spotify music downloader with a lossless twist, based on the deezspot library.
+
+[Dl librescore](https://github.com/LibreScore/dl-librescore) - Download sheet music.
 
 ### ▷ Audio Tools
 
@@ -574,6 +578,10 @@ Note - It's still in Alpha stage
 - [AudioNote](https://github.com/certified84/AudioNote) - An open source simple audio note taking app.
 
 - [slsk-batchdl](https://github.com/fiso64/slsk-batchdl) - An automatic downloader for Soulseek built with Soulseek.NET
+
+- [AudioWagon](https://github.com/MoleMan1024/audiowagon) - AudioWagon will play audio files from an attached USB flash drive in cars equipped with Android Automotive OS.
+
+[Buzz](https://github.com/chidiwilliams/buzz) - Transcribe and translate audio offline on your personal computer. Powered by OpenAI's Whisper.
 
 ### ▷ Audio Editing
 
@@ -743,17 +751,18 @@ that would never normally get surfaced with their algorithms
 
 - [Octave Music](https://github.com/octave-music/frontend) - The Ad-free, premium music streaming site with no strings attached.
 
+- [Rauversion](https://github.com/rauversion/rauversion) - Rauversion is an open-source music platform that empowers artists to share, distribute, and monetize their music directly with fans.
+
 ### ▷ Downloader Apps
-
-- 🌟 [Spowlo](https://github.com/BobbyESP/Spowlo) - A Spotify songs downloader for Android made with Jetpack Compose, Material You and the spotDL Python library
-
-- 🌟 [Murglar](https://github.com/badmannersteam/murglar-downloads/) - Music player and downloader from Deezer, SoundCloud, VKontakte and Yandex Music
-
-- 🌟 [SongTube](https://github.com/SongTube/SongTube-App) - A new beautiful and fast application made in Flutter, it supports an almost full original experience, with many features music oriented features, including a full music player.
 
 - 🌟 [DAB Music](https://dab-music.vercel.app) - A modern high-resolution audio player that lets you search, stream, or download any song in up to 24bit/192kHz (FLAC) for exceptional sound quality and an immersive listening experience.
 
 - 🌟 [Echoirx](https://github.com/imjyotiraditya/echoirx) - A Material You music downloader for Android.
+
+- 🌟 [Murglar](https://github.com/badmannersteam/murglar-downloads/) - Music player and downloader from Deezer, SoundCloud, VKontakte and Yandex Music
+
+- [SongTube](https://github.com/SongTube/SongTube-App) - A new beautiful and fast application made in Flutter, it supports an almost full original experience, with many features music oriented features, including a full music player.
+
 
 - [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify / Gaana / Youtube Music / Jio Saavn / SoundCloud.
 
