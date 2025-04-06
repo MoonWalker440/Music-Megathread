@@ -1044,7 +1044,7 @@ that would never normally get surfaced with their algorithms
 
 ### ▷ Video Game Soundtracks 
 
-- [Ffshrine](https://forums.ffshrine.org/forumdisplay.php?f=72) / [Vgmdb](https://vgmdb.net/) / [Gameost](https://gameost.net/) / [Khinsider](https://downloads.khinsider.com/) / [Folksoundomy](https://archive.org/details/folksoundomy_gamesoundtracks)
+- [Ffshrine](https://forums.ffshrine.org/forumdisplay.php?f=72) / [Vgmdb](https://vgmdb.net/) / [Gameost](https://gameost.net/) / [Khinsider](https://downloads.khinsider.com/) ::[KhInsider DL Limit Bypass](https://github.com/weespin/KhinsiderDownloader) / [Folksoundomy](https://archive.org/details/folksoundomy_gamesoundtracks)
 
 - [ligaudio](https://web.ligaudio.ru/) - Soundtrack for cartoons
 
