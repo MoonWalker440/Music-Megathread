@@ -432,7 +432,7 @@ Note - It's still in Alpha stage
 
 - [Music Hi-Res](https://music-hires.blogspot.com/) - FLAC
 
-- [Mp3 Daddy](https://mp3-daddy.com/) - Mp3
+- [Flvto Click](https://flvto.click/) - Mp3
 
 - [Streamrip](https://github.com/nathom/streamrip) - Music downloader for Qobuz, Tidal, SoundCloud, and Deezer
 
