@@ -124,7 +124,7 @@
 
 - 🌟 [Ytmdesktop2](https://github.com/Venipa/ytmdesktop2) - Unofficial Youtube Music Desktop App, with LastFM support.
 
-- 🌟 [Neptune](https://github.com/uwu/neptune) / [Plugins](https://github.com/Inrixia/neptune-plugins) - An experimental client mod for TIDAL 
+- 🌟 [TidaLuna](https://github.com/Inrixia/TidaLuna) - Luna is a client mod for the TIDAL Client & successor to [Neptune](https://github.com/uwu/neptune).
 
 - 🌟 [Saturn PC](https://github.com/SaturnMusic/PC) - Alternative Deezer client 
 
