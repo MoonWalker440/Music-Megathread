@@ -233,13 +233,13 @@ Note - It's still in Alpha stage
 
 ### ▷ Android Streaming Apps 🎶
 
+- 🌟 [Echo : Music Player](https://github.com/brahmkshatriya/echo) / [Telegram](https://t.me/echo_extension) - An Extension based online & offline Music Player for Android, with a clean and simple UI.
+
 - 🌟 [Saturn Mobile](https://github.com/SaturnMusic/mobile) / 🌟 [Refreezer](https://github.com/DJDoubleD/refreezer) - Alternative Deezer music streaming & downloading client, based on Freezer.
 
 - 🌟 [OuterTune](https://github.com/DD3Boh/OuterTune) / [Metrolist](https://github.com/mostafaalagamy/Metrolist) - Innertune Forks
 
 - 🌟 [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - A music app designed to bring you ad-free tunes from various sources
-
-- 🌟 [Echo : Music Player](https://github.com/brahmkshatriya/echo) - An Extension based online & offline Music Player for Android, with a clean and simple UI.
 
 - 🌟 [PaxMusic](https://t.me/PaxMusicApp) - Ad free Music Streaming App for everyone.
 
