@@ -583,6 +583,8 @@ Note - It's still in Alpha stage
 
 [Buzz](https://github.com/chidiwilliams/buzz) - Transcribe and translate audio offline on your personal computer. Powered by OpenAI's Whisper.
 
+- [Lyric Listener](https://play.google.com/store/apps/details?id=dev.optimus.lyricslistener) - View synced/plain lyrics of currently playing songs in a floating popup window.
+
 ### ▷ Audio Editing
 
 - 🌟 [Tenacity](https://tenacityaudio.org) - It's an easy-to-use, cross-platform multi-track audio editor/recorder for Windows, Linux, and other operating systems
