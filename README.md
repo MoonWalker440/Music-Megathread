@@ -589,6 +589,10 @@ Note - It's still in Alpha stage
 
 - [Lyric Listener](https://play.google.com/store/apps/details?id=dev.optimus.lyricslistener) - View synced/plain lyrics of currently playing songs in a floating popup window.
 
+- [Syncra](https://github.com/jaylex32/Syncra) - Syncra is a cross-platform desktop app that syncs Spotify, Deezer, or Tidal playlists to your Plex library. It lets you manage, merge, back up, and edit Plex playlists with ease—no install needed. Just download and run.
+
+
+
 ### ▷ Audio Editing
 
 - 🌟 [Tenacity](https://tenacityaudio.org) - It's an easy-to-use, cross-platform multi-track audio editor/recorder for Windows, Linux, and other operating systems
