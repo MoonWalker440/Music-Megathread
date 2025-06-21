@@ -189,7 +189,7 @@ Note - It's still in Alpha stage
 
 ### ▷ Offline Player
 
-- 🌟 [Wora](https://github.com/hiaaryan/wora) - A beautiful player for audiophiles 
+- 🌟 [Wora](https://github.com/wora-player/wora) - A beautiful player for audiophiles 
 
 - 🌟 [Swing Music](https://swingmusic.vercel.app/) - A beautiful, self-hosted music player for your local audio files / [GitHub](https://github.com/swing-opensource/swingmusic)
 
