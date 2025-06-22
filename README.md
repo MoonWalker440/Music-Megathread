@@ -75,8 +75,6 @@
 
 - 🌟 [xManager](https://github.com/Team-xManager/xManager) - The Ultimate Music Streaming Experience that offers unlimited skips, ad-free listening, and much more.
 
-- 🌟 [Spotube](https://spotube.krtirtho.dev/) - A fast, modern, lightweight & efficient Spotify Music Client for every platform
-
 - [Blade](https://github.com/vhaudiquet/BladePlayer) - An open source music player for Android, allowing you to play music from multiple services
 
 - [JetiSpot](https://github.com/iTaysonLab/jetispot) - Experimental UNOFFICIAL Spotify client for Android
