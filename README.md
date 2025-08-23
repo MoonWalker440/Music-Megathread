@@ -219,7 +219,7 @@ Note - It's still in Alpha stage
 
 - [MPD](https://www.musicpd.org/) - Music Player Daemon (MPD) is a flexible, powerful, server-side application for playing music. [Clients](https://www.musicpd.org/clients/)
 
-- [tuisic](https://github.com/saubuny/tuisic) - Terminal Music Player
+- [tuisic](https://github.com/Dark-Kernel/tuisic) - Terminal Music Player
 
 - [Musicpod](https://github.com/ubuntu-flutter-community/musicpod) - Music, radio, television and podcast player for Ubuntu, Windows, MacOs and Android
 
