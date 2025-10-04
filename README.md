@@ -365,6 +365,10 @@ Note - It's still in Alpha stage
 
 - [YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate) - The best tweak for YouTube Music iOS.
 
+### ▷ IOS Offline Local Player
+
+- [Cosmos Music Player](https://github.com/clquwu/Cosmos-Music-Player) - A free and open source music player for iOS.
+
 ### ▷ IOS Audio Servers
 
 - [Ambry](https://github.com/ambry-app/ambry) - Self-hosted audiobook streaming server.
