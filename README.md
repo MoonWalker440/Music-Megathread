@@ -163,7 +163,9 @@ Note - It's still in Alpha stage
 
 - [dzr](https://github.com/yne/dzr) - Accountless deezer.com Player (CLI & VSCode)
 
-- [Lofi](https://github.com/dvx/lofi) - A mini Spotify player with WebGL visualizations 
+- [Lofi](https://github.com/dvx/lofi) - A mini Spotify player with WebGL visualizations
+
+- [LyricGlow](https://github.com/ateymoori/lyricglow) - Real-time synchronized lyrics with word-by-word glow effects! Supports Spotify, Apple Music, and YouTube Music with artist metadata and RTL language support.
 
 - [feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player 
 
