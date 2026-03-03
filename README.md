@@ -88,7 +88,7 @@
 ### ➤ Spotify Tools
 
 - 🌟 [Spicetify.app](https://spicetify.app) / 
-[Lyricify](https://github.com/WXRIW/Lyricify-App) / [Spotify Lyrics](https://github.com/mantou132/Spotify-Lyrics) / [Spotify Tools](https://spotifytools.romanello.xyz/) / [Spotify Cloud](https://spotifycloud.zamar-roura.com/) / [SpotiStat](https://spotistats.app/) / [Spotr](https://github.com/XDGFX/spotr) / [Versefy](https://versefy.app/) / [Exportify](https://github.com/watsonbox/exportify) / [Spottr](https://github.com/Spiderpig86/spottr) / [Spytify](https://jwallet.github.io/spy-spotify/) / [spotify_to_ytmusic](https://github.com/sigma67/spotify_to_ytmusic) / [spotifyplaylistrandomizer](https://stevenaleong.com/tools/spotifyplaylistrandomizer)
+[Lyricify](https://github.com/WXRIW/Lyricify-App) / [Spotify Lyrics](https://github.com/mantou132/Spotify-Lyrics) / [Spotify Tools](https://spotifytools.romanello.xyz/) / [Spotify Cloud](https://spotifycloud.zamar-roura.com/) / [SpotiStat](https://spotistats.app/) / [Spotr](https://github.com/XDGFX/spotr) / [Versefy](https://versefy.app/) / [Exportify](https://github.com/watsonbox/exportify) / [Spottr](https://github.com/Spiderpig86/spottr) / [Spytify](https://jwallet.github.io/spy-spotify/) / [spotify_to_ytmusic](https://github.com/sigma67/spotify_to_ytmusic) / [spotify_to_tidal](https://github.com/spotify2tidal/spotify_to_tidal) / [spotifyplaylistrandomizer](https://stevenaleong.com/tools/spotifyplaylistrandomizer)
 
 - [SpotifySyncWall](https://github.com/genricoloni/SpotifySyncWall) - Currently Playing Spotify Song As Wallpaper.
 
@@ -845,6 +845,8 @@ that would never normally get surfaced with their algorithms
 - [Musconv](http://musconv.com) - A fast and easy way to transfer & sync your music library.
 
 - [Dappled](https://github.com/taciturnaxolotl/dappled) - Spotify to Apple Music converter.
+
+- [spotify_to_tidal](https://github.com/spotify2tidal/spotify_to_tidal) - A command line tool for importing your Spotify playlists into Tidal, particularly suited for periodic synchronisation of very large collections.
 
 ### ▷ Telegram Bots 🤖
 
