@@ -589,6 +589,8 @@ Note - It's still in Alpha stage
 
 - [Syncra](https://github.com/jaylex32/Syncra) - Syncra is a cross-platform desktop app that syncs Spotify, Deezer, or Tidal playlists to your Plex library. It lets you manage, merge, back up, and edit Plex playlists with ease—no install needed. Just download and run.
 
+- [tidal-dedup](https://github.com/squadgazzz/tidal-dedup) - CLI tool to find and remove duplicate tracks from Tidal playlists and favorites with multiple detection strategies.
+
 
 
 ### ▷ Audio Editing
