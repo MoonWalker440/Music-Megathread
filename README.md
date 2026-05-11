@@ -184,6 +184,8 @@ Note - It's still in Alpha stage
 - [EmberTune](https://github.com/dylanakp/embertune) - EmberTune aims to be a solid alternative to your streaming services without any ads.
 
 - [ytmdesktop2](https://github.com/Venipa/ytmdesktop2) - Unofficial Youtube Music Desktop App, with LastFM support.
+  
+- [QBZ](https://github.com/vicrodh/qbz) - A native, full-featured hi-fi Qobuz desktop player for Linux, with fast, bit-perfect audio playback.
 
 ### ▷ Offline Player
 
