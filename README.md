@@ -1020,6 +1020,8 @@ that would never normally get surfaced with their algorithms
 
 - [Discogs](https://www.discogs.com/) - Discover music on Discogs, the largest online music database
 
+- [SongSuey](https://songsuey.com) - Free, no-signup database of who wrote and produced every song: per-track lyricist, composer, producer and performer credits verified against primary sources, plus an authorship score per artist.
+
 - [Has It leaked](https://hasitleaked.com/) - Stay updated on album downloads, leaks, streams and releases
 
 - [Zensation](https://play.google.com/store/apps/details?id=com.piggyapps.zensation) - Discover over 200 sounds and create the perfect background atmosphere.
