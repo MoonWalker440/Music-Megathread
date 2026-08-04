@@ -104,6 +104,8 @@
 
 - [SpotTransfer](https://github.com/Pushan2005/SpotTransfer) - Spotify to YT-Music Migration Tool.
 
+- [PlaylistPro](https://playlistpro.pro) - Organize your liked songs or any playlist: split into multiple playlists, sort by BPM, key and audio features, remove duplicates, bulk-move tracks, and view listening insights.
+
 ### ➤ Spotify Themes
 
 - 🌟 [Spotify Customizer](https://github.com/Darkempire78/Spotify-Customizer) / [Spicetify Bloom](https://github.com/nimsandu/spicetify-bloom) / [Spicetify Fluent](https://github.com/williamckha/spicetify-fluent) / [Colorify](https://colorify.live/) / [Nord-Spotify](https://github.com/Tetrax-10/Nord-Spotify)
