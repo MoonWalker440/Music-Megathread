@@ -526,6 +526,9 @@ Note - It's still in Alpha stage
 - [Riffusion](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
 
 - [Musetree](https://github.com/stevenwaterman/musetree) - AI Music Generation for the Real World
+  
+- [8D Audio Generator](https://soniclab.io/tools/8d-audio) - Create 8D Audios
+
 
 - [Lame](http://lame.sourceforge.net/) - A high quality free and open-source MP3 encoder
 
@@ -538,6 +541,8 @@ Note - It's still in Alpha stage
 - [Infinite Remixer](https://github.com/musikalkemist/infiniteremixer) - It's a Python application that creates remixes, patching together multiple songs
 
 - [Tuner](https://github.com/thetwom/Tuner/) - App for tuning musical instruments
+  
+- [Soniclab](https://soniclab.io/) - Free Online Audio Editor for Creators
 
 - [Mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes
 
