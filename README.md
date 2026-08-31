@@ -994,6 +994,8 @@ that would never normally get surfaced with their algorithms
 
 - Song Discovery Tools - [Maroofy](https://maroofy.com/) / [Dubolt](https://dubolt.com/)
 
+- [cosine.club](https://cosine.club/) - Similarity search for electronic and underground records, matched on audio rather than genre tags
+
 - [Discover Quickly](https://discoverquickly.com) - Music discovery for Spotify 
 
 - [SoundtrackTracklist](https://soundtracktracklist.com/) - Soundtrack Song Lists
