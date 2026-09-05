@@ -1100,6 +1100,8 @@ that would never normally get surfaced with their algorithms
 
 - [LyricFever](https://github.com/aviwad/LyricFever) - Ultimate Spotify & Apple Music Lyrics experience for macOS (spiritual successor to LyricsX).
 
+- [Lyrimuse](https://github.com/Yudaotor/lyrimuse) - Word-synced desktop lyrics on macOS for Apple Music, Spotify, QQ Music, NetEase Cloud Music, Kugou and YouTube Music / Spotify Web in the browser, with translation and romanization.
+
 - [Chronograph](https://github.com/Dzheremi2/Chronograph) - Sync lyrics of your loved songs.
 
 ### ▷ Music Production
