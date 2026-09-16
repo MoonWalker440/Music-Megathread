@@ -434,7 +434,7 @@ Note - It's still in Alpha stage
 
 - [Music Hi-Res](https://music-hires.blogspot.com/) - FLAC
 
-- [Flvto Click](https://flvto.click/) - Mp3
+- [Flvto Link](https://flvto.link/) - Mp3
 
 - [Streamrip](https://github.com/nathom/streamrip) - Music downloader for Qobuz, Tidal, SoundCloud, and Deezer
 
