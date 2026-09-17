@@ -970,7 +970,7 @@ that would never normally get surfaced with their algorithms
 
 - [radiotimeapp](https://radiotimeapp.com/) - Listen to plenty of radio stations from all around the world
 
-- [lofiatc](https://www.lofiatc.com) - Lofi Sounds with LIVE Air Traffic Controll
+- [Final Approach Radio](https://finalapproach.fm) - Lofi beats over air traffic control recorded in person, one album per airport (successor to the defunct lofiatc)
 
 - [Anytime Podcast Player](https://github.com/amugofjava/anytime_podcast_player) - Simple, easy to use Podcast player app written in Flutter and Dart.
 
