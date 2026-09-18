@@ -605,6 +605,8 @@ Note - It's still in Alpha stage
 
 - [Audioalter](https://audioalter.com) - A collection of easy-to-use web tools for all your audio files
 
+- [Reverse Audio Tool](https://reverseaudiotool.com/) - Reverse audio files online with instant preview and download
+
 - [Adobe Enhance](https://podcast.adobe.com/enhance) - Speech Enhancer
 
 - [Element](https://kushview.net/element/) - Powerful Audio Editor
