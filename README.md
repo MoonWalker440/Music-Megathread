@@ -589,6 +589,8 @@ Note - It's still in Alpha stage
 
 - [Syncra](https://github.com/jaylex32/Syncra) - Syncra is a cross-platform desktop app that syncs Spotify, Deezer, or Tidal playlists to your Plex library. It lets you manage, merge, back up, and edit Plex playlists with ease—no install needed. Just download and run.
 
+- [The Audio Stuff Tools](https://theaudiostuff.com/tools/) - Free browser audio toolkit: tone generator, speaker & headphone test, ABX blind test, hi-res spectrum checker, online EQ and audio calculators
+
 
 
 ### ▷ Audio Editing
