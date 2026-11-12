@@ -763,6 +763,8 @@ that would never normally get surfaced with their algorithms
 
 ### ▷ Downloader Apps
 
+- [.pod.](https://www.maya-at-sea.app/pod/) - Free macOS app to browse Apple Music and save tracks, albums and playlists locally, with metadata and artwork. Supports Apple Silicon and Intel; requires macOS 14+ and an Apple Music subscription.
+
 - 🌟 [DAB Music](https://dab-music.vercel.app) - A modern high-resolution audio player that lets you search, stream, or download any song in up to 24bit/192kHz (FLAC) for exceptional sound quality and an immersive listening experience.
 
 - 🌟 [Echoirx](https://github.com/imjyotiraditya/echoirx) - A Material You music downloader for Android.
